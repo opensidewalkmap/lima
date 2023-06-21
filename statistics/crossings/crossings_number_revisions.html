@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+
+    <head>
+
+    
+    <div class="topnav" id="stTopnav">
+        <a href="https://kauevestena.github.io/opensidewalkmap_beta/" class="active">Home</a>
+    <a href="https://kauevestena.github.io/opensidewalkmap_beta/statistics/sidewalks/sidewalks_smoothness_x_surface.html">Sidewalks Charts</a>
+<a href="https://kauevestena.github.io/opensidewalkmap_beta/statistics/crossings/crossings_smoothness_x_surface.html">Crossings Charts</a>
+<a href="https://kauevestena.github.io/opensidewalkmap_beta/statistics/kerbs/kerbs_x_paving_x_wheelchair.html">Kerbs Charts</a>
+
+   <a href="javascript:void(0);" class="icon" onclick="responsiveTopNav()">
+     <i class="fa fa-bars"></i>
+   </a>
+ </div>
+ 
+ <div class="sidebar">
+  <a href="https://kauevestena.github.io/opensidewalkmap_beta/statistics/sidewalks/sidewalks_smoothness_x_surface.html">Surface x Smoothness</a>
+  <a href="https://kauevestena.github.io/opensidewalkmap_beta/statistics/sidewalks/sidewalks_surface.html">Surface Type</a>
+  <a href="https://kauevestena.github.io/opensidewalkmap_beta/statistics/sidewalks/sidewalks_smoothness.html">Smoothness Condition</a>
+  <a href="https://kauevestena.github.io/opensidewalkmap_beta/statistics/sidewalks/sidewalks_tactile_paving.html">Tactile Paving P.</a>
+  <a href="https://kauevestena.github.io/opensidewalkmap_beta/statistics/sidewalks/sidewalks_width.html">Width Values</a>
+  <a href="https://kauevestena.github.io/opensidewalkmap_beta/statistics/sidewalks/sidewalks_incline.html">Incline Values</a>
+  <a href="https://kauevestena.github.io/opensidewalkmap_beta/statistics/sidewalks/sidewalks_survey_year.html">Year of Survey Image</a>
+  <a href="https://kauevestena.github.io/opensidewalkmap_beta/statistics/sidewalks/sidewalks_yr_moth_update.html">Year and Month Of Update</a>
+  <a href="https://kauevestena.github.io/opensidewalkmap_beta/statistics/sidewalks/sidewalks_number_revisions.html">Number Of Revisions</a>
+  <a href="https://kauevestena.github.io/opensidewalkmap_beta/statistics/crossings/crossings_smoothness_x_surface.html">Surface x Smoothness</a>
+  <a href="https://kauevestena.github.io/opensidewalkmap_beta/statistics/crossings/crossings_survey_year.html">Year of Survey Image</a>
+  <a href="https://kauevestena.github.io/opensidewalkmap_beta/statistics/crossings/crossings_yr_moth_update.html">Year and Month Of Update</a>
+  <a href="https://kauevestena.github.io/opensidewalkmap_beta/statistics/crossings/crossings_number_revisions.html">Number Of Revisions</a>
+</div>
+
+
+
+    <link rel="stylesheet" href="../../oswm_codebase/assets/styles/stats_styles.css">
+    <script src="../../oswm_codebase/assets/webscripts/stats_funcs.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    
+    <title>OSWM Dashboard</title>
+
+    
+  
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.8.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}, "title": {"fontSize": 24}}, "data": {"name": "data-7e72eb48227b5ebb59fdc3606713f009"}, "mark": {"type": "bar"}, "encoding": {"tooltip": [{"field": "percent", "type": "nominal"}], "x": {"field": "n_revs type", "sort": "-x", "type": "quantitative"}, "y": {"field": "count", "type": "quantitative"}}, "height": 300, "params": [{"name": "param_13", "select": {"type": "interval", "encodings": ["x", "y"]}, "bind": "scales"}], "title": "Year and Month Of Update (crossings)", "width": 650, "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json", "datasets": {"data-7e72eb48227b5ebb59fdc3606713f009": [{"n_revs type": 1, "count": 1159, "percent": "72.12%"}, {"n_revs type": 3, "count": 257, "percent": "15.99%"}, {"n_revs type": 2, "count": 83, "percent": "5.16%"}, {"n_revs type": 4, "count": 78, "percent": "4.85%"}, {"n_revs type": 5, "count": 19, "percent": "1.18%"}, {"n_revs type": 6, "count": 10, "percent": "0.62%"}, {"n_revs type": 13, "count": 1, "percent": "0.06%"}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
