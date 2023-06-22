@@ -1,0 +1,669 @@
+{
+    "sidewalks": {
+        "highway": [
+            "footway",
+            "residential",
+            "service",
+            "steps",
+            "path",
+            "living_street",
+            "construction",
+            "pedestrian"
+        ],
+        "crossing": [
+            NaN,
+            "zebra",
+            "marked"
+        ],
+        "source": [
+            NaN,
+            "landsat",
+            "nombre: TELECOM IP",
+            "Bing"
+        ],
+        "access": [
+            NaN,
+            "private",
+            "permit",
+            "no",
+            "permissive"
+        ],
+        "name": [
+            NaN,
+            "Pasaje Marcahuasi",
+            "Pascual Saco Oliveros",
+            "Pasaje Río Perené",
+            "Jirón Enrique Guzmán y Valle",
+            "Santiago Tavara",
+            "Sicuani",
+            "Pasaje Alcazar",
+            "Avenida Mantaro",
+            "Calle Santa Rosa",
+            "Pasaje Los Andes",
+            "Pasaje San Judas Tadeo",
+            "Pasaje Urubamba",
+            "Pasaje Los Cabildantes",
+            "Pasaje San Martin",
+            "Zoila Caceres",
+            "Jirón Vizcardo y Guzmán",
+            "Pasaje Husares de Junin",
+            "Jirón Los Inkas",
+            "Pasaje Los Rios",
+            "Pasaje Cerro el Pino",
+            "Prolongación Inca Garcilazo",
+            "Jose de la Torre Ugarte",
+            "Santa Isabel Flores de Oliva",
+            "Calle Punta Mermete",
+            "Calle Manuel Odria",
+            "Pasaje Jose María Arguedas",
+            "Los Nenufares",
+            "Pasaje Santa Anita",
+            "Union",
+            "Ensenada",
+            "Pasaje Pardo y Aliaga",
+            "Pasaje Enrique Meiggs",
+            "Pasaje Alexander Von Humboldt",
+            "Pasaje Sebastián Lorente",
+            "Del Carpio",
+            "Pasaje Angamos",
+            "Jirón de la Unión",
+            "Calle Sechin",
+            "Calle 3",
+            "Mora",
+            "Pasaje Progreso",
+            "Pasaje Bustamante y Rivero",
+            "Jirón Ciurliza",
+            "Jirón Golgota",
+            "Jirón Lima",
+            "Calle Ruy Díaz",
+            "Pasaje Vizcaya",
+            "Calle Parque Medalla Milagrosa",
+            "Hades",
+            "Calle 40",
+            "Calle Uzquil",
+            "Pasaje 20 de Agosto",
+            "Calle La Fuente",
+            "Pasaje Felipe Sassone",
+            "Punta Malpelo",
+            "Pasaje Los Cedros",
+            "Pasaje Euro",
+            "Pasaje Tungasuca",
+            "Puente Municipal San Martín",
+            "De la Cruz",
+            "Pasaje Primero",
+            "Alameda 28 de Julio",
+            "Pasaje Baleares",
+            "Calle Sinchi Roca",
+            "Avenida Victor Alzamora",
+            "Calle 43A",
+            "Pasaje Cruz",
+            "Pasaje Ricardo Palma",
+            "Pasaje Anacleto Viani",
+            "Pasaje Eneas",
+            "José Baquíjano y Carrillo",
+            "Pasaje Florecillas",
+            "Puente Pocitos",
+            "Alameda Julio Ramón Ribeyro",
+            "Pasaje Pedro Benvenutto Murrieta",
+            "Cecilia del Risco",
+            "Jirón Hipólito Unánue",
+            "Pasaje Parque Uchumayo",
+            "Pasaje San German",
+            "Calle Los Crisantemos",
+            "Calle Los Gladiolos",
+            "Pasaje Los Lirios",
+            "Pasaje San Martín de Porres",
+            "Pasaje Juan Masías",
+            "Pasaje Santa Rosa",
+            "Pasaje San Juan",
+            "Pasaje Inmaculada Concepción",
+            "Pasaje Misti",
+            "Pasaje Lourdes",
+            "Pasaje María Rosario Araoz",
+            "Pasaje Alameda Ciro Alegría",
+            "Pasaje Parque La India",
+            "Pasaje Olivos",
+            "Pasaje Ricardo Grau",
+            "Pasaje Sérvulo Gutiérrez",
+            "Alameda de las Bellas Artes",
+            "Pasaje Benjamín Doig",
+            "Pasaje Simón Ortiz Vega",
+            "Pasaje H43",
+            "Pasaje Pichu",
+            "Pasaje Los Girasoles",
+            "Pasaje Alberto Abenel",
+            "Pasaje Junin",
+            "Jirón Lloque Yupanqui",
+            "Pasaje 3 de Mayo",
+            "Pasaje Atahualpa",
+            "Pasaje San Pedro",
+            "Marañon",
+            "3 de Mayo",
+            "Huancayo",
+            "Pasaje Chanchamayo",
+            "Pasaje Cuzco",
+            "Cahuide",
+            "Pasaje Buenos Aires",
+            "Luya",
+            "Jose María Arguedas",
+            "Pasaje Cerro Rico",
+            "Pasaje Alto Peru",
+            "Sector 26",
+            "Calle Tarma",
+            "Calle Independencia",
+            "Pasaje Carlos Arrieta",
+            "Javier Heraud",
+            "Pasaje Merlot",
+            "Pasaje Quebranta",
+            "Pasaje 9 de Diciembre",
+            "Pasaje Ayacucho",
+            "Pasaje Amauta",
+            "Pasaje interior",
+            "Jirón Alto de la Alianza",
+            "Avenida Sanchez Cerro",
+            "Calle 16",
+            "Pasaje Central",
+            "Salida de emergencia",
+            "Nivel 1",
+            "Solo emergencia",
+            "Nivel 2",
+            "Pasaje Ernesto Gianoli",
+            "Pasaje Los Alamos",
+            "Pasaje Italia",
+            "Pasaje Perú",
+            "Pasaje Segundo",
+            "Pasaje Puerto Chicama",
+            "Calle Teniente Coronel G. Escudero O.",
+            "Pasaje Pisagua",
+            "Pasaje Jorge Vinatea Reinoso",
+            "Pasaje Alto Perú",
+            "Pasaje Periodista",
+            "Sector 27",
+            "Pasaje Los Faroles",
+            "Pasaje Jorge Chavez",
+            "Calle Los Libertadores",
+            "Pasaje Cajamarca",
+            "Pasaje Ica",
+            "Pasaje Huancavelica",
+            "Jirón Sergio Caller",
+            "Pasaje Las Dalias",
+            "Pasaje Santa Rita",
+            "Pasco",
+            "Jirón Talara",
+            "Pasaje 39",
+            "Calle Martín Benito Alfonso",
+            "Pasaje Los Nogales",
+            "Punta Playuelas",
+            "Acera de parque el cabildo",
+            "Acera en parque el mercurio peruano",
+            "Calle Las Frecias",
+            "Loma de las Petunias",
+            "Pasaje 5",
+            "Pasaje Alessandro Volta",
+            "Pasaje Bambú",
+            "Pasaje De La Cultura",
+            "Pasaje De La Fortaleza",
+            "Pasaje Antabamba",
+            "Pasaje Surimana",
+            "Rosa Noguera",
+            "Pasaje Albilla",
+            "Pasaje Borgoña",
+            "Pasaje Estremadura",
+            "Pasaje Cuenca",
+            "Pasaje 4",
+            "Pasaje 1",
+            "Pasaje Las Moreras",
+            "Calle Las Lilas",
+            "Pasaje Los Cascos",
+            "Calle 9 de Junio",
+            "Pasaje Chucuito",
+            "Pasaje Mancora",
+            "Pasaje Damaso I",
+            "Pasaje Bonifacio",
+            "Pasaje José Gabriel Condorcanqui",
+            "Pasaje Quiteiro",
+            "Pasaje Los Granados",
+            "Pasaje Pérez de Cuellar",
+            "Pasaje Jean Bazaine",
+            "Pasaje Tomas Catari",
+            "Pasaje Luis Basa",
+            "Pasaje B2",
+            "Pasaje César Mone",
+            "Calle José Manuel Ubalde",
+            "Calle 1",
+            "Pasaje Selene",
+            "Pasaje San Marcelo",
+            "Pasaje Punta Hierba Buena",
+            "Pasaje Punta Mermete",
+            "Pasaje Punta Zarate",
+            "Pasaje Safra",
+            "Pasaje San Gabriel",
+            "Pasaje San Jacinto",
+            "Pasaje San Antonio",
+            "Pasaje Santo Toribio",
+            "Pasaje Sausalito",
+            "Pasaje Clorinda Mato de Turner",
+            "Pasaje Enrique Camino Brent",
+            "Pasaje Ignacio Merino",
+            "Pasaje Alfredo Málaga Bresani",
+            "Pasaje Carlota Carvallo",
+            "Paasje Óscar Pacheco Quevedo",
+            "Pasaje Ing. Enrique Martinelli",
+            "Pasaje de la Escultura",
+            "Pasaje de la Arqueología",
+            "Pasaje Ing. Fernando Echeandia",
+            "Pasaje Cristina Gálvez",
+            "Pasaje Alberto Jochamowitz",
+            "Pasaje Teodoro Cron",
+            "Pasaje Julia Codesido",
+            "Pasaje Fernando Mesarina",
+            "Pasaje Arquitecto Roberto Hackert",
+            "Pasaje Eduardo Young Bazo",
+            "Plaza Marquina",
+            "Pasaje 21",
+            "Pasaje Félix Gavilán",
+            "Pasaje Andŕes Avelino Cáceres",
+            "Pasaje Francisco Bolognesi",
+            "Pasaje Sarmiento",
+            "Pasaje Las Americas"
+        ],
+        "foot": [
+            NaN,
+            "yes",
+            "designated",
+            "private",
+            "permissive",
+            "no"
+        ],
+        "crossing:island": [
+            NaN,
+            "yes"
+        ],
+        "wheelchair": [
+            NaN,
+            "yes",
+            "no"
+        ],
+        "bicycle": [
+            NaN,
+            "designated",
+            "yes",
+            "no",
+            "permissive",
+            "private"
+        ],
+        "surface": [
+            NaN,
+            "concrete",
+            "asphalt",
+            "paved",
+            "unpaved",
+            "paving_stones",
+            "wood",
+            "grass",
+            "compacted",
+            "concrete:plates",
+            "grass_paver",
+            "ground",
+            "gravel",
+            "sett",
+            "concrete:lanes"
+        ],
+        "motor_vehicle": [
+            NaN,
+            "yes",
+            "no"
+        ],
+        "ramp": [
+            NaN,
+            "yes"
+        ],
+        "horse": [
+            NaN,
+            "no",
+            "yes",
+            "private"
+        ],
+        "footway": [
+            "sidewalk"
+        ],
+        "maxspeed": [
+            NaN,
+            "30"
+        ],
+        "noname": [
+            NaN,
+            "yes"
+        ],
+        "alt_name": [
+            NaN,
+            "Avenida Incas",
+            "Calle Lugo",
+            "Wolf",
+            "Calle C1"
+        ],
+        "name:en": [
+            NaN,
+            "Incas",
+            "Emergency only"
+        ],
+        "lit": [
+            NaN,
+            "no",
+            "yes"
+        ],
+        "segregated": [
+            NaN,
+            "no"
+        ],
+        "oneway": [
+            NaN,
+            "no"
+        ],
+        "layer": [
+            NaN,
+            "1",
+            "2",
+            "-1",
+            "-3",
+            "0"
+        ],
+        "note": [
+            NaN,
+            "Otro puente se construyó en el 2014, el anterior fue construido metros antes",
+            "Entrada"
+        ],
+        "oneway:bicycle": [
+            NaN,
+            "no"
+        ],
+        "tunnel": [
+            NaN,
+            "yes",
+            "building_passage"
+        ],
+        "level": [
+            NaN,
+            "-1",
+            "1",
+            "2",
+            "4",
+            "0"
+        ],
+        "covered": [
+            NaN,
+            "yes"
+        ],
+        "material": [
+            NaN,
+            "concrete"
+        ],
+        "area": [
+            NaN,
+            "yes"
+        ],
+        "addr:inclusion": [
+            NaN,
+            "estimate"
+        ],
+        "incline": [
+            NaN,
+            "down",
+            "0%"
+        ],
+        "name:es": [
+            NaN,
+            "Solo emergencia"
+        ],
+        "step_count": [
+            NaN,
+            "3"
+        ],
+        "lanes": [
+            NaN,
+            "2"
+        ],
+        "construction": [
+            NaN,
+            "footway"
+        ],
+        "description": [
+            NaN,
+            "Solo peatonal"
+        ],
+        "check_date:surface": [
+            NaN,
+            "2022-11-12"
+        ],
+        "smoothness": [
+            NaN,
+            "excellent"
+        ]
+    },
+    "crossings": {
+        "crossing": [
+            NaN,
+            "traffic_signals",
+            "zebra",
+            "marked",
+            "unmarked",
+            "uncontrolled"
+        ],
+        "highway": [
+            "footway",
+            "construction",
+            "steps"
+        ],
+        "crossing_ref": [
+            NaN,
+            "zebra"
+        ],
+        "bicycle": [
+            NaN,
+            "yes",
+            "designated",
+            "permissive",
+            "no"
+        ],
+        "segregated": [
+            NaN,
+            "no"
+        ],
+        "traffic_calming": [
+            NaN,
+            "table"
+        ],
+        "crossing:island": [
+            NaN,
+            "yes",
+            "no"
+        ],
+        "kerb": [
+            NaN,
+            "flush",
+            "lowered"
+        ],
+        "crossing:markings": [
+            NaN,
+            "zebra",
+            "yes"
+        ],
+        "surface": [
+            NaN,
+            "concrete",
+            "asphalt",
+            "paving_stones",
+            "concrete:plates",
+            "paved"
+        ],
+        "level": [
+            NaN,
+            "-1",
+            "0",
+            "1"
+        ],
+        "tactile_paving": [
+            NaN,
+            "no"
+        ],
+        "wheelchair": [
+            NaN,
+            "no",
+            "yes"
+        ],
+        "access": [
+            NaN,
+            "permit"
+        ],
+        "foot": [
+            NaN,
+            "designated",
+            "yes"
+        ],
+        "motor_vehicle": [
+            NaN,
+            "no",
+            "yes"
+        ],
+        "footway": [
+            "crossing"
+        ],
+        "noname": [
+            NaN,
+            "yes"
+        ],
+        "horse": [
+            NaN,
+            "no"
+        ],
+        "lit": [
+            NaN,
+            "yes",
+            "no"
+        ],
+        "cycleway": [
+            NaN,
+            "crossing"
+        ],
+        "name": [
+            NaN,
+            "San Isidro - Barranco Run",
+            "Vía reservada",
+            "Juan Figari",
+            "Ciclovía Bartolomé Herrera",
+            "De la Cruz",
+            "Pasaje 21",
+            "Ciclovía La Marina"
+        ],
+        "tunnel": [
+            NaN,
+            "building_passage",
+            "yes",
+            "covered"
+        ],
+        "layer": [
+            NaN,
+            "1",
+            "-1",
+            "0"
+        ],
+        "oneway:bicycle": [
+            NaN,
+            "no"
+        ],
+        "construction": [
+            NaN,
+            "footway"
+        ],
+        "level:ref": [
+            NaN,
+            "Piso 2"
+        ],
+        "oneway": [
+            NaN,
+            "no"
+        ],
+        "smoothness": [
+            NaN,
+            "excellent"
+        ]
+    },
+    "kerbs": {
+        "crossing": [
+            "zebra",
+            NaN
+        ],
+        "highway": [
+            "crossing",
+            NaN,
+            "steps",
+            "footway"
+        ],
+        "kerb": [
+            "flush",
+            "lowered",
+            "raised",
+            "rolled",
+            NaN,
+            "yes"
+        ],
+        "barrier": [
+            NaN,
+            "kerb"
+        ],
+        "traffic_calming": [
+            NaN,
+            "table"
+        ],
+        "tactile_paving": [
+            NaN,
+            "no"
+        ],
+        "ramp": [
+            NaN,
+            "0"
+        ],
+        "bicycle": [
+            NaN,
+            "yes",
+            "no"
+        ],
+        "motor_vehicle": [
+            NaN,
+            "no"
+        ],
+        "wheelchair": [
+            NaN,
+            "yes",
+            "no"
+        ],
+        "access": [
+            NaN,
+            "no"
+        ],
+        "foot": [
+            NaN,
+            "yes"
+        ],
+        "horse": [
+            NaN,
+            "no"
+        ],
+        "footway": [
+            NaN,
+            "crossing"
+        ],
+        "surface": [
+            NaN,
+            "concrete"
+        ],
+        "area": [
+            NaN,
+            "yes"
+        ],
+        "layer": [
+            NaN,
+            "1"
+        ]
+    }
+}
