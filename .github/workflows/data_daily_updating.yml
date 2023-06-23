@@ -28,6 +28,8 @@ jobs:
       #### actions/checkout ____________________________________________________
       # @see https://github.com/actions/checkout
       - uses: actions/checkout@v3
+        with:
+         submodules: true
 
       #### setup-python ________________________________________________________
       # @see https://github.com/actions/setup-python
