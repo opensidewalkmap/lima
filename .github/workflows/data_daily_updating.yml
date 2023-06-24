@@ -28,8 +28,6 @@ jobs:
       #### actions/checkout ____________________________________________________
       # @see https://github.com/actions/checkout
       - uses: actions/checkout@v3
-        with:
-         submodules: true
 
       #### setup-python ________________________________________________________
       # @see https://github.com/actions/setup-python
@@ -46,7 +44,10 @@ jobs:
       - run: |
           git submodule init
           git submodule update
- 
+          cd oswm_codebase
+          git pull -r https://github.com/kauevestena/oswm_codebase
+          cd ..
+
       - run: python oswm_codebase/getting_data.py
       
       - run: python oswm_codebase/filtering_adapting_data.py
