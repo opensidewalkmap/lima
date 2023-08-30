@@ -458,6 +458,10 @@
             NaN,
             "zebra"
         ],
+        "source": [
+            NaN,
+            "http://www.lamolina.edu.pe/portada/html/acerca/mapa.htm"
+        ],
         "bicycle": [
             NaN,
             "yes",
@@ -553,7 +557,8 @@
             "Ciclovía Bartolomé Herrera",
             "De la Cruz",
             "Pasaje 21",
-            "Ciclovía La Marina"
+            "Ciclovía La Marina",
+            "Ingreso Peatonal 1"
         ],
         "tunnel": [
             NaN,

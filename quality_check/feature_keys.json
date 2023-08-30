@@ -43,6 +43,7 @@
         "crossing",
         "highway",
         "crossing_ref",
+        "source",
         "bicycle",
         "segregated",
         "traffic_calming",
