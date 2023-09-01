@@ -267,14 +267,6 @@
             "Pasaje Sarmiento",
             "Pasaje Las Americas"
         ],
-        "foot": [
-            NaN,
-            "yes",
-            "designated",
-            "private",
-            "permissive",
-            "no"
-        ],
         "crossing:island": [
             NaN,
             "yes"
@@ -291,6 +283,14 @@
             "no",
             "permissive",
             "private"
+        ],
+        "foot": [
+            NaN,
+            "yes",
+            "designated",
+            "private",
+            "permissive",
+            "no"
         ],
         "surface": [
             NaN,
