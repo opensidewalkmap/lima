@@ -34,7 +34,6 @@
         "name:es",
         "step_count",
         "lanes",
-        "construction",
         "description",
         "check_date:surface",
         "smoothness"
@@ -66,7 +65,6 @@
         "tunnel",
         "layer",
         "oneway:bicycle",
-        "construction",
         "level:ref",
         "oneway",
         "smoothness"

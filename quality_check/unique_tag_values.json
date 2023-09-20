@@ -7,7 +7,6 @@
             "steps",
             "path",
             "living_street",
-            "construction",
             "pedestrian"
         ],
         "crossing": [
@@ -423,10 +422,6 @@
             NaN,
             "2"
         ],
-        "construction": [
-            NaN,
-            "footway"
-        ],
         "description": [
             NaN,
             "Solo peatonal"
@@ -451,7 +446,6 @@
         ],
         "highway": [
             "footway",
-            "construction",
             "steps"
         ],
         "crossing_ref": [
@@ -575,10 +569,6 @@
         "oneway:bicycle": [
             NaN,
             "no"
-        ],
-        "construction": [
-            NaN,
-            "footway"
         ],
         "level:ref": [
             NaN,
