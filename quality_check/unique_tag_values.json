@@ -65,7 +65,7 @@
             "Pasaje Sebastián Lorente",
             "Del Carpio",
             "Pasaje Angamos",
-            "Jirón de la Unión",
+            "Jirón Panchos",
             "Calle Sechin",
             "Calle 3",
             "Mora",
@@ -277,8 +277,8 @@
         ],
         "bicycle": [
             NaN,
-            "designated",
             "yes",
+            "designated",
             "no",
             "permissive",
             "private"
