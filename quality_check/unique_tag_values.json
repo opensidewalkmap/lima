@@ -10,25 +10,25 @@
             "pedestrian"
         ],
         "crossing": [
-            NaN,
+            null,
             "zebra",
             "marked"
         ],
         "source": [
-            NaN,
+            null,
             "landsat",
             "nombre: TELECOM IP",
             "Bing"
         ],
         "access": [
-            NaN,
+            null,
             "private",
             "permit",
             "no",
             "permissive"
         ],
         "name": [
-            NaN,
+            null,
             "Pasaje Marcahuasi",
             "Pascual Saco Oliveros",
             "Pasaje Río Perené",
@@ -267,16 +267,16 @@
             "Pasaje Las Americas"
         ],
         "crossing:island": [
-            NaN,
+            null,
             "yes"
         ],
         "wheelchair": [
-            NaN,
+            null,
             "yes",
             "no"
         ],
         "bicycle": [
-            NaN,
+            null,
             "yes",
             "designated",
             "no",
@@ -284,7 +284,7 @@
             "private"
         ],
         "foot": [
-            NaN,
+            null,
             "yes",
             "designated",
             "private",
@@ -292,7 +292,7 @@
             "no"
         ],
         "surface": [
-            NaN,
+            null,
             "concrete",
             "asphalt",
             "paved",
@@ -309,16 +309,16 @@
             "concrete:lanes"
         ],
         "motor_vehicle": [
-            NaN,
+            null,
             "yes",
             "no"
         ],
         "ramp": [
-            NaN,
+            null,
             "yes"
         ],
         "horse": [
-            NaN,
+            null,
             "no",
             "yes",
             "private"
@@ -327,40 +327,40 @@
             "sidewalk"
         ],
         "maxspeed": [
-            NaN,
+            null,
             "30"
         ],
         "noname": [
-            NaN,
+            null,
             "yes"
         ],
         "alt_name": [
-            NaN,
+            null,
             "Avenida Incas",
             "Calle Lugo",
             "Wolf",
             "Calle C1"
         ],
         "name:en": [
-            NaN,
+            null,
             "Incas",
             "Emergency only"
         ],
         "lit": [
-            NaN,
+            null,
             "no",
             "yes"
         ],
         "segregated": [
-            NaN,
+            null,
             "no"
         ],
         "oneway": [
-            NaN,
+            null,
             "no"
         ],
         "layer": [
-            NaN,
+            null,
             "1",
             "2",
             "-1",
@@ -368,21 +368,21 @@
             "0"
         ],
         "note": [
-            NaN,
+            null,
             "Otro puente se construyó en el 2014, el anterior fue construido metros antes",
             "Entrada"
         ],
         "oneway:bicycle": [
-            NaN,
+            null,
             "no"
         ],
         "tunnel": [
-            NaN,
+            null,
             "yes",
             "building_passage"
         ],
         "level": [
-            NaN,
+            null,
             "-1",
             "1",
             "2",
@@ -390,54 +390,54 @@
             "0"
         ],
         "covered": [
-            NaN,
+            null,
             "yes"
         ],
         "material": [
-            NaN,
+            null,
             "concrete"
         ],
         "area": [
-            NaN,
+            null,
             "yes"
         ],
         "addr:inclusion": [
-            NaN,
+            null,
             "estimate"
         ],
         "incline": [
-            NaN,
+            null,
             "down",
             "0%"
         ],
         "name:es": [
-            NaN,
+            null,
             "Solo emergencia"
         ],
         "step_count": [
-            NaN,
+            null,
             "3"
         ],
         "lanes": [
-            NaN,
+            null,
             "2"
         ],
         "description": [
-            NaN,
+            null,
             "Solo peatonal"
         ],
         "check_date:surface": [
-            NaN,
+            null,
             "2022-11-12"
         ],
         "smoothness": [
-            NaN,
+            null,
             "excellent"
         ]
     },
     "crossings": {
         "crossing": [
-            NaN,
+            null,
             "traffic_signals",
             "zebra",
             "marked",
@@ -449,45 +449,45 @@
             "steps"
         ],
         "crossing_ref": [
-            NaN,
+            null,
             "zebra"
         ],
         "source": [
-            NaN,
+            null,
             "http://www.lamolina.edu.pe/portada/html/acerca/mapa.htm"
         ],
         "bicycle": [
-            NaN,
+            null,
             "yes",
             "designated",
             "permissive",
             "no"
         ],
         "segregated": [
-            NaN,
+            null,
             "no"
         ],
         "traffic_calming": [
-            NaN,
+            null,
             "table"
         ],
         "crossing:island": [
-            NaN,
+            null,
             "yes",
             "no"
         ],
         "kerb": [
-            NaN,
+            null,
             "flush",
             "lowered"
         ],
         "crossing:markings": [
-            NaN,
+            null,
             "zebra",
             "yes"
         ],
         "surface": [
-            NaN,
+            null,
             "concrete",
             "asphalt",
             "paving_stones",
@@ -495,31 +495,31 @@
             "paved"
         ],
         "level": [
-            NaN,
+            null,
             "-1",
             "0",
             "1"
         ],
         "tactile_paving": [
-            NaN,
+            null,
             "no"
         ],
         "wheelchair": [
-            NaN,
+            null,
             "no",
             "yes"
         ],
         "access": [
-            NaN,
+            null,
             "permit"
         ],
         "foot": [
-            NaN,
+            null,
             "designated",
             "yes"
         ],
         "motor_vehicle": [
-            NaN,
+            null,
             "no",
             "yes"
         ],
@@ -527,24 +527,24 @@
             "crossing"
         ],
         "noname": [
-            NaN,
+            null,
             "yes"
         ],
         "horse": [
-            NaN,
+            null,
             "no"
         ],
         "lit": [
-            NaN,
+            null,
             "yes",
             "no"
         ],
         "cycleway": [
-            NaN,
+            null,
             "crossing"
         ],
         "name": [
-            NaN,
+            null,
             "San Isidro - Barranco Run",
             "Vía reservada",
             "Juan Figari",
@@ -555,42 +555,42 @@
             "Ingreso Peatonal 1"
         ],
         "tunnel": [
-            NaN,
+            null,
             "building_passage",
             "yes",
             "covered"
         ],
         "layer": [
-            NaN,
+            null,
             "1",
             "-1",
             "0"
         ],
         "oneway:bicycle": [
-            NaN,
+            null,
             "no"
         ],
         "level:ref": [
-            NaN,
+            null,
             "Piso 2"
         ],
         "oneway": [
-            NaN,
+            null,
             "no"
         ],
         "smoothness": [
-            NaN,
+            null,
             "excellent"
         ]
     },
     "kerbs": {
         "crossing": [
             "zebra",
-            NaN
+            null
         ],
         "highway": [
             "crossing",
-            NaN,
+            null,
             "steps",
             "footway"
         ],
@@ -599,65 +599,65 @@
             "lowered",
             "raised",
             "rolled",
-            NaN,
+            null,
             "yes"
         ],
         "barrier": [
-            NaN,
+            null,
             "kerb"
         ],
         "traffic_calming": [
-            NaN,
+            null,
             "table"
         ],
         "tactile_paving": [
-            NaN,
+            null,
             "no"
         ],
         "ramp": [
-            NaN,
+            null,
             "0"
         ],
         "bicycle": [
-            NaN,
+            null,
             "yes",
             "no"
         ],
         "motor_vehicle": [
-            NaN,
+            null,
             "no"
         ],
         "wheelchair": [
-            NaN,
+            null,
             "yes",
             "no"
         ],
         "access": [
-            NaN,
+            null,
             "no"
         ],
         "foot": [
-            NaN,
+            null,
             "yes"
         ],
         "horse": [
-            NaN,
+            null,
             "no"
         ],
         "footway": [
-            NaN,
+            null,
             "crossing"
         ],
         "surface": [
-            NaN,
+            null,
             "concrete"
         ],
         "area": [
-            NaN,
+            null,
             "yes"
         ],
         "layer": [
-            NaN,
+            null,
             "1"
         ]
     }
