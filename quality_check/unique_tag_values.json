@@ -306,7 +306,8 @@
             "ground",
             "gravel",
             "sett",
-            "concrete:lanes"
+            "concrete:lanes",
+            "dirt"
         ],
         "motor_vehicle": [
             null,
