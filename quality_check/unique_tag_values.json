@@ -297,11 +297,11 @@
             "asphalt",
             "paved",
             "unpaved",
+            "concrete:plates",
             "paving_stones",
             "wood",
             "grass",
             "compacted",
-            "concrete:plates",
             "grass_paver",
             "ground",
             "gravel",
@@ -316,7 +316,8 @@
         ],
         "ramp": [
             null,
-            "yes"
+            "yes",
+            "no"
         ],
         "horse": [
             null,
@@ -406,10 +407,15 @@
             null,
             "estimate"
         ],
+        "smoothness": [
+            null,
+            "excellent"
+        ],
         "incline": [
             null,
             "down",
-            "0%"
+            "0%",
+            "up"
         ],
         "name:es": [
             null,
@@ -417,7 +423,9 @@
         ],
         "step_count": [
             null,
-            "3"
+            "3",
+            "2",
+            "4"
         ],
         "lanes": [
             null,
@@ -431,9 +439,9 @@
             null,
             "2022-11-12"
         ],
-        "smoothness": [
+        "handrail": [
             null,
-            "excellent"
+            "yes"
         ]
     },
     "crossings": {
