@@ -298,14 +298,15 @@
             "paved",
             "unpaved",
             "concrete:plates",
+            "compacted",
             "paving_stones",
             "wood",
             "grass",
-            "compacted",
             "grass_paver",
             "ground",
             "gravel",
             "sett",
+            "fine_gravel",
             "concrete:lanes",
             "dirt"
         ],
@@ -450,8 +451,8 @@
             "traffic_signals",
             "zebra",
             "marked",
-            "unmarked",
-            "uncontrolled"
+            "uncontrolled",
+            "unmarked"
         ],
         "highway": [
             "footway",
@@ -503,15 +504,15 @@
             "concrete:plates",
             "paved"
         ],
+        "tactile_paving": [
+            null,
+            "no"
+        ],
         "level": [
             null,
             "-1",
             "0",
             "1"
-        ],
-        "tactile_paving": [
-            null,
-            "no"
         ],
         "wheelchair": [
             null,
