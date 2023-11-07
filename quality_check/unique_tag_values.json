@@ -384,6 +384,10 @@
             "yes",
             "building_passage"
         ],
+        "covered": [
+            null,
+            "yes"
+        ],
         "level": [
             null,
             "-1",
@@ -391,10 +395,6 @@
             "2",
             "4",
             "0"
-        ],
-        "covered": [
-            null,
-            "yes"
         ],
         "material": [
             null,
