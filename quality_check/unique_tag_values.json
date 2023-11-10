@@ -22,10 +22,10 @@
         ],
         "access": [
             null,
+            "permissive",
             "private",
             "permit",
-            "no",
-            "permissive"
+            "no"
         ],
         "name": [
             null,
@@ -266,20 +266,11 @@
             "Pasaje Sarmiento",
             "Pasaje Las Americas"
         ],
-        "crossing:island": [
-            null,
-            "yes"
-        ],
-        "wheelchair": [
-            null,
-            "yes",
-            "no"
-        ],
         "bicycle": [
             null,
             "yes",
-            "designated",
             "no",
+            "designated",
             "permissive",
             "private"
         ],
@@ -290,6 +281,16 @@
             "private",
             "permissive",
             "no"
+        ],
+        "crossing:island": [
+            null,
+            "yes"
+        ],
+        "wheelchair": [
+            null,
+            "yes",
+            "no",
+            "limited"
         ],
         "surface": [
             null,
@@ -312,8 +313,8 @@
         ],
         "motor_vehicle": [
             null,
-            "yes",
-            "no"
+            "no",
+            "yes"
         ],
         "ramp": [
             null,
