@@ -203,6 +203,7 @@
             "Pasaje De La Cultura",
             "Pasaje De La Fortaleza",
             "Pasaje Antabamba",
+            "Jirón Antonio Ugarte",
             "Pasaje Surimana",
             "Rosa Noguera",
             "Pasaje Albilla",
@@ -450,9 +451,9 @@
         "crossing": [
             null,
             "traffic_signals",
+            "uncontrolled",
             "zebra",
             "marked",
-            "uncontrolled",
             "unmarked"
         ],
         "highway": [
@@ -482,6 +483,11 @@
             null,
             "table"
         ],
+        "crossing:markings": [
+            null,
+            "yes",
+            "zebra"
+        ],
         "crossing:island": [
             null,
             "yes",
@@ -491,11 +497,6 @@
             null,
             "flush",
             "lowered"
-        ],
-        "crossing:markings": [
-            null,
-            "zebra",
-            "yes"
         ],
         "surface": [
             null,
