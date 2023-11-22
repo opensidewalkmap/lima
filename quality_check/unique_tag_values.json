@@ -463,6 +463,15 @@
             null,
             "zebra"
         ],
+        "crossing:markings": [
+            null,
+            "yes",
+            "zebra"
+        ],
+        "traffic_calming": [
+            null,
+            "table"
+        ],
         "source": [
             null,
             "http://www.lamolina.edu.pe/portada/html/acerca/mapa.htm"
@@ -477,15 +486,6 @@
         "segregated": [
             null,
             "no"
-        ],
-        "traffic_calming": [
-            null,
-            "table"
-        ],
-        "crossing:markings": [
-            null,
-            "yes",
-            "zebra"
         ],
         "crossing:island": [
             null,
