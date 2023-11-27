@@ -597,7 +597,9 @@
     "kerbs": {
         "crossing": [
             "zebra",
-            null
+            null,
+            "marked",
+            "unmarked"
         ],
         "highway": [
             "crossing",
@@ -641,6 +643,10 @@
         "wheelchair": [
             null,
             "yes",
+            "no"
+        ],
+        "crossing:island": [
+            null,
             "no"
         ],
         "access": [

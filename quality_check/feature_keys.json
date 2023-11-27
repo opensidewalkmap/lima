@@ -81,6 +81,7 @@
         "bicycle",
         "motor_vehicle",
         "wheelchair",
+        "crossing:island",
         "access",
         "foot",
         "horse",
