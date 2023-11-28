@@ -37,14 +37,14 @@
     
   
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
-  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.15.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.16.3"></script>
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
 </head>
 <body>
   <div id="vis"></div>
   <script>
     (function(vegaEmbed) {
-      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}, "title": {"fontSize": 24}}, "data": {"name": "data-48ef6c8446687720d55c9ca4dc2b99e9"}, "mark": {"type": "bar"}, "encoding": {"color": {"field": "feature count", "type": "quantitative"}, "tooltip": {"field": "length(km)", "type": "quantitative"}, "x": {"field": "tactile_paving type", "sort": "-y", "type": "nominal"}, "y": {"field": "length(km)", "type": "quantitative"}}, "height": 300, "params": [{"name": "param_4", "select": {"type": "interval", "encodings": ["x", "y"]}, "bind": "scales"}], "title": "Sidewalks Tactile Paving Presence", "width": 650, "$schema": "https://vega.github.io/schema/vega-lite/v5.15.1.json", "datasets": {"data-48ef6c8446687720d55c9ca4dc2b99e9": [{"tactile_paving type": "?", "feature count": 11092, "length(km)": 786.6536938034238}]}};
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}, "title": {"fontSize": 24}}, "data": {"name": "data-48ef6c8446687720d55c9ca4dc2b99e9"}, "mark": {"type": "bar"}, "encoding": {"color": {"field": "feature count", "type": "quantitative"}, "tooltip": {"field": "length(km)", "type": "quantitative"}, "x": {"field": "tactile_paving type", "sort": "-y", "type": "nominal"}, "y": {"field": "length(km)", "type": "quantitative"}}, "height": 300, "params": [{"name": "param_4", "select": {"type": "interval", "encodings": ["x", "y"]}, "bind": "scales"}], "title": "Sidewalks Tactile Paving Presence", "width": 650, "$schema": "https://vega.github.io/schema/vega-lite/v5.16.3.json", "datasets": {"data-48ef6c8446687720d55c9ca4dc2b99e9": [{"tactile_paving type": "?", "feature count": 11092, "length(km)": 786.6536938034238}]}};
       var embedOpt = {"mode": "vega-lite"};
 
       function showError(el, error){
