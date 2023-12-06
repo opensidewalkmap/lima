@@ -466,7 +466,8 @@
         "crossing:markings": [
             null,
             "yes",
-            "zebra"
+            "zebra",
+            "no"
         ],
         "traffic_calming": [
             null,
