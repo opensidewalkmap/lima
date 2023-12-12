@@ -328,6 +328,10 @@
             "yes",
             "private"
         ],
+        "material": [
+            null,
+            "concrete"
+        ],
         "footway": [
             "sidewalk"
         ],
@@ -396,10 +400,6 @@
             "1",
             "2",
             "0"
-        ],
-        "material": [
-            null,
-            "concrete"
         ],
         "area": [
             null,
