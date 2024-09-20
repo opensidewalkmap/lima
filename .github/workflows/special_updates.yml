@@ -15,6 +15,7 @@ permissions:
   contents: write
   pages: write
   id-token: write
+  workflows: write
 
 jobs:
   node_setup:
