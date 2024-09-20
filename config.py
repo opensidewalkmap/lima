@@ -16,18 +16,36 @@ USERNAME = 'opensidewalkmap'
 # repository name, for many weblink references:
 REPO_NAME = 'lima'
 
-# City OSM relation id: (search at  https://nominatim.openstreetmap.org/ui/search.html ):
-CITY_RELATION_ID = 'R1944670' #as string!!
-
 # BOUNDING BOXES
 # A good tool to find them is: bboxfinder.com
 # # entire city: 
-BOUNDING_BOX = (-12.239701,-77.123852,-12.026897,-76.877518)
-# SOUTHMOST  LATITUDE, # WESTMOST   LONGITUDE, # NORTHMOST  LATITUDE, # EASTMOST   LONGITUDE)
+BOUNDING_BOX = (
+    -12.236681, # SOUTHERNMOST LATITUDE
+    -77.937012, # WESTERNMOST  LONGITUDE
+    -11.980218, # NORTHERNMOST LATITUDE
+    -77.937012  # EASTERNMOST  LONGITUDE
+    )
 
-# # A sample of a region of special interest, like the city centre, 
-# # It must have sidewalks as geometries and be inside the bigger one!!
-BOUNDING_BOX_SAMPLE = (-12.086676,-77.087942,-12.081598,-77.081210) 
-# SOUTHMOST  LATITUDE, # WESTMOST   LONGITUDE, # NORTHMOST  LATITUDE, # EASTMOST   LONGITUDE)
+# Set a midpoint for the map AND A Z LEVEL FOR THE INITIAL ZOOM:
+MID_LAT = -12.066559
+MID_LGT = -77.090313
+INITIAL_Z_LEVEL = 19
 
-STREAMLIT_URL='https://kauevestena-opensidewalkmap-beta-streamlit-routing-app-52bins.streamlitapp.com/'
+# MIN AND MAX ZOOM LEVELS FOR TILE GENERATION:
+# (since there's the 100MB file size limit, for big datasets might be better to stay at 19 or even 18)
+TILES_MIN_ZOOM = 9
+TILES_MAX_ZOOM = 20
+
+
+### MORE DELICATE ONES: (leave them unchanged by default)
+
+# TAGS FOR ADDITIONAL FOOTWAYS
+# you can check the reason behind those default ones at: https://kauevestena.github.io/opensidewalkmap/information/other_footways.html
+
+# Values must all be set as a list, even if there's a single value!!
+
+# depending on local rules, the other types of footways can differ, so you migh tune the options
+OTHER_FOOTWAY_RULES = {'highway':['footway','steps','living_street','pedestrian','track','path'],'foot':['yes','designated','permissive','destination'],'footway': ['alley','path','yes']}
+
+# since we download all features containing the tags of the previous rule-set, if there's another tag hierarchically above, we should exclude those features:
+OTHER_FOOTWAY_EXCLUSION_RULES = {'highway': ['trunk','motorway','primary','secondary','trunk_link','motorway_link','primary_link'],'access':['no','private'],'foot':['no','use_sidepath','private']}
