@@ -1,4 +1,4 @@
-name: node_setup
+name: update_codebase
 
 # Controls when the workflow will run
 on:
