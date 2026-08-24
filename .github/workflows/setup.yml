@@ -1,10 +1,6 @@
 name: node_setup
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - .github/workflows/setup.yml
   workflow_dispatch:
 
 permissions:
