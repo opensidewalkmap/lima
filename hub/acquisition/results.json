@@ -1,0 +1,45 @@
+{
+  "node_name": "Lima",
+  "generated_at": "2026-08-24T20:17:59Z",
+  "bbox": [
+    -12.5199316,
+    -77.1992129,
+    -11.5724356,
+    -76.6208244
+  ],
+  "keywords_used": [
+    "oswm",
+    "OpenSidewalkMap",
+    "accessibility",
+    "pedestrian"
+  ],
+  "services_queried": [
+    "Tasking Manager",
+    "Pic4Review",
+    "MapRoulette"
+  ],
+  "service_status": {
+    "Tasking Manager": {
+      "status": "ok",
+      "instances": {
+        "https://tasks.hotosm.org/": "ok",
+        "https://tasks.teachosm.org/": "ok",
+        "https://tasks.mapwith.ai/": "ok"
+      }
+    },
+    "Pic4Review": {
+      "status": "ok",
+      "instances": {
+        "https://pic4review.pavie.info/#/": "ok"
+      }
+    },
+    "MapRoulette": {
+      "status": "ok",
+      "instances": {
+        "https://maproulette.org/": "ok"
+      }
+    }
+  },
+  "total_projects_found": 0,
+  "projects": []
+}

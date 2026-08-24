@@ -1,0 +1,817 @@
+{
+    "schema_version": 1,
+    "node_name": "Lima",
+    "generated_at": "2026-08-24T19:34:08.142033+00:00",
+    "themes": {
+        "footway_categories": {
+            "kind": "categorical",
+            "total": 72261,
+            "known": 72261,
+            "unknown": 0,
+            "unknownPercent": 0.0,
+            "knownCategoryCount": 8,
+            "categories": [
+                {
+                    "value": "main_footways",
+                    "count": 36078,
+                    "percent": 49.93,
+                    "color": "#299077"
+                },
+                {
+                    "value": "sidewalks",
+                    "count": 19720,
+                    "percent": 27.29,
+                    "color": "steelblue"
+                },
+                {
+                    "value": "stairways",
+                    "count": 6625,
+                    "percent": 9.17,
+                    "color": "#8a7e2f"
+                },
+                {
+                    "value": "potential_footways",
+                    "count": 4048,
+                    "percent": 5.6,
+                    "color": "#9569a4"
+                },
+                {
+                    "value": "crossings",
+                    "count": 3983,
+                    "percent": 5.51,
+                    "color": "steelblue"
+                },
+                {
+                    "value": "pedestrian_areas",
+                    "count": 892,
+                    "percent": 1.23,
+                    "color": "steelblue"
+                },
+                {
+                    "value": "kerbs",
+                    "count": 646,
+                    "percent": 0.89,
+                    "color": "steelblue"
+                },
+                {
+                    "value": "informal_footways",
+                    "count": 269,
+                    "percent": 0.37,
+                    "color": "#b0645a"
+                }
+            ],
+            "dominant": {
+                "value": "main_footways",
+                "count": 36078,
+                "percent": 49.93,
+                "color": "#299077"
+            },
+            "shannonEntropy": 1.358706,
+            "effectiveDiversity": 3.891154,
+            "lengthFeatureCount": 70723,
+            "totalLengthKm": 4931.270464,
+            "unknownLengthKm": 0.0,
+            "lengthKmByCategory": {
+                "main_footways": 2091.204773,
+                "sidewalks": 1437.806594,
+                "stairways": 363.2164,
+                "potential_footways": 920.90363,
+                "crossings": 59.084149,
+                "pedestrian_areas": 0.0,
+                "kerbs": 0.0,
+                "informal_footways": 59.054917
+            },
+            "id": "footway_categories",
+            "label": "Footway Categories",
+            "status": "ok",
+            "layers": [
+                "sidewalks",
+                "crossings",
+                "kerbs",
+                "stairways",
+                "main_footways",
+                "potential_footways",
+                "informal_footways",
+                "pedestrian_areas"
+            ],
+            "missingLayers": [],
+            "sourceDatasets": [
+                "data/processed/sidewalks.parquet",
+                "data/processed/crossings.parquet",
+                "data/processed/kerbs.parquet",
+                "data/processed/other_footways/stairways.parquet",
+                "data/processed/other_footways/main_footways.parquet",
+                "data/processed/other_footways/potential_footways.parquet",
+                "data/processed/other_footways/informal_footways.parquet",
+                "data/processed/other_footways/pedestrian_areas.parquet"
+            ]
+        },
+        "crossings_and_kerbs": {
+            "id": "crossings_and_kerbs",
+            "kind": "multi",
+            "label": "Crossings and Kerbs",
+            "panels": [
+                {
+                    "kind": "categorical",
+                    "total": 3983,
+                    "known": 2062,
+                    "unknown": 1921,
+                    "unknownPercent": 48.23,
+                    "knownCategoryCount": 6,
+                    "categories": [
+                        {
+                            "value": "zebra",
+                            "count": 981,
+                            "percent": 47.58,
+                            "color": "#a6cee3"
+                        },
+                        {
+                            "value": "uncontrolled",
+                            "count": 475,
+                            "percent": 23.04,
+                            "color": "#a6cee3"
+                        },
+                        {
+                            "value": "unmarked",
+                            "count": 253,
+                            "percent": 12.27,
+                            "color": "#ffff99"
+                        },
+                        {
+                            "value": "marked",
+                            "count": 221,
+                            "percent": 10.72,
+                            "color": "#a6cee3"
+                        },
+                        {
+                            "value": "traffic_signals",
+                            "count": 128,
+                            "percent": 6.21,
+                            "color": "#1f78b4"
+                        },
+                        {
+                            "value": "informal",
+                            "count": 4,
+                            "percent": 0.19,
+                            "color": "gray"
+                        }
+                    ],
+                    "dominant": {
+                        "value": "zebra",
+                        "count": 981,
+                        "percent": 47.58,
+                        "color": "#a6cee3"
+                    },
+                    "shannonEntropy": 1.373037,
+                    "effectiveDiversity": 3.947319,
+                    "lengthFeatureCount": 3983,
+                    "totalLengthKm": 59.084149,
+                    "unknownLengthKm": 23.346566,
+                    "lengthKmByCategory": {
+                        "zebra": 20.570728,
+                        "uncontrolled": 6.771204,
+                        "unmarked": 2.542753,
+                        "marked": 3.841743,
+                        "traffic_signals": 1.968663,
+                        "informal": 0.042493
+                    },
+                    "id": "crossings",
+                    "label": "Crossings",
+                    "status": "ok",
+                    "layers": [
+                        "crossings"
+                    ],
+                    "missingLayers": [],
+                    "sourceDatasets": [
+                        "data/processed/crossings.parquet"
+                    ]
+                },
+                {
+                    "kind": "categorical",
+                    "total": 646,
+                    "known": 643,
+                    "unknown": 3,
+                    "unknownPercent": 0.46,
+                    "knownCategoryCount": 6,
+                    "categories": [
+                        {
+                            "value": "lowered",
+                            "count": 433,
+                            "percent": 67.34,
+                            "color": "#ffffff"
+                        },
+                        {
+                            "value": "flush",
+                            "count": 103,
+                            "percent": 16.02,
+                            "color": "#ffffff"
+                        },
+                        {
+                            "value": "raised",
+                            "count": 103,
+                            "percent": 16.02,
+                            "color": "#000000"
+                        },
+                        {
+                            "value": "no",
+                            "count": 2,
+                            "percent": 0.31,
+                            "color": "#bebebe"
+                        },
+                        {
+                            "value": "rolled",
+                            "count": 1,
+                            "percent": 0.16,
+                            "color": "#808080"
+                        },
+                        {
+                            "value": "yes",
+                            "count": 1,
+                            "percent": 0.16,
+                            "color": "gray"
+                        }
+                    ],
+                    "dominant": {
+                        "value": "lowered",
+                        "count": 433,
+                        "percent": 67.34,
+                        "color": "#ffffff"
+                    },
+                    "shannonEntropy": 0.891075,
+                    "effectiveDiversity": 2.437749,
+                    "id": "kerbs",
+                    "label": "Kerbs",
+                    "status": "ok",
+                    "layers": [
+                        "kerbs"
+                    ],
+                    "missingLayers": [],
+                    "sourceDatasets": [
+                        "data/processed/kerbs.parquet"
+                    ]
+                }
+            ]
+        },
+        "surface": {
+            "kind": "categorical",
+            "total": 19720,
+            "known": 3764,
+            "unknown": 15956,
+            "unknownPercent": 80.91,
+            "knownCategoryCount": 18,
+            "categories": [
+                {
+                    "value": "concrete",
+                    "count": 3390,
+                    "percent": 90.06,
+                    "color": "#80b1d3"
+                },
+                {
+                    "value": "paving_stones",
+                    "count": 133,
+                    "percent": 3.53,
+                    "color": "#bebada"
+                },
+                {
+                    "value": "asphalt",
+                    "count": 93,
+                    "percent": 2.47,
+                    "color": "#fb8072"
+                },
+                {
+                    "value": "concrete:plates",
+                    "count": 47,
+                    "percent": 1.25,
+                    "color": "#fccde5"
+                },
+                {
+                    "value": "paved",
+                    "count": 26,
+                    "percent": 0.69,
+                    "color": "#ffffff"
+                },
+                {
+                    "value": "fine_gravel",
+                    "count": 19,
+                    "percent": 0.5,
+                    "color": "gray"
+                },
+                {
+                    "value": "concrete:lanes",
+                    "count": 15,
+                    "percent": 0.4,
+                    "color": "gray"
+                },
+                {
+                    "value": "compacted",
+                    "count": 13,
+                    "percent": 0.35,
+                    "color": "#bc80bd"
+                },
+                {
+                    "value": "ground",
+                    "count": 10,
+                    "percent": 0.27,
+                    "color": "#fdb462"
+                },
+                {
+                    "value": "dirt",
+                    "count": 6,
+                    "percent": 0.16,
+                    "color": "#fdb462"
+                },
+                {
+                    "value": "grass_paver",
+                    "count": 3,
+                    "percent": 0.08,
+                    "color": "gray"
+                },
+                {
+                    "value": "gravel",
+                    "count": 2,
+                    "percent": 0.05,
+                    "color": "#bc80bd"
+                },
+                {
+                    "value": "unpaved",
+                    "count": 2,
+                    "percent": 0.05,
+                    "color": "#d9d9d9"
+                },
+                {
+                    "value": "grass",
+                    "count": 1,
+                    "percent": 0.03,
+                    "color": "#b3de69"
+                },
+                {
+                    "value": "sett",
+                    "count": 1,
+                    "percent": 0.03,
+                    "color": "#ffed6f"
+                },
+                {
+                    "value": "stepping_stones",
+                    "count": 1,
+                    "percent": 0.03,
+                    "color": "gray"
+                },
+                {
+                    "value": "unhewn_cobblestone",
+                    "count": 1,
+                    "percent": 0.03,
+                    "color": "#ffffb3"
+                },
+                {
+                    "value": "wood",
+                    "count": 1,
+                    "percent": 0.03,
+                    "color": "#bc80bd"
+                }
+            ],
+            "dominant": {
+                "value": "concrete",
+                "count": 3390,
+                "percent": 90.06,
+                "color": "#80b1d3"
+            },
+            "shannonEntropy": 0.511858,
+            "effectiveDiversity": 1.668388,
+            "lengthFeatureCount": 19720,
+            "totalLengthKm": 1437.806594,
+            "unknownLengthKm": 1101.262411,
+            "lengthKmByCategory": {
+                "concrete": 310.636536,
+                "paving_stones": 7.140283,
+                "asphalt": 7.279199,
+                "concrete:plates": 4.259533,
+                "paved": 2.147847,
+                "fine_gravel": 0.733893,
+                "concrete:lanes": 1.959259,
+                "compacted": 0.525843,
+                "ground": 0.834994,
+                "dirt": 0.283942,
+                "grass_paver": 0.127589,
+                "gravel": 0.064465,
+                "unpaved": 0.254742,
+                "grass": 0.051254,
+                "sett": 0.07798,
+                "stepping_stones": 0.084351,
+                "unhewn_cobblestone": 0.064939,
+                "wood": 0.017533
+            },
+            "id": "surface",
+            "label": "Surface",
+            "status": "ok",
+            "layers": [
+                "sidewalks"
+            ],
+            "missingLayers": [],
+            "sourceDatasets": [
+                "data/processed/sidewalks.parquet"
+            ]
+        },
+        "smoothness": {
+            "kind": "categorical",
+            "total": 19720,
+            "known": 20,
+            "unknown": 19700,
+            "unknownPercent": 99.9,
+            "knownCategoryCount": 3,
+            "categories": [
+                {
+                    "value": "excellent",
+                    "count": 9,
+                    "percent": 45.0,
+                    "color": "#4575b4"
+                },
+                {
+                    "value": "intermediate",
+                    "count": 6,
+                    "percent": 30.0,
+                    "color": "#ffffbf"
+                },
+                {
+                    "value": "good",
+                    "count": 5,
+                    "percent": 25.0,
+                    "color": "#abd9e9"
+                }
+            ],
+            "dominant": {
+                "value": "excellent",
+                "count": 9,
+                "percent": 45.0,
+                "color": "#4575b4"
+            },
+            "shannonEntropy": 1.067094,
+            "effectiveDiversity": 2.906919,
+            "lengthFeatureCount": 19720,
+            "totalLengthKm": 1437.806594,
+            "unknownLengthKm": 1435.282902,
+            "lengthKmByCategory": {
+                "excellent": 0.872638,
+                "intermediate": 0.213704,
+                "good": 1.43735
+            },
+            "id": "smoothness",
+            "label": "Smoothness",
+            "status": "ok",
+            "layers": [
+                "sidewalks"
+            ],
+            "missingLayers": [],
+            "sourceDatasets": [
+                "data/processed/sidewalks.parquet"
+            ]
+        },
+        "tactile_paving": {
+            "kind": "categorical",
+            "total": 19720,
+            "known": 2,
+            "unknown": 19718,
+            "unknownPercent": 99.99,
+            "knownCategoryCount": 1,
+            "categories": [
+                {
+                    "value": "no",
+                    "count": 2,
+                    "percent": 100.0,
+                    "color": "#bd1006"
+                }
+            ],
+            "dominant": {
+                "value": "no",
+                "count": 2,
+                "percent": 100.0,
+                "color": "#bd1006"
+            },
+            "shannonEntropy": -0.0,
+            "effectiveDiversity": 1.0,
+            "lengthFeatureCount": 19720,
+            "totalLengthKm": 1437.806594,
+            "unknownLengthKm": 1437.801414,
+            "lengthKmByCategory": {
+                "no": 0.00518
+            },
+            "id": "tactile_paving",
+            "label": "Tactile Paving",
+            "status": "ok",
+            "layers": [
+                "sidewalks"
+            ],
+            "missingLayers": [],
+            "sourceDatasets": [
+                "data/processed/sidewalks.parquet"
+            ]
+        },
+        "lit": {
+            "kind": "categorical",
+            "total": 19720,
+            "known": 731,
+            "unknown": 18989,
+            "unknownPercent": 96.29,
+            "knownCategoryCount": 2,
+            "categories": [
+                {
+                    "value": "yes",
+                    "count": 627,
+                    "percent": 85.77,
+                    "color": "#ffff99"
+                },
+                {
+                    "value": "no",
+                    "count": 104,
+                    "percent": 14.23,
+                    "color": "#6a3d9a"
+                }
+            ],
+            "dominant": {
+                "value": "yes",
+                "count": 627,
+                "percent": 85.77,
+                "color": "#ffff99"
+            },
+            "shannonEntropy": 0.409064,
+            "effectiveDiversity": 1.505409,
+            "lengthFeatureCount": 19720,
+            "totalLengthKm": 1437.806594,
+            "unknownLengthKm": 1372.575741,
+            "lengthKmByCategory": {
+                "yes": 55.916312,
+                "no": 9.314541
+            },
+            "id": "lit",
+            "label": "Lighting",
+            "status": "ok",
+            "layers": [
+                "sidewalks"
+            ],
+            "missingLayers": [],
+            "sourceDatasets": [
+                "data/processed/sidewalks.parquet"
+            ]
+        },
+        "traffic_calming": {
+            "kind": "categorical",
+            "total": 3983,
+            "known": 39,
+            "unknown": 3944,
+            "unknownPercent": 99.02,
+            "knownCategoryCount": 1,
+            "categories": [
+                {
+                    "value": "table",
+                    "count": 39,
+                    "percent": 100.0,
+                    "color": "#ffff99"
+                }
+            ],
+            "dominant": {
+                "value": "table",
+                "count": 39,
+                "percent": 100.0,
+                "color": "#ffff99"
+            },
+            "shannonEntropy": -0.0,
+            "effectiveDiversity": 1.0,
+            "lengthFeatureCount": 3983,
+            "totalLengthKm": 59.084149,
+            "unknownLengthKm": 58.504977,
+            "lengthKmByCategory": {
+                "table": 0.579173
+            },
+            "id": "traffic_calming",
+            "label": "Traffic Calming",
+            "status": "ok",
+            "layers": [
+                "crossings"
+            ],
+            "missingLayers": [],
+            "sourceDatasets": [
+                "data/processed/crossings.parquet"
+            ]
+        },
+        "wheelchair": {
+            "kind": "categorical",
+            "total": 19720,
+            "known": 8,
+            "unknown": 19712,
+            "unknownPercent": 99.96,
+            "knownCategoryCount": 3,
+            "categories": [
+                {
+                    "value": "yes",
+                    "count": 4,
+                    "percent": 50.0,
+                    "color": "#91bfdb"
+                },
+                {
+                    "value": "limited",
+                    "count": 3,
+                    "percent": 37.5,
+                    "color": "#ffffbf"
+                },
+                {
+                    "value": "no",
+                    "count": 1,
+                    "percent": 12.5,
+                    "color": "#fc8d59"
+                }
+            ],
+            "dominant": {
+                "value": "yes",
+                "count": 4,
+                "percent": 50.0,
+                "color": "#91bfdb"
+            },
+            "shannonEntropy": 0.974315,
+            "effectiveDiversity": 2.649351,
+            "lengthFeatureCount": 19720,
+            "totalLengthKm": 1437.806594,
+            "unknownLengthKm": 1435.819505,
+            "lengthKmByCategory": {
+                "yes": 1.18156,
+                "limited": 0.593549,
+                "no": 0.211979
+            },
+            "id": "wheelchair",
+            "label": "wheelchair=* tag",
+            "status": "ok",
+            "layers": [
+                "sidewalks"
+            ],
+            "missingLayers": [],
+            "sourceDatasets": [
+                "data/processed/sidewalks.parquet"
+            ]
+        },
+        "age": {
+            "kind": "numeric",
+            "total": 72261,
+            "known": 72261,
+            "unknown": 0,
+            "unknownPercent": 0.0,
+            "invalid": 0,
+            "min": 0.0,
+            "max": 22.039699,
+            "mean": 4.635231,
+            "median": 4.186174,
+            "bins": [
+                {
+                    "label": "0–<2",
+                    "lower": 0.0,
+                    "upper": 2.0,
+                    "count": 11903,
+                    "color": "#90d743"
+                },
+                {
+                    "label": "2–<4",
+                    "lower": 2.0,
+                    "upper": 4.0,
+                    "count": 21988,
+                    "color": "#35b779"
+                },
+                {
+                    "label": "4–<6",
+                    "lower": 4.0,
+                    "upper": 6.0,
+                    "count": 18383,
+                    "color": "#21918c"
+                },
+                {
+                    "label": "6–<8",
+                    "lower": 6.0,
+                    "upper": 8.0,
+                    "count": 9571,
+                    "color": "#31688e"
+                },
+                {
+                    "label": "8–<10",
+                    "lower": 8.0,
+                    "upper": 10.0,
+                    "count": 8937,
+                    "color": "#443983"
+                },
+                {
+                    "label": "10+",
+                    "lower": 10.0,
+                    "upper": null,
+                    "count": 1479,
+                    "color": "#440154"
+                }
+            ],
+            "id": "age",
+            "label": "DQ - Update Age (Y)",
+            "status": "ok",
+            "layers": [
+                "sidewalks",
+                "crossings",
+                "kerbs",
+                "stairways",
+                "main_footways",
+                "potential_footways",
+                "informal_footways",
+                "pedestrian_areas"
+            ],
+            "missingLayers": [],
+            "sourceDatasets": [
+                "data/processed/sidewalks.parquet",
+                "data/processed/crossings.parquet",
+                "data/processed/kerbs.parquet",
+                "data/processed/other_footways/stairways.parquet",
+                "data/processed/other_footways/main_footways.parquet",
+                "data/processed/other_footways/potential_footways.parquet",
+                "data/processed/other_footways/informal_footways.parquet",
+                "data/processed/other_footways/pedestrian_areas.parquet"
+            ]
+        },
+        "n_revs": {
+            "kind": "numeric",
+            "total": 72261,
+            "known": 72238,
+            "unknown": 0,
+            "unknownPercent": 0.0,
+            "invalid": 23,
+            "min": 1.0,
+            "max": 39.0,
+            "mean": 1.787577,
+            "median": 1.0,
+            "bins": [
+                {
+                    "label": "0–<5",
+                    "lower": 0.0,
+                    "upper": 5.0,
+                    "count": 68645,
+                    "color": "#1d1147"
+                },
+                {
+                    "label": "5–<10",
+                    "lower": 5.0,
+                    "upper": 10.0,
+                    "count": 3168,
+                    "color": "#51127c"
+                },
+                {
+                    "label": "10–<15",
+                    "lower": 10.0,
+                    "upper": 15.0,
+                    "count": 335,
+                    "color": "#832681"
+                },
+                {
+                    "label": "15–<20",
+                    "lower": 15.0,
+                    "upper": 20.0,
+                    "count": 60,
+                    "color": "#b73779"
+                },
+                {
+                    "label": "20–<25",
+                    "lower": 20.0,
+                    "upper": 25.0,
+                    "count": 18,
+                    "color": "#e75263"
+                },
+                {
+                    "label": "25–<30",
+                    "lower": 25.0,
+                    "upper": 30.0,
+                    "count": 8,
+                    "color": "#fc8961"
+                },
+                {
+                    "label": "30+",
+                    "lower": 30.0,
+                    "upper": null,
+                    "count": 4,
+                    "color": "#fec488"
+                }
+            ],
+            "id": "n_revs",
+            "label": "DQ - N. of Revs.",
+            "status": "ok",
+            "layers": [
+                "sidewalks",
+                "crossings",
+                "kerbs",
+                "stairways",
+                "main_footways",
+                "potential_footways",
+                "informal_footways",
+                "pedestrian_areas"
+            ],
+            "missingLayers": [],
+            "sourceDatasets": [
+                "data/processed/sidewalks.parquet",
+                "data/processed/crossings.parquet",
+                "data/processed/kerbs.parquet",
+                "data/processed/other_footways/stairways.parquet",
+                "data/processed/other_footways/main_footways.parquet",
+                "data/processed/other_footways/potential_footways.parquet",
+                "data/processed/other_footways/informal_footways.parquet",
+                "data/processed/other_footways/pedestrian_areas.parquet"
+            ]
+        }
+    }
+}
