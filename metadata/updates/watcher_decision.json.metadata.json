@@ -34,14 +34,16 @@
   ],
   "spatial": null,
   "temporal": {
-    "updated": "2026-08-24T19:49:15+00:00",
+    "updated": "2026-08-24T20:18:37+00:00",
     "node_registry": {
       "Data Fetching": "2026-08-24T19:29:32Z",
       "Versioning Data": "2026-08-24T19:30:37Z",
       "Data Pre-Processing": "2026-08-24T19:30:46Z",
       "Data Quality Tool": "2026-08-24T19:34:32Z",
       "Completeness Analysis": "2026-08-24T19:49:01Z",
-      "Statistical Charts": "2026-08-24T19:49:15Z"
+      "Statistical Charts": "2026-08-24T19:49:15Z",
+      "OSWM Codebase Revision": "1f7814d1b3d9895e5dcd663c7ee63837b68a280f",
+      "Pipeline Success": "2026-08-24T20:18:37Z"
     }
   },
   "lineage": {
@@ -64,7 +66,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-08-24T19:49:15+00:00",
+    "generated_at": "2026-08-24T20:18:37+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "1f7814d1b3d9895e5dcd663c7ee63837b68a280f",
@@ -79,10 +81,10 @@
     "download_url": "https://opensidewalkmap.github.io/lima/data/updates/watcher_decision.json",
     "media_type": "application/json",
     "format": "JSON",
-    "byte_size": 226,
+    "byte_size": 231,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "e334c140a8c5579823f1dc6f6239028c458ee62ccb565b3e3b0b483d370e2bab"
+      "value": "213efecfb345a944bfd943ac4555f58e5e2ee8bcb340a5d313ae1884ed1dfce5"
     }
   },
   "links": [
