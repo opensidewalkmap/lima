@@ -4,189 +4,167 @@
     <title>OSWM Watcher Changeset Activity - Lima</title>
     <link>https://opensidewalkmap.github.io/lima/hub/watcher/index.html</link>
     <description>OSM changeset activity monitoring and deletion watch for OpenSidewalkMap interest features in Lima.</description>
-    <lastBuildDate>Tue, 25 Aug 2026 08:25:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 08:27:57 GMT</lastBuildDate>
     <item>
-        <title>[Activity] OSM Changeset 187963893 by csimeona22 (6 additions, 16 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/187963893</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 187963893&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/csimeona22&quot;&gt;csimeona22&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Adjusted roads, footways, parking, crossings, buildings, barriers entrances, water, park, grass and trees at Plaza Norte. #adt&lt;/p&gt;
+        <title>[Activity] OSM Changeset 188015529 by csimeona22 (19 additions, 23 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/188015529</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 188015529&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/csimeona22&quot;&gt;csimeona22&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Updated roads, footways/steps, crossings, buildings, entrances, fountain at Plaza Norte. #adt&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-    &lt;li&gt;Additions (creations): 6&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 16&lt;/li&gt;
+    &lt;li&gt;Additions (creations): 19&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 23&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/187963893&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/187963893&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/188015529&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/188015529&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 24 Aug 2026 23:34:50 GMT</pubDate>
-        <guid isPermaLink="false">activity_187963893</guid>
+        <pubDate>Tue, 25 Aug 2026 23:02:26 GMT</pubDate>
+        <guid isPermaLink="false">activity_188015529</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 187948883 by Nekoatthegates (2 additions, 3 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/187948883</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 187948883&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Nekoatthegates&quot;&gt;Nekoatthegates&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Aligned buildings and footpaths, and added a stage around Parque de La Muralla using satellite imagery #adt&lt;/p&gt;
+        <title>[Activity] OSM Changeset 188011669 by Carto_Ferret (7 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/188011669</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 188011669&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Carto_Ferret&quot;&gt;Carto_Ferret&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Updated grounds of the north portion of the stadium south of Calle José Díaz #adt&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-    &lt;li&gt;Additions (creations): 2&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 3&lt;/li&gt;
+    &lt;li&gt;Additions (creations): 7&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/187948883&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/187948883&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/188011669&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/188011669&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 24 Aug 2026 16:46:56 GMT</pubDate>
-        <guid isPermaLink="false">activity_187948883</guid>
+        <pubDate>Tue, 25 Aug 2026 20:57:11 GMT</pubDate>
+        <guid isPermaLink="false">activity_188011669</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 187948131 by Carto_Ferret (2 additions, 2 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/187948131</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 187948131&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Carto_Ferret&quot;&gt;Carto_Ferret&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Updated area in the northeast portion of Parque de la Reserva #adt&lt;/p&gt;
+        <title>[Activity] OSM Changeset 188009247 by Carto_Ferret (4 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/188009247</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 188009247&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Carto_Ferret&quot;&gt;Carto_Ferret&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Updated grounds of the south portion of the stadium north of Jirón Madre de Dios #adt&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-    &lt;li&gt;Additions (creations): 2&lt;/li&gt;
+    &lt;li&gt;Additions (creations): 4&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/188009247&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/188009247&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 25 Aug 2026 19:52:57 GMT</pubDate>
+        <guid isPermaLink="false">activity_188009247</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 187999652 by Carto_Ferret (1 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/187999652</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 187999652&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Carto_Ferret&quot;&gt;Carto_Ferret&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Updated pedestrian plaza west side of Estadio Nacional de Perú
+ #adt&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 1&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/187999652&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/187999652&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 25 Aug 2026 16:27:20 GMT</pubDate>
+        <guid isPermaLink="false">activity_187999652</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 187989947 by Randy09 (0 additions, 2 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/187989947</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 187989947&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Randy09&quot;&gt;Randy09&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Determine the heights of kerbs&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
     &lt;li&gt;Modifications (tags/geom): 2&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/187948131&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/187948131&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/187989947&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/187989947&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 24 Aug 2026 16:35:47 GMT</pubDate>
-        <guid isPermaLink="false">activity_187948131</guid>
+        <pubDate>Tue, 25 Aug 2026 13:39:05 GMT</pubDate>
+        <guid isPermaLink="false">activity_187989947</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 187958944 by Nekoatthegates (1 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/187958944</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 187958944&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Nekoatthegates&quot;&gt;Nekoatthegates&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Extended footway around Hospital Rebagliati using satellite imagery #adt&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 1&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/187958944&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/187958944&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 24 Aug 2026 20:33:16 GMT</pubDate>
-        <guid isPermaLink="false">activity_187958944</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 187953236 by Zorororo (1 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/187953236</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 187953236&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Zorororo&quot;&gt;Zorororo&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Adjusted and added hospital boundary, building, footways, and entrances around Hospital Nacional Dos de Mayo #adt&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 1&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/187953236&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/187953236&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 24 Aug 2026 18:17:43 GMT</pubDate>
-        <guid isPermaLink="false">activity_187953236</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 187930694 by NyongRiver (2 additions, 0 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/187930694</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 187930694&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/NyongRiver&quot;&gt;NyongRiver&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Updated the geometry near Avenida Principal #adt&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 2&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 0&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/187930694&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/187930694&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 24 Aug 2026 10:27:58 GMT</pubDate>
-        <guid isPermaLink="false">activity_187930694</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 187958781 by Nekoatthegates (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/187958781</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 187958781&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Nekoatthegates&quot;&gt;Nekoatthegates&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Extended footway around Hospital Rebagliati using Mapillary and satellite imagery #adt&lt;/p&gt;
+        <title>[Activity] OSM Changeset 187996598 by Zorororo (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/187996598</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 187996598&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Zorororo&quot;&gt;Zorororo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Adjusted and added grass, parking polygons, service roads, and buildings around Parque de la Exposición #adt&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 0&lt;/li&gt;
     &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/187958781&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/187958781&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/187996598&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/187996598&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 24 Aug 2026 20:30:02 GMT</pubDate>
-        <guid isPermaLink="false">activity_187958781</guid>
+        <pubDate>Tue, 25 Aug 2026 15:33:27 GMT</pubDate>
+        <guid isPermaLink="false">activity_187996598</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 187949089 by Carto_Ferret (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/187949089</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 187949089&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Carto_Ferret&quot;&gt;Carto_Ferret&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Updated footway in Parque de la Reserva #adt&lt;/p&gt;
+        <title>[Activity] OSM Changeset 187989956 by Randy09 (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/187989956</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 187989956&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Randy09&quot;&gt;Randy09&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Determine the heights of kerbs at crossings&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 0&lt;/li&gt;
     &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/187949089&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/187949089&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/187989956&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/187989956&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 24 Aug 2026 16:51:16 GMT</pubDate>
-        <guid isPermaLink="false">activity_187949089</guid>
+        <pubDate>Tue, 25 Aug 2026 13:39:12 GMT</pubDate>
+        <guid isPermaLink="false">activity_187989956</guid>
     </item>
     <item>
-        <title>[Alert] High Deletion OSM Changeset 185805545 by El Surquillano (33 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/185805545</link>
-        <description>&lt;p&gt;&lt;strong&gt;High Deletion Alert for OSM Changeset 185805545&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/El Surquillano&quot;&gt;El Surquillano&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Actualización de nodos en Surquillo&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Deletions to OSWM features:&lt;/strong&gt; 33&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/185805545&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/185805545&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+        <title>[Activity] OSM Changeset 187989952 by Randy09 (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/187989952</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 187989952&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Randy09&quot;&gt;Randy09&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify road surfaces&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/187989952&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/187989952&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 15 Jul 2026 19:24:12 GMT</pubDate>
-        <guid isPermaLink="false">deletion_alert_185805545</guid>
+        <pubDate>Tue, 25 Aug 2026 13:39:07 GMT</pubDate>
+        <guid isPermaLink="false">activity_187989952</guid>
     </item>
     <item>
-        <title>[Alert] High Deletion OSM Changeset 181331648 by Dimusoika (27 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/181331648</link>
-        <description>&lt;p&gt;&lt;strong&gt;High Deletion Alert for OSM Changeset 181331648&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Dimusoika&quot;&gt;Dimusoika&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Actualizacion de edificios y terrenos en construccion&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Deletions to OSWM features:&lt;/strong&gt; 27&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/181331648&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/181331648&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+        <title>[Activity] OSM Changeset 187989951 by Randy09 (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/187989951</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 187989951&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Randy09&quot;&gt;Randy09&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Determine road names and types&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/187989951&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/187989951&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 14 Apr 2026 16:23:55 GMT</pubDate>
-        <guid isPermaLink="false">deletion_alert_181331648</guid>
+        <pubDate>Tue, 25 Aug 2026 13:39:07 GMT</pubDate>
+        <guid isPermaLink="false">activity_187989951</guid>
     </item>
     <item>
-        <title>[Alert] High Deletion OSM Changeset 185989938 by Dayana Michele Quispe Lerma (10 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/185989938</link>
-        <description>&lt;p&gt;&lt;strong&gt;High Deletion Alert for OSM Changeset 185989938&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Dayana Michele Quispe Lerma&quot;&gt;Dayana Michele Quispe Lerma&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; fui lo mas precisa posible en las zonas que he visitado&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Deletions to OSWM features:&lt;/strong&gt; 10&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/185989938&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/185989938&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+        <title>[Activity] OSM Changeset 187966653 by LaGuajiraDesert (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/187966653</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 187966653&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/LaGuajiraDesert&quot;&gt;LaGuajiraDesert&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Modified existing highway near Avenida San Nicolas #adt&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/187966653&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/187966653&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 19 Jul 2026 05:37:20 GMT</pubDate>
-        <guid isPermaLink="false">deletion_alert_185989938</guid>
-    </item>
-    <item>
-        <title>[Alert] High Deletion OSM Changeset 181820783 by jackramms (10 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/181820783</link>
-        <description>&lt;p&gt;&lt;strong&gt;High Deletion Alert for OSM Changeset 181820783&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/jackramms&quot;&gt;jackramms&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Corrección de vías peatonales&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Deletions to OSWM features:&lt;/strong&gt; 10&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/181820783&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/181820783&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 25 Apr 2026 19:31:38 GMT</pubDate>
-        <guid isPermaLink="false">deletion_alert_181820783</guid>
-    </item>
-    <item>
-        <title>[Alert] High Deletion OSM Changeset 183471218 by JSR1781 (7 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/183471218</link>
-        <description>&lt;p&gt;&lt;strong&gt;High Deletion Alert for OSM Changeset 183471218&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/JSR1781&quot;&gt;JSR1781&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Cambios en Los Olivos&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Deletions to OSWM features:&lt;/strong&gt; 7&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/183471218&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/183471218&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 31 May 2026 23:18:01 GMT</pubDate>
-        <guid isPermaLink="false">deletion_alert_183471218</guid>
+        <pubDate>Tue, 25 Aug 2026 02:05:45 GMT</pubDate>
+        <guid isPermaLink="false">activity_187966653</guid>
     </item>
 </channel>
 </rss>
