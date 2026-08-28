@@ -65,7 +65,7 @@
     "geometry": "https://opensidewalkmap.github.io/lima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-08-26T08:29:42+00:00",
+    "updated": "2026-08-27T18:29:31+00:00",
     "node_registry": {
       "Data Fetching": "2026-08-24T19:29:32Z",
       "Versioning Data": "2026-08-24T19:30:37Z",
@@ -74,7 +74,7 @@
       "Completeness Analysis": "2026-08-24T19:49:01Z",
       "Statistical Charts": "2026-08-24T19:49:15Z",
       "OSWM Codebase Revision": "1f7814d1b3d9895e5dcd663c7ee63837b68a280f",
-      "Pipeline Success": "2026-08-26T08:29:42Z"
+      "Pipeline Success": "2026-08-27T18:29:31Z"
     }
   },
   "lineage": {
@@ -95,7 +95,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-08-26T08:29:42+00:00",
+    "generated_at": "2026-08-27T18:29:31+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "1f7814d1b3d9895e5dcd663c7ee63837b68a280f",
