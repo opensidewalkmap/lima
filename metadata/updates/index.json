@@ -65,16 +65,16 @@
     "geometry": "https://opensidewalkmap.github.io/lima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-08-27T18:29:31+00:00",
+    "updated": "2026-08-29T13:42:05+00:00",
     "node_registry": {
       "Data Fetching": "2026-08-24T19:29:32Z",
       "Versioning Data": "2026-08-24T19:30:37Z",
-      "Data Pre-Processing": "2026-08-24T19:30:46Z",
-      "Data Quality Tool": "2026-08-24T19:34:32Z",
-      "Completeness Analysis": "2026-08-24T19:49:01Z",
-      "Statistical Charts": "2026-08-24T19:49:15Z",
+      "Data Pre-Processing": "2026-08-29T13:24:22Z",
+      "Data Quality Tool": "2026-08-29T13:30:50Z",
+      "Completeness Analysis": "2026-08-29T13:41:52Z",
+      "Statistical Charts": "2026-08-29T13:42:05Z",
       "OSWM Codebase Revision": "1f7814d1b3d9895e5dcd663c7ee63837b68a280f",
-      "Pipeline Success": "2026-08-27T18:29:31Z"
+      "Pipeline Success": "2026-08-28T19:40:24Z"
     }
   },
   "lineage": {
@@ -97,11 +97,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-08-27T18:29:31+00:00",
+    "generated_at": "2026-08-29T13:42:05+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "1f7814d1b3d9895e5dcd663c7ee63837b68a280f",
-      "commit_date": "2026-08-24T13:04:53-03:00"
+      "commit": "181d10276c184265f3de546a941386d9163efc23",
+      "commit_date": "2026-08-29T00:50:56-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -125,10 +125,10 @@
       "metadata": "https://opensidewalkmap.github.io/lima/metadata/updates/index.html.metadata.json",
       "media_type": "text/html",
       "format": "HTML",
-      "byte_size": 3058,
+      "byte_size": 3260,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "ede2446f7a3bc785f12f823228379c8c1017ec0b9a98217c135d4cab2f9fa7bf"
+        "value": "a752ed482f8f16214e21adc68800009d70cef205234423e50a3a43d4ef2c2e1b"
       }
     },
     {
@@ -137,10 +137,10 @@
       "metadata": "https://opensidewalkmap.github.io/lima/metadata/updates/pipeline_decision.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 353,
+      "byte_size": 482,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "f2ec769ffe88903f77d616640cfbb6a012077df8c06baaeaeff6892fa4028f09"
+        "value": "5a7e6e82aa55da2dcb6d28c6a54b0949b64121159de513eab04a4749c3f4cc10"
       }
     },
     {
@@ -149,10 +149,10 @@
       "metadata": "https://opensidewalkmap.github.io/lima/metadata/updates/registry.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 420,
+      "byte_size": 419,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "6cc617b23dca5f4d5be33948f2318493151fceac3109ff9302c2dc43a1f6e30e"
+        "value": "9b9d259ece0e1fa141920130d48547813c86c9018f79d50f0baff5269ac780f4"
       }
     },
     {
@@ -164,7 +164,7 @@
       "byte_size": 231,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "d0fd1eba9c9cb909f2eeab3a092a1c4a2da5f277dc05e91ac5505808111a0c95"
+        "value": "17c8b7bfdb00f42552b6c0a692b3b6395a2c5bdb84cbf721b396c14c37db0f17"
       }
     },
     {
@@ -176,7 +176,7 @@
       "byte_size": 93469,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "24595538891996b7a695192e12a6da3399f0a3ed1ef74271ae517e2e51831493"
+        "value": "e1e61e4d63365e1dfeb3c679f4f4107c94088d73ce7d2c326292f53093ebd5d3"
       }
     },
     {
@@ -185,10 +185,10 @@
       "metadata": "https://opensidewalkmap.github.io/lima/metadata/updates/yesterday.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 1834,
+      "byte_size": 1268,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "04a2b49cf2ab39a871fddf44f762e994adb1912e2faca0af133fde61dfa24fed"
+        "value": "d1d036f411c580d75bac4dccdb9fae41d9a2d0463cdf2f9dcc1f0616cbd4a742"
       }
     }
   ],

@@ -1,7 +1,7 @@
 {
     "schema_version": 1,
     "node_name": "Lima",
-    "generated_at": "2026-08-24T19:34:08.142033+00:00",
+    "generated_at": "2026-08-29T13:30:27.811143+00:00",
     "themes": {
         "footway_categories": {
             "kind": "categorical",
@@ -653,51 +653,51 @@
             "unknown": 0,
             "unknownPercent": 0.0,
             "invalid": 0,
-            "min": 0.0,
-            "max": 22.039699,
-            "mean": 4.635231,
-            "median": 4.186174,
+            "min": 0.013689,
+            "max": 22.053388,
+            "mean": 4.648921,
+            "median": 4.199863,
             "bins": [
                 {
                     "label": "0–<2",
                     "lower": 0.0,
                     "upper": 2.0,
-                    "count": 11903,
+                    "count": 11877,
                     "color": "#90d743"
                 },
                 {
                     "label": "2–<4",
                     "lower": 2.0,
                     "upper": 4.0,
-                    "count": 21988,
+                    "count": 21961,
                     "color": "#35b779"
                 },
                 {
                     "label": "4–<6",
                     "lower": 4.0,
                     "upper": 6.0,
-                    "count": 18383,
+                    "count": 18126,
                     "color": "#21918c"
                 },
                 {
                     "label": "6–<8",
                     "lower": 6.0,
                     "upper": 8.0,
-                    "count": 9571,
+                    "count": 9666,
                     "color": "#31688e"
                 },
                 {
                     "label": "8–<10",
                     "lower": 8.0,
                     "upper": 10.0,
-                    "count": 8937,
+                    "count": 9091,
                     "color": "#443983"
                 },
                 {
                     "label": "10+",
                     "lower": 10.0,
                     "upper": null,
-                    "count": 1479,
+                    "count": 1540,
                     "color": "#440154"
                 }
             ],
