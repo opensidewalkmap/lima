@@ -70,16 +70,17 @@
     "geometry": "https://opensidewalkmap.github.io/lima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-08-29T14:10:44+00:00",
+    "updated": "2026-08-30T13:57:26+00:00",
     "node_registry": {
       "Data Fetching": "2026-08-24T19:29:32Z",
-      "Versioning Data": "2026-08-24T19:30:37Z",
-      "Data Pre-Processing": "2026-08-29T13:24:22Z",
-      "Data Quality Tool": "2026-08-29T13:30:50Z",
+      "Versioning Data": "2026-08-30T13:53:44Z",
+      "Data Pre-Processing": "2026-08-30T13:53:53Z",
+      "Data Quality Tool": "2026-08-30T13:54:08Z",
       "Completeness Analysis": "2026-08-29T13:41:52Z",
-      "Statistical Charts": "2026-08-29T13:42:05Z",
+      "Statistical Charts": "2026-08-30T13:54:16Z",
       "OSWM Codebase Revision": "181d10276c184265f3de546a941386d9163efc23",
-      "Pipeline Success": "2026-08-29T14:10:44Z"
+      "Pipeline Success": "2026-08-30T13:22:11Z",
+      "Wiki check for keys": "2026-08-30T13:57:26Z"
     }
   },
   "lineage": {
@@ -102,7 +103,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-08-29T14:10:44+00:00",
+    "generated_at": "2026-08-30T13:57:26+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "181d10276c184265f3de546a941386d9163efc23",
@@ -118,10 +119,10 @@
       "metadata": "https://opensidewalkmap.github.io/lima/metadata/data_quality/crossings_lacking_kerbs/crossings_lacking_kerbs.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 294401,
+      "byte_size": 293842,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "1b9d6f394901ad832fc3224718280fc6cdc068fcaad0484c2440cc20dc4ffc73"
+        "value": "bfd33a1376d98b9fa91e50d3992b7cc5fd87972f1efe75492f25e806ba102210"
       }
     }
   ],

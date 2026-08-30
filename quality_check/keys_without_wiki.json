@@ -1,0 +1,12 @@
+{
+    "sidewalks": [],
+    "crossings": [],
+    "kerbs": [
+        "kerb:left",
+        "kerb:right"
+    ],
+    "other_footways": [
+        "check_date:handrail",
+        "check_date:ramp"
+    ]
+}
