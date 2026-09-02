@@ -1,6 +1,6 @@
 {
   "node_name": "Lima",
-  "generated_at": "2026-09-01T13:31:41Z",
+  "generated_at": "2026-09-02T12:22:27Z",
   "bbox": [
     -12.5199316,
     -77.1992129,
@@ -28,9 +28,9 @@
       }
     },
     "Pic4Review": {
-      "status": "offline",
+      "status": "ok",
       "instances": {
-        "https://pic4review.pavie.info/#/": "offline"
+        "https://pic4review.pavie.info/#/": "ok"
       }
     },
     "MapRoulette": {

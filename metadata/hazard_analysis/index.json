@@ -70,7 +70,7 @@
     "geometry": "https://opensidewalkmap.github.io/lima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-09-01T13:02:53+00:00",
+    "updated": "2026-09-01T13:32:27+00:00",
     "node_registry": {
       "Data Fetching": "2026-08-24T19:29:32Z",
       "Versioning Data": "2026-08-30T13:53:44Z",
@@ -78,8 +78,8 @@
       "Data Quality Tool": "2026-09-01T12:51:28Z",
       "Completeness Analysis": "2026-09-01T13:02:39Z",
       "Statistical Charts": "2026-09-01T13:02:53Z",
-      "OSWM Codebase Revision": "181d10276c184265f3de546a941386d9163efc23",
-      "Pipeline Success": "2026-08-31T15:34:09Z",
+      "OSWM Codebase Revision": "7c0091b120eb30b8010c3508217590045ae7383a",
+      "Pipeline Success": "2026-09-01T13:32:27Z",
       "Wiki check for keys": "2026-08-30T13:57:26Z"
     }
   },
@@ -103,7 +103,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-01T13:02:53+00:00",
+    "generated_at": "2026-09-01T13:32:27+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "7c0091b120eb30b8010c3508217590045ae7383a",
@@ -115,18 +115,6 @@
   "assets": [
     {
       "title": "Features Blind",
-      "resource": "https://opensidewalkmap.github.io/lima/data/hazard_analysis/features_blind.geojson",
-      "metadata": "https://opensidewalkmap.github.io/lima/metadata/hazard_analysis/features_blind.geojson.metadata.json",
-      "media_type": "application/geo+json",
-      "format": "GeoJSON",
-      "byte_size": 69653220,
-      "checksum": {
-        "algorithm": "SHA-256",
-        "value": "f8089e4495b1a034d0b86da9f083c673b409c0d4a4e929b42af34039dd20f010"
-      }
-    },
-    {
-      "title": "Features Blind",
       "resource": "https://opensidewalkmap.github.io/lima/data/hazard_analysis/features_blind.parquet",
       "metadata": "https://opensidewalkmap.github.io/lima/metadata/hazard_analysis/features_blind.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
@@ -135,18 +123,6 @@
       "checksum": {
         "algorithm": "SHA-256",
         "value": "f74a5ae8d1e1af7810935cc67137ca14a460a2465cf9c24f3530ac911a7fca41"
-      }
-    },
-    {
-      "title": "Features Elderly",
-      "resource": "https://opensidewalkmap.github.io/lima/data/hazard_analysis/features_elderly.geojson",
-      "metadata": "https://opensidewalkmap.github.io/lima/metadata/hazard_analysis/features_elderly.geojson.metadata.json",
-      "media_type": "application/geo+json",
-      "format": "GeoJSON",
-      "byte_size": 70051122,
-      "checksum": {
-        "algorithm": "SHA-256",
-        "value": "60139a102d2a1c2bc10a2c135cef35f8e4d92f02d2d7268745007283bd823dd9"
       }
     },
     {
@@ -163,18 +139,6 @@
     },
     {
       "title": "Features Pedestrian",
-      "resource": "https://opensidewalkmap.github.io/lima/data/hazard_analysis/features_pedestrian.geojson",
-      "metadata": "https://opensidewalkmap.github.io/lima/metadata/hazard_analysis/features_pedestrian.geojson.metadata.json",
-      "media_type": "application/geo+json",
-      "format": "GeoJSON",
-      "byte_size": 69715259,
-      "checksum": {
-        "algorithm": "SHA-256",
-        "value": "f33004611a36d052e84209fa73b44a3682502c9ada4ce8ef7e8fa1f1ab0e4f62"
-      }
-    },
-    {
-      "title": "Features Pedestrian",
       "resource": "https://opensidewalkmap.github.io/lima/data/hazard_analysis/features_pedestrian.parquet",
       "metadata": "https://opensidewalkmap.github.io/lima/metadata/hazard_analysis/features_pedestrian.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
@@ -183,18 +147,6 @@
       "checksum": {
         "algorithm": "SHA-256",
         "value": "d40cc0515e19682b9cb813b3b17a19746e6829390bc55681610b16e6b42a524e"
-      }
-    },
-    {
-      "title": "Features Wheelchair",
-      "resource": "https://opensidewalkmap.github.io/lima/data/hazard_analysis/features_wheelchair.geojson",
-      "metadata": "https://opensidewalkmap.github.io/lima/metadata/hazard_analysis/features_wheelchair.geojson.metadata.json",
-      "media_type": "application/geo+json",
-      "format": "GeoJSON",
-      "byte_size": 70164450,
-      "checksum": {
-        "algorithm": "SHA-256",
-        "value": "cf5a6ab1273fb9dc7a666e1fce5a2d0cd4af2f7cc2fe027f5d536faa72e338ea"
       }
     },
     {
