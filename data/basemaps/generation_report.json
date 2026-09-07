@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "renderer_version": 1,
+  "renderer_version": 2,
   "node": "Lima",
   "bounds": [
     -77.1992129,
@@ -10,7 +10,7 @@
   ],
   "source": {
     "tilejson": "https://tiles.openfreemap.org/planet",
-    "versioned_template": "https://tiles.openfreemap.org/planet/20260823_080002_pt/{z}/{x}/{y}.pbf",
+    "versioned_template": "https://tiles.openfreemap.org/planet/20260830_080001_pt/{z}/{x}/{y}.pbf",
     "attribution": "Basemap \u00a9 OpenFreeMap, \u00a9 OpenMapTiles; data \u00a9 OpenStreetMap contributors"
   },
   "min_zoom": 10,
@@ -22,12 +22,12 @@
   "outputs": {
     "light": {
       "path": "data/basemaps/light.pmtiles",
-      "bytes": 99578454
+      "bytes": 99603112
     },
     "dark": {
       "path": "data/basemaps/dark.pmtiles",
-      "bytes": 84524825
+      "bytes": 84539810
     }
   },
-  "elapsed_seconds": 171.67245365300005
+  "elapsed_seconds": 232.83749460899998
 }
