@@ -1,7 +1,7 @@
 {
     "schema_version": 1,
     "node_name": "Lima",
-    "generated_at": "2026-09-07T13:50:36.014852+00:00",
+    "generated_at": "2026-09-08T12:24:42.454697+00:00",
     "themes": {
         "footway_categories": {
             "kind": "categorical",
@@ -653,10 +653,10 @@
             "unknown": 0,
             "unknownPercent": 0.0,
             "invalid": 0,
-            "min": 0.002738,
-            "max": 22.078029,
-            "mean": 4.648705,
-            "median": 4.213552,
+            "min": 0.005476,
+            "max": 22.080767,
+            "mean": 4.651443,
+            "median": 4.21629,
             "bins": [
                 {
                     "label": "0–<2",
@@ -669,28 +669,28 @@
                     "label": "2–<4",
                     "lower": 2.0,
                     "upper": 4.0,
-                    "count": 21429,
+                    "count": 21386,
                     "color": "#35b779"
                 },
                 {
                     "label": "4–<6",
                     "lower": 4.0,
                     "upper": 6.0,
-                    "count": 18480,
+                    "count": 18523,
                     "color": "#21918c"
                 },
                 {
                     "label": "6–<8",
                     "lower": 6.0,
                     "upper": 8.0,
-                    "count": 9431,
+                    "count": 9426,
                     "color": "#31688e"
                 },
                 {
                     "label": "8–<10",
                     "lower": 8.0,
                     "upper": 10.0,
-                    "count": 9141,
+                    "count": 9146,
                     "color": "#443983"
                 },
                 {
