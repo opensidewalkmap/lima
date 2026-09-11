@@ -34,16 +34,16 @@
   ],
   "spatial": null,
   "temporal": {
-    "updated": "2026-09-10T12:45:08+00:00",
+    "updated": "2026-09-11T12:40:47+00:00",
     "node_registry": {
       "Data Fetching": "2026-08-24T19:29:32Z",
       "Versioning Data": "2026-09-06T12:13:48Z",
-      "Data Pre-Processing": "2026-09-10T12:25:44Z",
-      "Data Quality Tool": "2026-09-10T12:29:36Z",
-      "Completeness Analysis": "2026-09-10T12:44:52Z",
-      "Statistical Charts": "2026-09-10T12:45:08Z",
-      "OSWM Codebase Revision": "9355a89512c865702b47ed7fdafb655caf7da425",
-      "Pipeline Success": "2026-09-09T12:33:44Z",
+      "Data Pre-Processing": "2026-09-11T12:24:18Z",
+      "Data Quality Tool": "2026-09-11T12:28:03Z",
+      "Completeness Analysis": "2026-09-11T12:40:31Z",
+      "Statistical Charts": "2026-09-11T12:40:47Z",
+      "OSWM Codebase Revision": "ec230ff28d3fbf7433bdd602df2041c2f08f2e35",
+      "Pipeline Success": "2026-09-10T13:15:23Z",
       "Wiki check for keys": "2026-09-06T12:16:44Z"
     }
   },
@@ -66,11 +66,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-10T12:45:08+00:00",
+    "generated_at": "2026-09-11T12:40:47+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "ec230ff28d3fbf7433bdd602df2041c2f08f2e35",
-      "commit_date": "2026-09-09T18:15:00-03:00"
+      "commit": "3023fa63ac1616fee45d5e874ef4278b3ca0b5ca",
+      "commit_date": "2026-09-10T09:30:35-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -81,10 +81,10 @@
     "download_url": "https://opensidewalkmap.github.io/lima/data/snapshots/node_summary.json",
     "media_type": "application/json",
     "format": "JSON",
-    "byte_size": 26987,
+    "byte_size": 26986,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "ab9e23a3704e1628ade08f54f66dc79a54c6154e7fdb758591d218367a26a3c7"
+      "value": "a7d33f59cdd4961491f03c2ddbb2df21bd0199ac36dee20e499829363679f952"
     }
   },
   "links": [
