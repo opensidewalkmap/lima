@@ -65,7 +65,7 @@
     "geometry": "https://opensidewalkmap.github.io/lima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-09-13T13:26:28+00:00",
+    "updated": "2026-09-14T14:29:10+00:00",
     "node_registry": {
       "Data Fetching": "2026-08-24T19:29:32Z",
       "Versioning Data": "2026-09-13T13:23:28Z",
@@ -74,7 +74,7 @@
       "Completeness Analysis": "2026-09-11T12:40:31Z",
       "Statistical Charts": "2026-09-13T13:24:09Z",
       "OSWM Codebase Revision": "3023fa63ac1616fee45d5e874ef4278b3ca0b5ca",
-      "Pipeline Success": "2026-09-13T12:55:19Z",
+      "Pipeline Success": "2026-09-14T14:29:10Z",
       "Wiki check for keys": "2026-09-13T13:26:28Z"
     }
   },
@@ -98,7 +98,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-13T13:26:28+00:00",
+    "generated_at": "2026-09-14T14:29:10+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "3023fa63ac1616fee45d5e874ef4278b3ca0b5ca",
@@ -141,7 +141,7 @@
       "byte_size": 353,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "d0bf88bcd9fbcf7268e0776e49d3e3fa520cf707fa73c78d43332faf67d840a3"
+        "value": "f7c67d3964e1a4a27c3933b29861aedd84aa3089042c96169a48bcbfed03b089"
       }
     },
     {
@@ -150,10 +150,10 @@
       "metadata": "https://opensidewalkmap.github.io/lima/metadata/updates/registry.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 470,
+      "byte_size": 471,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "86487012e9a00ae4b1fff242b72efa652ac9b12163d7c17c2fe9cbc66e1e5f03"
+        "value": "990e48189698f44f5ec011a3b819c960399ca4518aa5bc1c1d81646580717dd7"
       }
     },
     {
@@ -165,7 +165,7 @@
       "byte_size": 231,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "f76fe7a2809e56fa7d622c3779079d6eb544a133552e4d569f21ffb3adf4a52b"
+        "value": "c8455486dffe3ff740f79c527c639f5afbc9febca4fad5b8c09f88662c8e120b"
       }
     },
     {
@@ -177,7 +177,7 @@
       "byte_size": 93469,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "334b30fe9d4d7994d7fb94bcb3818328f0ae69e63277e7c0f68ad0fe8cd8d5ed"
+        "value": "54711402180cffa2791a1703cd0eabf65e1e28fa53fd82ecaa1ac05268d09c1e"
       }
     },
     {
@@ -186,10 +186,10 @@
       "metadata": "https://opensidewalkmap.github.io/lima/metadata/updates/yesterday.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 2551,
+      "byte_size": 753,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "3d4c4b8efdef9ec331c93587bb395dbcdd57137f2991199fbee25bdeebdcd68a"
+        "value": "6b2c7c34901ab5198b81cfb739bb0fa5d53969eb8ae56ee86df6423cf043fdb1"
       }
     }
   ],
