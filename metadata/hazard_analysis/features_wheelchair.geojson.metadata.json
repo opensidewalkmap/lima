@@ -35,10 +35,10 @@
     ],
     "conformance_note": "This is an OSWM JSON application profile. Geographic ISO concepts are applied only to geographic or mixed resources; the profile does not claim conformance to the ISO 19115-3 XML encoding."
   },
-  "identifier": "https://opensidewalkmap.github.io/lima/metadata/processed/other_footways/stairways.parquet.metadata.json",
+  "identifier": "https://opensidewalkmap.github.io/lima/metadata/hazard_analysis/features_wheelchair.geojson.metadata.json",
   "resource_type": "dataset",
-  "title": "Lima — Stairways",
-  "abstract": "Cleaned and structured pedestrian-network layers prepared by OSWM. This record describes the GeoParquet distribution at data/processed/other_footways/stairways.parquet.",
+  "title": "Lima — Features Wheelchair",
+  "abstract": "Profile-specific hazard evidence, rules, tiles, and terrain-context products. This record describes the GeoJSON distribution at data/hazard_analysis/features_wheelchair.geojson.",
   "language": "en",
   "responsible_parties": [
     {
@@ -84,10 +84,11 @@
     }
   },
   "lineage": {
-    "process_description": "Derived from the node's raw OpenStreetMap extracts using OSWM filtering and normalization rules.",
+    "process_description": "Derived from OSWM pedestrian features, accessibility rules, and configured terrain context.",
     "sources": [
+      "data/processed",
       "OpenStreetMap",
-      "data/raw"
+      "Copernicus DEM"
     ]
   },
   "quality": {
@@ -112,31 +113,31 @@
     "deterministic": true
   },
   "distribution": {
-    "resource_path": "data/processed/other_footways/stairways.parquet",
-    "access_url": "https://opensidewalkmap.github.io/lima/data/processed/other_footways/stairways.parquet",
-    "download_url": "https://opensidewalkmap.github.io/lima/data/processed/other_footways/stairways.parquet",
-    "media_type": "application/vnd.apache.parquet",
-    "format": "GeoParquet",
-    "byte_size": 610162,
+    "resource_path": "data/hazard_analysis/features_wheelchair.geojson",
+    "access_url": "https://opensidewalkmap.github.io/lima/data/hazard_analysis/features_wheelchair.geojson",
+    "download_url": "https://opensidewalkmap.github.io/lima/data/hazard_analysis/features_wheelchair.geojson",
+    "media_type": "application/geo+json",
+    "format": "GeoJSON",
+    "byte_size": 70164450,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "f151a367e9606754472819b59485cc0616e6f8cf9d1a3b1b660580ee2f36ec33"
+      "value": "cf5a6ab1273fb9dc7a666e1fce5a2d0cd4af2f7cc2fe027f5d536faa72e338ea"
     }
   },
   "links": [
     {
       "rel": "self",
-      "href": "https://opensidewalkmap.github.io/lima/metadata/processed/other_footways/stairways.parquet.metadata.json",
+      "href": "https://opensidewalkmap.github.io/lima/metadata/hazard_analysis/features_wheelchair.geojson.metadata.json",
       "type": "application/json"
     },
     {
       "rel": "describes",
-      "href": "https://opensidewalkmap.github.io/lima/data/processed/other_footways/stairways.parquet",
-      "type": "application/vnd.apache.parquet"
+      "href": "https://opensidewalkmap.github.io/lima/data/hazard_analysis/features_wheelchair.geojson",
+      "type": "application/geo+json"
     },
     {
       "rel": "collection",
-      "href": "https://opensidewalkmap.github.io/lima/metadata/processed/other_footways/index.json",
+      "href": "https://opensidewalkmap.github.io/lima/metadata/hazard_analysis/index.json",
       "type": "application/json"
     }
   ]
