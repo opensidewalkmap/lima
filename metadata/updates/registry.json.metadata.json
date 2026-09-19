@@ -34,7 +34,7 @@
   ],
   "spatial": null,
   "temporal": {
-    "updated": "2026-09-18T12:41:29+00:00",
+    "updated": "2026-09-18T13:10:49+00:00",
     "node_registry": {
       "Data Fetching": "2026-08-24T19:29:32Z",
       "Versioning Data": "2026-09-13T13:23:28Z",
@@ -42,8 +42,8 @@
       "Data Quality Tool": "2026-09-18T12:28:55Z",
       "Completeness Analysis": "2026-09-18T12:41:16Z",
       "Statistical Charts": "2026-09-18T12:41:29Z",
-      "OSWM Codebase Revision": "3023fa63ac1616fee45d5e874ef4278b3ca0b5ca",
-      "Pipeline Success": "2026-09-17T12:51:04Z",
+      "OSWM Codebase Revision": "f5fa3e6205344e6fe917e0fb103e80405150dbb4",
+      "Pipeline Success": "2026-09-18T13:10:49Z",
       "Wiki check for keys": "2026-09-13T13:26:28Z"
     }
   },
@@ -67,7 +67,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-18T12:41:29+00:00",
+    "generated_at": "2026-09-18T13:10:49+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "f5fa3e6205344e6fe917e0fb103e80405150dbb4",
@@ -82,10 +82,10 @@
     "download_url": "https://opensidewalkmap.github.io/lima/data/updates/registry.json",
     "media_type": "application/json",
     "format": "JSON",
-    "byte_size": 470,
+    "byte_size": 471,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "4aa8e052e13df729a218c360600a4c146ced900b27a3b41e39f164ce5dc3e454"
+      "value": "c2ac3146d67d02bde17aadfda6c8fcce738e4103762d5be6758da4b7d9197dea"
     }
   },
   "links": [
