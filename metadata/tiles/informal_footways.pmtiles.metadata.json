@@ -70,14 +70,14 @@
     "geometry": "https://opensidewalkmap.github.io/lima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-09-20T13:24:52+00:00",
+    "updated": "2026-09-21T14:52:25+00:00",
     "node_registry": {
       "Data Fetching": "2026-08-24T19:29:32Z",
       "Versioning Data": "2026-09-20T13:22:04Z",
-      "Data Pre-Processing": "2026-09-20T13:22:14Z",
-      "Data Quality Tool": "2026-09-20T13:22:36Z",
-      "Completeness Analysis": "2026-09-18T12:41:16Z",
-      "Statistical Charts": "2026-09-20T13:22:45Z",
+      "Data Pre-Processing": "2026-09-21T14:35:05Z",
+      "Data Quality Tool": "2026-09-21T14:38:44Z",
+      "Completeness Analysis": "2026-09-21T14:52:11Z",
+      "Statistical Charts": "2026-09-21T14:52:25Z",
       "OSWM Codebase Revision": "f5fa3e6205344e6fe917e0fb103e80405150dbb4",
       "Pipeline Success": "2026-09-19T12:07:29Z",
       "Wiki check for keys": "2026-09-20T13:24:52Z"
@@ -101,7 +101,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-20T13:24:52+00:00",
+    "generated_at": "2026-09-21T14:52:25+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "5d7e470015e5e5327cdeaa4d3511d919e4e21d8b",
@@ -116,10 +116,10 @@
     "download_url": "https://opensidewalkmap.github.io/lima/data/tiles/informal_footways.pmtiles",
     "media_type": "application/vnd.pmtiles",
     "format": "PMTiles",
-    "byte_size": 3432582,
+    "byte_size": 3432188,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "4732f0c3bb926da5cd3e8a004c419e13516a42b5bbb162eb249b2a3c211aecce"
+      "value": "1e27654c3ace4fa19868fd244779390893f3b081589ab35e0cde9161a2ebc05f"
     }
   },
   "links": [
