@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/lima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-09-22T12:53:59+00:00",
+    "updated": "2026-09-24T13:16:29+00:00",
     "node_registry": {
       "Data Fetching": "2026-08-24T19:29:32Z",
       "Versioning Data": "2026-09-20T13:22:04Z",
-      "Data Pre-Processing": "2026-09-21T14:35:05Z",
-      "Data Quality Tool": "2026-09-21T14:38:44Z",
-      "Completeness Analysis": "2026-09-21T14:52:11Z",
-      "Statistical Charts": "2026-09-21T14:52:25Z",
+      "Data Pre-Processing": "2026-09-24T12:56:58Z",
+      "Data Quality Tool": "2026-09-24T13:00:38Z",
+      "Completeness Analysis": "2026-09-24T13:16:06Z",
+      "Statistical Charts": "2026-09-24T13:16:29Z",
       "OSWM Codebase Revision": "5d7e470015e5e5327cdeaa4d3511d919e4e21d8b",
-      "Pipeline Success": "2026-09-22T12:53:59Z",
+      "Pipeline Success": "2026-09-23T13:05:34Z",
       "Wiki check for keys": "2026-09-20T13:24:52Z"
     }
   },
@@ -102,11 +102,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-22T12:53:59+00:00",
+    "generated_at": "2026-09-24T13:16:29+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "5d7e470015e5e5327cdeaa4d3511d919e4e21d8b",
-      "commit_date": "2026-09-19T11:18:56-03:00"
+      "commit": "231b2d9dc31ff40226041e9097f2a523feae5474",
+      "commit_date": "2026-09-23T16:13:34-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -118,10 +118,10 @@
       "metadata": "https://opensidewalkmap.github.io/lima/metadata/processed/other_footways/informal_footways.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 142313,
+      "byte_size": 142318,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "e42a41ac2a595832bee13e1bafea4f614415ed8e12f4e99c312f44a1b84d6bec"
+        "value": "1bc1105aae7b3b60b302ac93babb114d60c6403a0c882f1549ad677a70d87b74"
       }
     },
     {
@@ -130,10 +130,10 @@
       "metadata": "https://opensidewalkmap.github.io/lima/metadata/processed/other_footways/main_footways.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 3083783,
+      "byte_size": 3087200,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "73e1030a71a209f79ae45902a5a60173b354c735a4287c7178797cdc8de5dd17"
+        "value": "57149a8cd66c57f0cea2d8935b974414dad870d0a8a20ede9b73bc031a71c562"
       }
     },
     {
@@ -142,10 +142,10 @@
       "metadata": "https://opensidewalkmap.github.io/lima/metadata/processed/other_footways/pedestrian_areas.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 331842,
+      "byte_size": 331793,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "09889770ac194b8c225574cd8ae9d06c3020ec44ce2c0a2a83ed3eb978b32220"
+        "value": "729aacd5622d8084fc2a2e0424d3661a83144b20e046b20128fc8e61f763df18"
       }
     },
     {
@@ -154,10 +154,10 @@
       "metadata": "https://opensidewalkmap.github.io/lima/metadata/processed/other_footways/potential_footways.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 922078,
+      "byte_size": 922077,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "f6a69b15ff86946d50b2034980bac1976f22bfc6cb4296584c2b18259f7832b5"
+        "value": "2e869085700f0691bd2209f53b6f3358a6f9aa0db1ffb48056f209969bbd88ce"
       }
     },
     {
@@ -166,10 +166,10 @@
       "metadata": "https://opensidewalkmap.github.io/lima/metadata/processed/other_footways/stairways.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 609916,
+      "byte_size": 610160,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "ce4ffaaea0fe5ad91367a3927926e689ea98df89182deb95df90ed09d6a6e142"
+        "value": "4f3d2ef30f0cfc98dd670419e1aed968d72b1bd29f50dde1ed53bd22766c1ffd"
       }
     }
   ],

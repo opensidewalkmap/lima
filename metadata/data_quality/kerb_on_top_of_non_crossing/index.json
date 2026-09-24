@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/lima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-09-22T12:53:59+00:00",
+    "updated": "2026-09-24T13:16:29+00:00",
     "node_registry": {
       "Data Fetching": "2026-08-24T19:29:32Z",
       "Versioning Data": "2026-09-20T13:22:04Z",
-      "Data Pre-Processing": "2026-09-21T14:35:05Z",
-      "Data Quality Tool": "2026-09-21T14:38:44Z",
-      "Completeness Analysis": "2026-09-21T14:52:11Z",
-      "Statistical Charts": "2026-09-21T14:52:25Z",
+      "Data Pre-Processing": "2026-09-24T12:56:58Z",
+      "Data Quality Tool": "2026-09-24T13:00:38Z",
+      "Completeness Analysis": "2026-09-24T13:16:06Z",
+      "Statistical Charts": "2026-09-24T13:16:29Z",
       "OSWM Codebase Revision": "5d7e470015e5e5327cdeaa4d3511d919e4e21d8b",
-      "Pipeline Success": "2026-09-22T12:53:59Z",
+      "Pipeline Success": "2026-09-23T13:05:34Z",
       "Wiki check for keys": "2026-09-20T13:24:52Z"
     }
   },
@@ -103,11 +103,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-22T12:53:59+00:00",
+    "generated_at": "2026-09-24T13:16:29+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "5d7e470015e5e5327cdeaa4d3511d919e4e21d8b",
-      "commit_date": "2026-09-19T11:18:56-03:00"
+      "commit": "231b2d9dc31ff40226041e9097f2a523feae5474",
+      "commit_date": "2026-09-23T16:13:34-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -119,10 +119,10 @@
       "metadata": "https://opensidewalkmap.github.io/lima/metadata/data_quality/kerb_on_top_of_non_crossing/kerbs_no_crossing.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 30429,
+      "byte_size": 30425,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "e4211d2b1f9c1c8c33653a89edeb8b2d55c7b6feae171c34bbdf976e8eb35931"
+        "value": "28a4322123a9ae97d6def0be2405e9e709ebd1c428f5c06ac4fd42adf6abcfde"
       }
     }
   ],

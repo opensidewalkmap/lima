@@ -4,7 +4,39 @@
     <title>OSWM Watcher Changeset Activity - Lima</title>
     <link>https://opensidewalkmap.github.io/lima/hub/watcher/index.html</link>
     <description>OSM changeset activity monitoring and deletion watch for OpenSidewalkMap interest features in Lima.</description>
-    <lastBuildDate>Wed, 23 Sep 2026 13:03:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 13:45:10 GMT</lastBuildDate>
+    <item>
+        <title>[Activity] OSM Changeset 189452820 by UNKNOWN2893757 (0 additions, 39 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/189452820</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189452820&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/UNKNOWN2893757&quot;&gt;UNKNOWN2893757&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; adding name:etymology:wikidata&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 39&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189452820&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189452820&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 23 Sep 2026 14:28:19 GMT</pubDate>
+        <guid isPermaLink="false">activity_189452820</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 189424565 by JSR1781 (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/189424565</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189424565&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/JSR1781&quot;&gt;JSR1781&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Cambios&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189424565&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189424565&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 23 Sep 2026 00:25:26 GMT</pubDate>
+        <guid isPermaLink="false">activity_189424565</guid>
+    </item>
     <item>
         <title>[Alert] High Deletion OSM Changeset 185805545 by El Surquillano (33 deletions)</title>
         <link>https://www.openstreetmap.org/changeset/185805545</link>
