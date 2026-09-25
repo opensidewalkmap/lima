@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/lima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-09-24T13:16:29+00:00",
+    "updated": "2026-09-25T13:20:25+00:00",
     "node_registry": {
       "Data Fetching": "2026-08-24T19:29:32Z",
       "Versioning Data": "2026-09-20T13:22:04Z",
-      "Data Pre-Processing": "2026-09-24T12:56:58Z",
-      "Data Quality Tool": "2026-09-24T13:00:38Z",
-      "Completeness Analysis": "2026-09-24T13:16:06Z",
-      "Statistical Charts": "2026-09-24T13:16:29Z",
-      "OSWM Codebase Revision": "5d7e470015e5e5327cdeaa4d3511d919e4e21d8b",
-      "Pipeline Success": "2026-09-23T13:05:34Z",
+      "Data Pre-Processing": "2026-09-25T13:01:29Z",
+      "Data Quality Tool": "2026-09-25T13:05:18Z",
+      "Completeness Analysis": "2026-09-25T13:20:12Z",
+      "Statistical Charts": "2026-09-25T13:20:25Z",
+      "OSWM Codebase Revision": "231b2d9dc31ff40226041e9097f2a523feae5474",
+      "Pipeline Success": "2026-09-24T13:45:10Z",
       "Wiki check for keys": "2026-09-20T13:24:52Z"
     }
   },
@@ -102,11 +102,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-24T13:16:29+00:00",
+    "generated_at": "2026-09-25T13:20:25+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "231b2d9dc31ff40226041e9097f2a523feae5474",
-      "commit_date": "2026-09-23T16:13:34-03:00"
+      "commit": "e66ae89639df209eee5e54399f8722614ff97054",
+      "commit_date": "2026-09-25T06:58:12-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -118,10 +118,10 @@
       "metadata": "https://opensidewalkmap.github.io/lima/metadata/processed/crossings.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 285265,
+      "byte_size": 285624,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "d2e30e9948df1408796c459032ddf0f32b7d62c97dc2735fc5151dd32027b827"
+        "value": "b1e1cde59eec288335e90bcbcd675aa39eaca6fe09d969856fd16afe42cbd47d"
       }
     },
     {
@@ -130,10 +130,10 @@
       "metadata": "https://opensidewalkmap.github.io/lima/metadata/processed/kerbs.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 43734,
+      "byte_size": 43749,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "b27b7b3f8d4b251da51cb9d7c55dc0fe39b3473022264777ea1056cae0490432"
+        "value": "7187f3a2e3cff82f591749b8d6dbd1ff0bb60ef03ef843b4ea13b1b3ea607606"
       }
     },
     {
@@ -142,10 +142,10 @@
       "metadata": "https://opensidewalkmap.github.io/lima/metadata/processed/other_footways.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 4414575,
+      "byte_size": 4415099,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "96fb7df110ca3be443a5b7013a5e3ca284c04de6e582c57c565c2f34d71e17a1"
+        "value": "8c0b951b7075574cbcd082e7106351703b2520597fb9030c787156d1715ea502"
       }
     },
     {
@@ -154,10 +154,10 @@
       "metadata": "https://opensidewalkmap.github.io/lima/metadata/processed/roads_for_completeness.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 11337731,
+      "byte_size": 11382480,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "b74cc3e42199dbaacd471c1aa3adb03a6ae2e0edbdcf47ef716061e263ce404a"
+        "value": "822909ba25059f85011ddbdd6cc91a9093da54b8be83bceeb40ef82a2a59fe3f"
       }
     },
     {
@@ -169,7 +169,7 @@
       "byte_size": 1712501,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "21785f4a2a7a429efa8bf9cc6fc51cf0a3c7e8981ddc7bd557ae98d81d75d49d"
+        "value": "95af984a5aea20c91218baedc4cc2ed215413acc1fad8f5b43c6d040d59fccaa"
       }
     }
   ],
