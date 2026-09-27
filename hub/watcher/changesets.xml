@@ -4,11 +4,11 @@
     <title>OSWM Watcher Changeset Activity - Lima</title>
     <link>https://opensidewalkmap.github.io/lima/hub/watcher/index.html</link>
     <description>OSM changeset activity monitoring and deletion watch for OpenSidewalkMap interest features in Lima.</description>
-    <lastBuildDate>Sat, 26 Sep 2026 12:31:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 13:22:47 GMT</lastBuildDate>
     <item>
-        <title>[Activity] OSM Changeset 189565845 by Randy09 (0 additions, 5 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/189565845</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189565845&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Randy09&quot;&gt;Randy09&lt;/a&gt;&lt;/p&gt;
+        <title>[Activity] OSM Changeset 189566573 by Randy09 (0 additions, 5 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/189566573</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189566573&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Randy09&quot;&gt;Randy09&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify path surfaces&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -16,31 +16,47 @@
     &lt;li&gt;Modifications (tags/geom): 5&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189565845&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189565845&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189566573&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189566573&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 25 Sep 2026 23:16:23 GMT</pubDate>
-        <guid isPermaLink="false">activity_189565845</guid>
+        <pubDate>Sat, 26 Sep 2026 00:05:34 GMT</pubDate>
+        <guid isPermaLink="false">activity_189566573</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 189525263 by Favio Duran (0 additions, 2 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/189525263</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189525263&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Favio Duran&quot;&gt;Favio Duran&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; actualización de vías accesos y estructuras 24/09/26&lt;/p&gt;
+        <title>[Activity] OSM Changeset 189566596 by Randy09 (0 additions, 2 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/189566596</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189566596&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Randy09&quot;&gt;Randy09&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Determine the heights of kerbs&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 0&lt;/li&gt;
     &lt;li&gt;Modifications (tags/geom): 2&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189525263&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189525263&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189566596&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189566596&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 25 Sep 2026 04:38:01 GMT</pubDate>
-        <guid isPermaLink="false">activity_189525263</guid>
+        <pubDate>Sat, 26 Sep 2026 00:06:41 GMT</pubDate>
+        <guid isPermaLink="false">activity_189566596</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 189565852 by Randy09 (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/189565852</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189565852&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Randy09&quot;&gt;Randy09&lt;/a&gt;&lt;/p&gt;
+        <title>[Activity] OSM Changeset 189600791 by JSR1781 (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/189600791</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189600791&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/JSR1781&quot;&gt;JSR1781&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Senderos&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189600791&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189600791&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 26 Sep 2026 18:23:35 GMT</pubDate>
+        <guid isPermaLink="false">activity_189600791</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 189589914 by XJadezbiX (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/189589914</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189589914&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/XJadezbiX&quot;&gt;XJadezbiX&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Determine the heights of kerbs at crossings&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -48,42 +64,10 @@
     &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189565852&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189565852&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189589914&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189589914&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 25 Sep 2026 23:16:39 GMT</pubDate>
-        <guid isPermaLink="false">activity_189565852</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 189536865 by KwandoRiver (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/189536865</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189536865&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/KwandoRiver&quot;&gt;KwandoRiver&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Updated street geometry near Avenida Principal #adt&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189536865&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189536865&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 25 Sep 2026 10:25:30 GMT</pubDate>
-        <guid isPermaLink="false">activity_189536865</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 189530583 by HurdenShipCanal (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/189530583</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189530583&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/HurdenShipCanal&quot;&gt;HurdenShipCanal&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Updated the geometry near Avenida Principal #adt&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189530583&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189530583&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 25 Sep 2026 07:42:01 GMT</pubDate>
-        <guid isPermaLink="false">activity_189530583</guid>
+        <pubDate>Sat, 26 Sep 2026 14:01:00 GMT</pubDate>
+        <guid isPermaLink="false">activity_189589914</guid>
     </item>
     <item>
         <title>[Alert] High Deletion OSM Changeset 185805545 by El Surquillano (33 deletions)</title>
@@ -130,15 +114,15 @@
         <guid isPermaLink="false">deletion_alert_181820783</guid>
     </item>
     <item>
-        <title>[Alert] High Deletion OSM Changeset 183471218 by JSR1781 (7 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/183471218</link>
-        <description>&lt;p&gt;&lt;strong&gt;High Deletion Alert for OSM Changeset 183471218&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/JSR1781&quot;&gt;JSR1781&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Cambios en Los Olivos&lt;/p&gt;
+        <title>[Alert] High Deletion OSM Changeset 183475185 by Fer25 (7 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/183475185</link>
+        <description>&lt;p&gt;&lt;strong&gt;High Deletion Alert for OSM Changeset 183475185&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Fer25&quot;&gt;Fer25&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; se mejoró el dibujo del jirón Alcibar de acuerdo a la nueva pista&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Deletions to OSWM features:&lt;/strong&gt; 7&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/183471218&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/183471218&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/183475185&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/183475185&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 31 May 2026 23:18:01 GMT</pubDate>
-        <guid isPermaLink="false">deletion_alert_183471218</guid>
+        <pubDate>Mon, 01 Jun 2026 03:18:58 GMT</pubDate>
+        <guid isPermaLink="false">deletion_alert_183475185</guid>
     </item>
 </channel>
 </rss>
