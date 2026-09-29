@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "renderer_version": 2,
+  "renderer_version": 3,
   "node": "Lima",
   "bounds": [
     -77.1992129,
@@ -10,8 +10,12 @@
   ],
   "source": {
     "tilejson": "https://tiles.openfreemap.org/planet",
-    "versioned_template": "https://tiles.openfreemap.org/planet/20260830_080001_pt/{z}/{x}/{y}.pbf",
-    "attribution": "Basemap \u00a9 OpenFreeMap, \u00a9 OpenMapTiles; data \u00a9 OpenStreetMap contributors"
+    "versioned_template": "https://tiles.openfreemap.org/planet/20260913_164504_pt/{z}/{x}/{y}.pbf",
+    "attribution": "Basemap \u00a9 OpenFreeMap, \u00a9 OpenMapTiles; data \u00a9 OpenStreetMap contributors",
+    "style_basis": {
+      "light": "OpenFreeMap Positron",
+      "dark": "OpenFreeMap Dark Matter"
+    }
   },
   "min_zoom": 10,
   "requested_max_zoom": 16,
@@ -22,12 +26,12 @@
   "outputs": {
     "light": {
       "path": "data/basemaps/light.pmtiles",
-      "bytes": 99603112
+      "bytes": 77946147
     },
     "dark": {
       "path": "data/basemaps/dark.pmtiles",
-      "bytes": 84539810
+      "bytes": 89512424
     }
   },
-  "elapsed_seconds": 232.83749460899998
+  "elapsed_seconds": 237.672253125
 }

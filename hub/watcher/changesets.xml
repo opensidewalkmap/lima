@@ -4,38 +4,54 @@
     <title>OSWM Watcher Changeset Activity - Lima</title>
     <link>https://opensidewalkmap.github.io/lima/hub/watcher/index.html</link>
     <description>OSM changeset activity monitoring and deletion watch for OpenSidewalkMap interest features in Lima.</description>
-    <lastBuildDate>Mon, 28 Sep 2026 16:02:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 15:16:11 GMT</lastBuildDate>
     <item>
-        <title>[Activity] OSM Changeset 189653414 by JSR1781 (2 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/189653414</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189653414&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/JSR1781&quot;&gt;JSR1781&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Giros (siendo sincero es la ruta desde mi casa al palacio)&lt;/p&gt;
+        <title>[Activity] OSM Changeset 189682174 by stadiaarcadia (1 additions, 5 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/189682174</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189682174&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/stadiaarcadia&quot;&gt;stadiaarcadia&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Shape details fixed.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 1&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 5&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189682174&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189682174&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 Sep 2026 14:14:46 GMT</pubDate>
+        <guid isPermaLink="false">activity_189682174</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 189653945 by g_normand (2 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/189653945</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189653945&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/g_normand&quot;&gt;g_normand&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Update Peru&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 2&lt;/li&gt;
     &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189653414&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189653414&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189653945&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189653945&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 27 Sep 2026 23:33:25 GMT</pubDate>
-        <guid isPermaLink="false">activity_189653414</guid>
+        <pubDate>Mon, 28 Sep 2026 00:07:44 GMT</pubDate>
+        <guid isPermaLink="false">activity_189653945</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 189644477 by JSR1781 (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/189644477</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189644477&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/JSR1781&quot;&gt;JSR1781&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Tomás Valle&lt;/p&gt;
+        <title>[Activity] OSM Changeset 189699002 by Ignacio004 (1 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/189699002</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189699002&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Ignacio004&quot;&gt;Ignacio004&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Added playground, tree, pond, sand trap and path at Lima Golf Club&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Additions (creations): 1&lt;/li&gt;
     &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189644477&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189644477&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189699002&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189699002&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 27 Sep 2026 18:15:11 GMT</pubDate>
-        <guid isPermaLink="false">activity_189644477</guid>
+        <pubDate>Mon, 28 Sep 2026 21:02:15 GMT</pubDate>
+        <guid isPermaLink="false">activity_189699002</guid>
     </item>
     <item>
         <title>[Alert] High Deletion OSM Changeset 185805545 by El Surquillano (33 deletions)</title>

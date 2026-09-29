@@ -53,6 +53,7 @@ osm_id,feat_type,key,value,commentary
 9096693028,node,last_update,22-9-2021,Feature has not been updated in 5 years or more
 9096693029,node,last_update,22-9-2021,Feature has not been updated in 5 years or more
 9096708835,node,last_update,17-9-2021,Feature has not been updated in 5 years or more
+9096708850,node,last_update,28-9-2021,Feature has not been updated in 5 years or more
 9101653176,node,last_update,17-9-2021,Feature has not been updated in 5 years or more
 9101653177,node,last_update,17-9-2021,Feature has not been updated in 5 years or more
 9101653184,node,last_update,17-9-2021,Feature has not been updated in 5 years or more
@@ -84,3 +85,7 @@ osm_id,feat_type,key,value,commentary
 9111680430,node,last_update,21-9-2021,Feature has not been updated in 5 years or more
 9111680431,node,last_update,21-9-2021,Feature has not been updated in 5 years or more
 9118109236,node,last_update,23-9-2021,Feature has not been updated in 5 years or more
+9128350393,node,last_update,28-9-2021,Feature has not been updated in 5 years or more
+9128350395,node,last_update,28-9-2021,Feature has not been updated in 5 years or more
+9130437051,node,last_update,28-9-2021,Feature has not been updated in 5 years or more
+9130437053,node,last_update,28-9-2021,Feature has not been updated in 5 years or more
