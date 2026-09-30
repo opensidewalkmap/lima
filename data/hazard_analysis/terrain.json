@@ -3,7 +3,7 @@
   "bounds": [
     -77.1978644,
     -12.4949574,
-    -76.6661565,
+    -76.6585878,
     -11.7325748
   ],
   "coordinates": [
@@ -12,11 +12,11 @@
       -11.7325748
     ],
     [
-      -76.6661565,
+      -76.6585878,
       -11.7325748
     ],
     [
-      -76.6661565,
+      -76.6585878,
       -12.4949574
     ],
     [
@@ -27,7 +27,7 @@
   "cross_slope_included": false,
   "description": "Contextual unsigned slope potential derived from a global digital surface model. It is not a measurement of sidewalk or cross slope.",
   "directionality": "unsigned contextual potential",
-  "generated_at": "2026-09-29T14:51:20.750207+00:00",
+  "generated_at": "2026-09-30T11:55:37.894521+00:00",
   "height": 1600,
   "license": "Copernicus DEM free licence",
   "license_url": "https://dataspace.copernicus.eu/explore-data/data-collections/copernicus-contributing-missions/collections-description/COP-DEM",
@@ -78,5 +78,5 @@
   "source_title": "Copernicus DEM GLO-30 Public (2021)",
   "source_url": "https://registry.opendata.aws/copernicus-dem/",
   "title": "Terrain difficulty potential",
-  "width": 1116
+  "width": 1132
 }

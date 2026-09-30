@@ -1,50 +1,50 @@
 {
   "sidewalks": {
     "status": "ok",
-    "filesize": 24353971,
-    "input_features": 19720,
+    "filesize": 24380194,
+    "input_features": 19714,
     "max_zoom": 19
   },
   "crossings": {
     "status": "ok",
-    "filesize": 4609133,
-    "input_features": 3983,
+    "filesize": 4626559,
+    "input_features": 3995,
     "max_zoom": 19
   },
   "kerbs": {
     "status": "ok",
-    "filesize": 525120,
-    "input_features": 646,
+    "filesize": 561297,
+    "input_features": 687,
     "max_zoom": 19
   },
   "stairways": {
     "status": "ok",
-    "filesize": 22358949,
-    "input_features": 6625,
+    "filesize": 23388051,
+    "input_features": 6623,
     "max_zoom": 19
   },
   "main_footways": {
     "status": "ok",
-    "filesize": 85212915,
-    "input_features": 36078,
+    "filesize": 89373542,
+    "input_features": 36483,
     "max_zoom": 19
   },
   "potential_footways": {
     "status": "ok",
-    "filesize": 39347809,
-    "input_features": 4048,
+    "filesize": 41816435,
+    "input_features": 4087,
     "max_zoom": 19
   },
   "informal_footways": {
     "status": "ok",
-    "filesize": 3432263,
+    "filesize": 3593900,
     "input_features": 269,
     "max_zoom": 19
   },
   "pedestrian_areas": {
     "status": "ok",
-    "filesize": 6330687,
-    "input_features": 892,
+    "filesize": 6670490,
+    "input_features": 890,
     "max_zoom": 19
   }
 }

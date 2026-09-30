@@ -10,8 +10,8 @@
             "pedestrian",
             "service",
             "path",
-            "steps",
-            "construction"
+            "construction",
+            "steps"
         ],
         "bicycle": [
             "yes",
@@ -124,6 +124,7 @@
             "San Pedro",
             "Puente Municipal San Martín",
             "De la Cruz",
+            "Puente Peaje",
             "Puente Ramiro Prialé",
             "Pasaje Primero",
             "Puente San Luis",
@@ -409,9 +410,7 @@
         ],
         "note": [
             "Otro puente se construyó en el 2014, el anterior fue construido metros antes",
-            "Entrada",
-            "Rampa para Discapacitados",
-            "Rampa, único acceso a la Estación \"Pacífico\""
+            "Rampa para Discapacitados"
         ],
         "source": [
             "landsat",
@@ -691,6 +690,12 @@
         "cycleway": [
             "crossing"
         ],
+        "indoor": [
+            "yes"
+        ],
+        "check_date": [
+            "2025/12/06"
+        ],
         "noname": [
             "yes"
         ],
@@ -727,14 +732,8 @@
             "yes",
             "covered"
         ],
-        "check_date": [
-            "2025/12/06"
-        ],
         "construction": [
             "footway"
-        ],
-        "indoor": [
-            "yes"
         ],
         "level:ref": [
             "Piso 2"
@@ -745,12 +744,12 @@
     },
     "kerbs": {
         "crossing": [
-            "zebra",
             "marked",
             "traffic_signals",
+            "zebra",
             "unmarked",
-            "yes",
-            "uncontrolled"
+            "uncontrolled",
+            "yes"
         ],
         "highway": [
             "crossing",
@@ -772,8 +771,8 @@
             "no"
         ],
         "crossing:markings": [
-            "no",
             "zebra",
+            "no",
             "yes"
         ],
         "crossing_ref": [
@@ -836,14 +835,14 @@
         "supervised": [
             "no"
         ],
+        "check_date": [
+            "2025/12/06"
+        ],
         "bridge": [
             "yes"
         ],
         "area": [
             "yes"
-        ],
-        "check_date": [
-            "2025/12/06"
         ]
     },
     "other_footways": {
@@ -858,8 +857,8 @@
             "crossing",
             "footway",
             "pedestrian",
-            "living_street",
             "residential",
+            "living_street",
             "tertiary_link",
             "tertiary",
             "steps",
@@ -918,7 +917,6 @@
             "Plazuela Castilla",
             "Plazuela El Sauzal",
             "Alameda de la Integración",
-            "Circunvalación",
             "Virgen Milagrosa",
             "Calle Porta",
             "Calle Diego Ferré",
@@ -1366,6 +1364,7 @@
             "Pasaje Borgoña",
             "Pasaje San Antonio",
             "Calle C",
+            "Carlos Saco",
             "Talavera",
             "11 de Setiembre",
             "Pachacutec",
@@ -1483,7 +1482,7 @@
             "Expotones",
             "Pasaje Champagnat",
             "Boulevard José Gálvez",
-            "Avenida Nicolás de Ayllón",
+            "Avenida Nicolás Ayllón",
             "Avenida 27 de Diciembre",
             "Calle El Encomendador",
             "Natividad",
@@ -1733,11 +1732,11 @@
             "Jirón Hipólito Unánue",
             "Puente Independencia",
             "Puente Santa Luisa",
-            "Puente Agua Dulce",
             "Calle El Alamo",
             "Ciclovía Costa Verde Magdalena - San Miguel",
             "Jirón Rufino Torrico",
             "Jirón Amazonas",
+            "Jr. Amazonas",
             "Pasaje Castropol",
             "Pasaje Abraham Lincoln",
             "Pasaje Manuel Salcedo",
@@ -1819,6 +1818,7 @@
             "Huandoy",
             "Pasaje Monte Albán",
             "Las Turquesas",
+            "P",
             "Pasaje N°7",
             "Pasaje C2",
             "Jirón Nevado Sara Sara",
@@ -1943,7 +1943,7 @@
             "Puente Cuarenta",
             "Puente Sumac Pacha",
             "Pasaje Llanos Zapata",
-            "Plaza de Armas",
+            "Plaza Cáceres",
             "Patio de Comidas",
             "Puente Segunda de Palao",
             "Puente Los Jardines",
@@ -2165,7 +2165,9 @@
             "Fundición",
             "Flecha",
             "Ingreso",
+            "Acceso Estación Central",
             "Pasaje Daniel A. Carrion",
+            "Av. Nicolás de Piérola",
             "Calle José Gómez",
             "De Jesús",
             "Alayza",
@@ -2174,7 +2176,6 @@
             "Calle 3",
             "Pasaje Tschudy",
             "Calle La Meseta",
-            "Carlos Saco",
             "Pasaje 2 de Febrero",
             "Pasaje Los Próceres",
             "Pasaje Chonta",
@@ -2187,6 +2188,7 @@
             "Jirón Las Mandragoras",
             "Pasaje Febos",
             "Pasaje Hades",
+            "Ciclovía Tomás Valle",
             "Palma de Mallorca",
             "28 de Julio",
             "Alameda del Arco Iris",
@@ -2235,8 +2237,9 @@
             "Bahía de Salinas",
             "Dublín",
             "Ingreso peatonal",
+            "Puente Cotabambas",
             "Pasaje Coronel Enrique Montes",
-            "Pasaje Surinam",
+            "Pasaje Prolongación Surinam",
             "El Desierto",
             "Pasaje San Martin",
             "El Cascajal",
@@ -2516,10 +2519,9 @@
             "Calle Las Magnolias",
             "Ruta Expresa",
             "Ruta Regular",
-            "Entrada y Salida",
             "Puente Embarcadero Sur",
             "Calle Rio de la Plata",
-            "Acceso Estación Central",
+            "Entrada y Salida",
             "Pasillo Tiendas",
             "Pasillo Central",
             "Pasaje Río Paraná",
@@ -2784,6 +2786,7 @@
             "Pasillo Norte",
             "Calle Chamaya",
             "Rio Ucayali",
+            "Jr. de la Unión",
             "Pasaje Chan Chan",
             "Calle La Gruta",
             "Malecón 28 de Julio",
@@ -2889,6 +2892,7 @@
             "Puente Brisas",
             "Puente Perales",
             "Puente Vallejo",
+            "Puente Chorrillos",
             "Escribanos",
             "Calle Los Fiscales",
             "Calle Justo Pastor Bravo",
@@ -3001,6 +3005,7 @@
             "Calle Los Fiaisanes",
             "Parque Infantil",
             "Sicuani",
+            "Calle San Ignacio de Loyola",
             "Jirón Ricardo Alvarado",
             "Pasaje Maracaibo",
             "Calle Carmenca",
@@ -3030,6 +3035,7 @@
             "Pasaje Garcilazo de la Vega",
             "Calle Las Vayas",
             "Pasaje Los Jaspes",
+            "Circunvalación",
             "Plaza de la Composición",
             "Plaza de la Integración",
             "Pasaje del Boceto",
@@ -3083,14 +3089,20 @@
             "Calle Paseo de las Palmas",
             "Calle Paseo de las Brisas",
             "Calle Paseo del Coral",
-            "Puente peatonal Alberto Samame Davila"
+            "Puente peatonal Alberto Samame Davila",
+            "Psj. Santa Rosa",
+            "Calle Puno",
+            "Pasaje Las Amapolas",
+            "Puente Libertad",
+            "Plaza Bolognesi",
+            "Entrada Santander",
+            "Entrada a Garaje Santander"
         ],
         "access": [
             "permissive",
             "yes",
             "customers",
             "permit",
-            "passengers",
             "unknown"
         ],
         "motor_vehicle": [
@@ -3177,8 +3189,7 @@
             "pebblestone",
             "sand",
             "rock",
-            "tiles",
-            "cemento"
+            "tiles"
         ],
         "entrance": [
             "yes",
@@ -3230,6 +3241,7 @@
             "Basada en la nota Tunel peatonal de Los Alisos",
             "Está en la mitad de la cuadra 6 de la avenida La Paz",
             "Parte de la estructura del puente fue retirada. Imagen satelital de Bing desactualizada.",
+            "Entrada",
             "Rampa, único acceso a la Estación \"Pacífico\"",
             "Solo via peatonal.",
             "Esta vía es bidireccional. Da acceso a panamericana sur y centro poblado Pampa Pacta",
@@ -3384,6 +3396,7 @@
             "Pasaje Santa Catalina",
             "Alameda Costa Azul",
             "Rayitos de Sol",
+            "Plaza de Armas del Cuartel General del Ejército",
             "Calle de Melchor Malo",
             "Calle Manuel Gonzales Prada",
             "Fasajea",
@@ -3417,7 +3430,17 @@
             "Calle de Vallalta",
             "Jirón Luis Villarán"
         ],
+        "bench": [
+            "no"
+        ],
         "covered": [
+            "yes"
+        ],
+        "public_transport": [
+            "platform"
+        ],
+        "shelter": [
+            "no",
             "yes"
         ],
         "colour": [
@@ -3429,8 +3452,8 @@
         "shop": [
             "trade"
         ],
-        "public_transport": [
-            "platform"
+        "bin": [
+            "yes"
         ],
         "lit": [
             "yes",
@@ -3456,6 +3479,14 @@
             "crossing",
             "track",
             "designated"
+        ],
+        "indoor": [
+            "yes",
+            "no"
+        ],
+        "check_date": [
+            "2025-06-19",
+            "2025-06-24"
         ],
         "lanes": [
             "2",
@@ -3576,12 +3607,14 @@
         "sidewalk": [
             "both",
             "no",
-            "right"
+            "right",
+            "yes"
         ],
         "bridge:structure": [
             "suspension",
             "beam",
-            "humpback"
+            "humpback",
+            "simple-suspension"
         ],
         "full_name": [
             "Puente Mirador de la Integración Estela Montti"
@@ -3600,7 +3633,7 @@
             "Santa Rosa Passage",
             "Balta Bridge",
             "Ica Street",
-            "Nicolas de Ayllon Avenue",
+            "Nicolas Ayllon Avenue",
             "Lampa Street",
             "Tarata Street",
             "Los Escribanos Passage",
@@ -3654,8 +3687,9 @@
             "26",
             "17",
             "20",
-            "44",
             "8",
+            "44",
+            "10",
             "29",
             "23"
         ],
@@ -3667,6 +3701,7 @@
         ],
         "sidewalk:both": [
             "no",
+            "yes",
             "separate"
         ],
         "waterway": [
@@ -3790,6 +3825,7 @@
             "Q4722106",
             "Q207668",
             "Q5593",
+            "Q44281",
             "Q171632",
             "Q560787",
             "Q523"
@@ -3816,7 +3852,7 @@
             "Jirón Junín",
             "Jirón de la Unión",
             "Pasaje Santa Rosa",
-            "Avenida Nicolás de Ayllón",
+            "Avenida Nicolás Ayllón",
             "Jirón Lampa",
             "Pasaje Los Escribanos",
             "Jirón Loreto",
@@ -3847,7 +3883,8 @@
             "yes"
         ],
         "oneway:bicycle": [
-            "no"
+            "no",
+            "yes"
         ],
         "wikidata": [
             "Q5740955",
@@ -3892,6 +3929,9 @@
             "yes",
             "imported name was Alameda Jose de la Riva Aguero"
         ],
+        "turn:lanes:backward": [
+            "right"
+        ],
         "name:etymology:wikipedia": [
             "es:Angélica Palma"
         ],
@@ -3900,10 +3940,6 @@
             "building_passage",
             "covered",
             "culvert"
-        ],
-        "check_date": [
-            "2025-06-19",
-            "2025-06-24"
         ],
         "construction": [
             "primary"
@@ -3942,12 +3978,12 @@
         "parking:both:restriction": [
             "no_parking"
         ],
-        "indoor": [
-            "yes",
-            "no"
-        ],
         "int_name": [
             "stairway"
+        ],
+        "long_name": [
+            "Plaza Cáceres del Cuartel General del Ejército",
+            "Plaza Bolognesi del Cuartel General del Ejército"
         ],
         "level:ref": [
             "Piso 2",
@@ -3958,6 +3994,9 @@
         ],
         "ramp:luggage": [
             "no"
+        ],
+        "passenger_information_display": [
+            "yes"
         ],
         "shoulder": [
             "no"
@@ -3985,7 +4024,8 @@
             "2023-03-08"
         ],
         "check_date:ramp": [
-            "2026-04-14"
+            "2026-04-14",
+            "2026-09-17"
         ],
         "short_name": [
             "Km 37",
@@ -4011,6 +4051,9 @@
         "building:levels": [
             "2",
             "1"
+        ],
+        "stroller": [
+            "yes"
         ],
         "man_made": [
             "pier"
