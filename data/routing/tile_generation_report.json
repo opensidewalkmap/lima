@@ -1,5 +1,6 @@
 {
   "status": "ok",
+  "source_sha256": "0ebc77276467d61f80be98d23947cf06c094fb03a1e2d785c69df6e0b20b987c",
   "source": "network.parquet",
   "source_layer": "routing",
   "input_features": 71226,

@@ -4,134 +4,23 @@
     <title>OSWM Watcher Changeset Activity - Lima</title>
     <link>https://opensidewalkmap.github.io/lima/hub/watcher/index.html</link>
     <description>OSM changeset activity monitoring and deletion watch for OpenSidewalkMap interest features in Lima.</description>
-    <lastBuildDate>Wed, 30 Sep 2026 14:22:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 15:25:43 GMT</lastBuildDate>
     <item>
-        <title>[Activity] OSM Changeset 189703138 by Dimusoika (16 additions, 17 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/189703138</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189703138&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Dimusoika&quot;&gt;Dimusoika&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Cambios en universidad debido terreno en construcción para nuevo edificio académico&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 16&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 17&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189703138&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189703138&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 29 Sep 2026 00:21:10 GMT</pubDate>
-        <guid isPermaLink="false">activity_189703138</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 189734244 by Dimusoika (18 additions, 7 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/189734244</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189734244&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Dimusoika&quot;&gt;Dimusoika&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Elementos varios dentro de Cuartel General del Ejército&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 18&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 7&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189734244&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189734244&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 29 Sep 2026 15:23:49 GMT</pubDate>
-        <guid isPermaLink="false">activity_189734244</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 189736032 by Dimusoika (4 additions, 16 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/189736032</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189736032&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Dimusoika&quot;&gt;Dimusoika&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Parque y vías aledañas&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 4&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 16&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189736032&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189736032&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 29 Sep 2026 16:02:14 GMT</pubDate>
-        <guid isPermaLink="false">activity_189736032</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 189745703 by Sympathy (12 additions, 0 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/189745703</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189745703&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Sympathy&quot;&gt;Sympathy&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Cambios importantes de Robert A.M. Stern Architects (RAMSA)&lt;/p&gt;
+        <title>[Activity] OSM Changeset 189755601 by Sympathy (12 additions, 3 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/189755601</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189755601&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Sympathy&quot;&gt;Sympathy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Se realizaron importantes modificaciones en el Colegio Sagrado Corazón Sophianum en San Isidro Lima y Cambios importantes de Robert A.M. Stern Architects
+(RAMSA) en varios edificios de Lima.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 12&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 3&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189745703&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189745703&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189755601&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189755601&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 29 Sep 2026 20:03:29 GMT</pubDate>
-        <guid isPermaLink="false">activity_189745703</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 189703781 by Dimusoika (0 additions, 4 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/189703781</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189703781&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Dimusoika&quot;&gt;Dimusoika&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Cambios en universidad debido terreno en construcción para nuevo edificio académico&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 4&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189703781&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189703781&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 29 Sep 2026 01:01:34 GMT</pubDate>
-        <guid isPermaLink="false">activity_189703781</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 189726504 by Emerson Espinoza (1 additions, 0 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/189726504</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189726504&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Emerson Espinoza&quot;&gt;Emerson Espinoza&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Corredor de la Facultad de Ingeniería Ambiental&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 1&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 0&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189726504&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189726504&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 29 Sep 2026 12:55:38 GMT</pubDate>
-        <guid isPermaLink="false">activity_189726504</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 189704375 by JSR1781 (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/189704375</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189704375&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/JSR1781&quot;&gt;JSR1781&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Acera&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189704375&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189704375&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 29 Sep 2026 01:34:16 GMT</pubDate>
-        <guid isPermaLink="false">activity_189704375</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 189704314 by JSR1781 (1 additions, 0 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/189704314</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189704314&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/JSR1781&quot;&gt;JSR1781&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Caminos&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 1&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 0&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189704314&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189704314&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 29 Sep 2026 01:30:10 GMT</pubDate>
-        <guid isPermaLink="false">activity_189704314</guid>
+        <pubDate>Wed, 30 Sep 2026 04:47:13 GMT</pubDate>
+        <guid isPermaLink="false">activity_189755601</guid>
     </item>
     <item>
         <title>[Alert] High Deletion OSM Changeset 185805545 by El Surquillano (33 deletions)</title>
