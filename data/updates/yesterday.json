@@ -1,15 +1,28 @@
 [
     {
-        "id": 189755601,
+        "id": 189837563,
         "user": "Sympathy",
         "uid": 24606448,
         "comment": "Se realizaron importantes modificaciones en el Colegio Sagrado Corazón Sophianum en San Isidro Lima y Cambios importantes de Robert A.M. Stern Architects\n(RAMSA) en varios edificios de Lima.",
-        "created_at": "2026-09-30T04:47:13Z",
-        "changeset_changes_count": 422,
-        "oswm_changes_count": 15,
-        "changes_count": 422,
-        "additions": 12,
-        "modifications": 3,
+        "created_at": "2026-10-01T17:06:15Z",
+        "changeset_changes_count": 186,
+        "oswm_changes_count": 10,
+        "changes_count": 186,
+        "additions": 9,
+        "modifications": 1,
+        "deletions": 0
+    },
+    {
+        "id": 189833853,
+        "user": "Sympathy",
+        "uid": 24606448,
+        "comment": "Se realizaron importantes modificaciones en el Colegio Sagrado Corazón Sophianum en San Isidro Lima y Cambios importantes de Robert A.M. Stern Architects\n(RAMSA) en varios edificios de Lima.",
+        "created_at": "2026-10-01T16:00:02Z",
+        "changeset_changes_count": 417,
+        "oswm_changes_count": 1,
+        "changes_count": 417,
+        "additions": 0,
+        "modifications": 1,
         "deletions": 0
     }
 ]
