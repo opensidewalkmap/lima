@@ -4,40 +4,54 @@
     <title>OSWM Watcher Changeset Activity - Lima</title>
     <link>https://opensidewalkmap.github.io/lima/hub/watcher/index.html</link>
     <description>OSM changeset activity monitoring and deletion watch for OpenSidewalkMap interest features in Lima.</description>
-    <lastBuildDate>Fri, 02 Oct 2026 14:13:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 12:47:14 GMT</lastBuildDate>
     <item>
-        <title>[Activity] OSM Changeset 189837563 by Sympathy (9 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/189837563</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189837563&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Sympathy&quot;&gt;Sympathy&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Se realizaron importantes modificaciones en el Colegio Sagrado Corazón Sophianum en San Isidro Lima y Cambios importantes de Robert A.M. Stern Architects
-(RAMSA) en varios edificios de Lima.&lt;/p&gt;
+        <title>[Activity] OSM Changeset 189857026 by ray331 (11 additions, 0 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/189857026</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189857026&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/ray331&quot;&gt;ray331&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; map the park. It&amp;#x27;s a little hard based on time imagery but it&amp;#x27;s a good start&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-    &lt;li&gt;Additions (creations): 9&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
+    &lt;li&gt;Additions (creations): 11&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 0&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189837563&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189837563&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189857026&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189857026&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 01 Oct 2026 17:06:15 GMT</pubDate>
-        <guid isPermaLink="false">activity_189837563</guid>
+        <pubDate>Fri, 02 Oct 2026 03:37:04 GMT</pubDate>
+        <guid isPermaLink="false">activity_189857026</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 189833853 by Sympathy (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/189833853</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189833853&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Sympathy&quot;&gt;Sympathy&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Se realizaron importantes modificaciones en el Colegio Sagrado Corazón Sophianum en San Isidro Lima y Cambios importantes de Robert A.M. Stern Architects
-(RAMSA) en varios edificios de Lima.&lt;/p&gt;
+        <title>[Activity] OSM Changeset 189889215 by Msalmanq (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/189889215</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189889215&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Msalmanq&quot;&gt;Msalmanq&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Updated footway info near Jirón Huallaga. #adt&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 0&lt;/li&gt;
     &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189833853&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189833853&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189889215&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189889215&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 01 Oct 2026 16:00:02 GMT</pubDate>
-        <guid isPermaLink="false">activity_189833853</guid>
+        <pubDate>Fri, 02 Oct 2026 16:33:16 GMT</pubDate>
+        <guid isPermaLink="false">activity_189889215</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 189856845 by ray331 (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/189856845</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189856845&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/ray331&quot;&gt;ray331&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; fix road&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189856845&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189856845&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 02 Oct 2026 03:26:43 GMT</pubDate>
+        <guid isPermaLink="false">activity_189856845</guid>
     </item>
     <item>
         <title>[Alert] High Deletion OSM Changeset 185805545 by El Surquillano (33 deletions)</title>
