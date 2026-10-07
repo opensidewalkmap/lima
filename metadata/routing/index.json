@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/lima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-10-04T14:15:57+00:00",
+    "updated": "2026-10-07T15:11:03+00:00",
     "node_registry": {
       "Data Fetching": "2026-09-30T11:30:58Z",
       "Versioning Data": "2026-10-04T14:12:25Z",
-      "Data Pre-Processing": "2026-10-04T14:12:35Z",
-      "Data Quality Tool": "2026-10-04T14:12:57Z",
-      "Completeness Analysis": "2026-10-01T15:01:07Z",
-      "Statistical Charts": "2026-10-04T14:13:06Z",
+      "Data Pre-Processing": "2026-10-07T14:49:32Z",
+      "Data Quality Tool": "2026-10-07T14:53:26Z",
+      "Completeness Analysis": "2026-10-07T15:10:48Z",
+      "Statistical Charts": "2026-10-07T15:11:03Z",
       "OSWM Codebase Revision": "c440c911cb07c1f54658a799a6c1fedb028c0b0a",
-      "Pipeline Success": "2026-10-04T13:33:42Z",
+      "Pipeline Success": "2026-10-06T14:32:32Z",
       "Wiki check for keys": "2026-10-04T14:15:57Z"
     }
   },
@@ -103,11 +103,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-10-04T14:15:57+00:00",
+    "generated_at": "2026-10-07T15:11:03+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "c440c911cb07c1f54658a799a6c1fedb028c0b0a",
-      "commit_date": "2026-09-30T21:27:17-03:00"
+      "commit": "0536100724de170e8d92353cd8a4bb8166eb2e70",
+      "commit_date": "2026-10-07T06:38:04-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -122,7 +122,7 @@
       "byte_size": 2955,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "2b39a390c6c0a69f8561d0550f9dc7e404a2a20b2fea9a2a1a692b5dca4caf72"
+        "value": "f2fa99e42c56b0f5a447a651e73efb540816bdbdcbb5f2b356027ce556604bcd"
       }
     },
     {
@@ -158,7 +158,7 @@
       "byte_size": 21264218,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "7ab3020b42befcb586eb40f0aa2b542e81f376e67396bd3aad1303a20972b724"
+        "value": "0a28ff088dd8cdd547f9ae2df92d9982c9c3e8eded4eb3cc33b82b44f60d6dc8"
       }
     },
     {

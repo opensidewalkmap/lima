@@ -4,103 +4,166 @@
     <title>OSWM Watcher Changeset Activity - Lima</title>
     <link>https://opensidewalkmap.github.io/lima/hub/watcher/index.html</link>
     <description>OSM changeset activity monitoring and deletion watch for OpenSidewalkMap interest features in Lima.</description>
-    <lastBuildDate>Tue, 06 Oct 2026 14:31:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 15:35:57 GMT</lastBuildDate>
     <item>
-        <title>[Activity] OSM Changeset 190055295 by Sympathy (3 additions, 4 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/190055295</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 190055295&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Sympathy&quot;&gt;Sympathy&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Se realizaron importantes modificaciones en el Colegio Sagrado Corazón Sophianum en San Isidro Lima y Cambios importantes de Robert A.M. Stern Architects
-(RAMSA) en varios edificios de Lima.&lt;/p&gt;
+        <title>[Activity] OSM Changeset 190063509 by Dimusoika (0 additions, 76 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/190063509</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 190063509&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Dimusoika&quot;&gt;Dimusoika&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify whether ways are lit&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-    &lt;li&gt;Additions (creations): 3&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 4&lt;/li&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 76&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/190055295&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/190055295&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/190063509&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/190063509&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 05 Oct 2026 19:27:24 GMT</pubDate>
-        <guid isPermaLink="false">activity_190055295</guid>
+        <pubDate>Tue, 06 Oct 2026 00:47:24 GMT</pubDate>
+        <guid isPermaLink="false">activity_190063509</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 190056084 by Javier GG (0 additions, 3 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/190056084</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 190056084&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Javier GG&quot;&gt;Javier GG&lt;/a&gt;&lt;/p&gt;
+        <title>[Activity] OSM Changeset 190063693 by Dimusoika (2 additions, 66 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/190063693</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 190063693&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Dimusoika&quot;&gt;Dimusoika&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify surfaces&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 2&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 66&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/190063693&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/190063693&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 Oct 2026 00:57:58 GMT</pubDate>
+        <guid isPermaLink="false">activity_190063693</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 190063477 by Dimusoika (0 additions, 38 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/190063477</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 190063477&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Dimusoika&quot;&gt;Dimusoika&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify path surfaces&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 0&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 3&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 38&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/190056084&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/190056084&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/190063477&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/190063477&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 05 Oct 2026 19:47:47 GMT</pubDate>
-        <guid isPermaLink="false">activity_190056084</guid>
+        <pubDate>Tue, 06 Oct 2026 00:45:17 GMT</pubDate>
+        <guid isPermaLink="false">activity_190063477</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 190056233 by Javier GG (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/190056233</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 190056233&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Javier GG&quot;&gt;Javier GG&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify whether steps have a ramp&lt;/p&gt;
+        <title>[Activity] OSM Changeset 190063301 by Dimusoika (0 additions, 20 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/190063301</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 190063301&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Dimusoika&quot;&gt;Dimusoika&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify step counts&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 0&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 20&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/190056233&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/190056233&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/190063301&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/190063301&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 05 Oct 2026 19:51:48 GMT</pubDate>
-        <guid isPermaLink="false">activity_190056233</guid>
+        <pubDate>Tue, 06 Oct 2026 00:34:08 GMT</pubDate>
+        <guid isPermaLink="false">activity_190063301</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 190056196 by Javier GG (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/190056196</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 190056196&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Javier GG&quot;&gt;Javier GG&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify which way leads up for steps&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/190056196&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/190056196&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 05 Oct 2026 19:50:41 GMT</pubDate>
-        <guid isPermaLink="false">activity_190056196</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 190056186 by Javier GG (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/190056186</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 190056186&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Javier GG&quot;&gt;Javier GG&lt;/a&gt;&lt;/p&gt;
+        <title>[Activity] OSM Changeset 190063293 by Dimusoika (0 additions, 10 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/190063293</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 190063293&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Dimusoika&quot;&gt;Dimusoika&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify whether steps have handrails&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 0&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 10&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/190056186&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/190056186&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/190063293&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/190063293&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 05 Oct 2026 19:50:28 GMT</pubDate>
-        <guid isPermaLink="false">activity_190056186</guid>
+        <pubDate>Tue, 06 Oct 2026 00:33:28 GMT</pubDate>
+        <guid isPermaLink="false">activity_190063293</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 190056039 by Javier GG (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/190056039</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 190056039&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Javier GG&quot;&gt;Javier GG&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Determine the heights of kerbs at crossings&lt;/p&gt;
+        <title>[Activity] OSM Changeset 190063276 by Dimusoika (0 additions, 10 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/190063276</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 190063276&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Dimusoika&quot;&gt;Dimusoika&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify whether steps have a ramp&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 10&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/190063276&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/190063276&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 Oct 2026 00:32:33 GMT</pubDate>
+        <guid isPermaLink="false">activity_190063276</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 190063299 by Dimusoika (0 additions, 5 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/190063299</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 190063299&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Dimusoika&quot;&gt;Dimusoika&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify which way leads up for steps&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 5&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/190063299&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/190063299&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 Oct 2026 00:33:49 GMT</pubDate>
+        <guid isPermaLink="false">activity_190063299</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 190066561 by BikeRoad (3 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/190066561</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 190066561&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/BikeRoad&quot;&gt;BikeRoad&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Agrego centro comercial&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 3&lt;/li&gt;
     &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/190056039&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/190056039&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/190066561&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/190066561&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 05 Oct 2026 19:46:46 GMT</pubDate>
-        <guid isPermaLink="false">activity_190056039</guid>
+        <pubDate>Tue, 06 Oct 2026 03:50:34 GMT</pubDate>
+        <guid isPermaLink="false">activity_190066561</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 190066028 by BikeRoad (4 additions, 0 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/190066028</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 190066028&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/BikeRoad&quot;&gt;BikeRoad&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Agrego vias a centro comercial&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 4&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 0&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/190066028&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/190066028&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 Oct 2026 03:21:26 GMT</pubDate>
+        <guid isPermaLink="false">activity_190066028</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 190066705 by Eduardo17172 (2 additions, 0 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/190066705</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 190066705&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Eduardo17172&quot;&gt;Eduardo17172&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Edición de Pasos de Niveles, Vías y otros en Autopista Ruta del Algarrobo Km. 473-484 (Las Compañías-Punta de Teatinos)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 2&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 0&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/190066705&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/190066705&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 Oct 2026 03:56:58 GMT</pubDate>
+        <guid isPermaLink="false">activity_190066705</guid>
     </item>
     <item>
         <title>[Alert] High Deletion OSM Changeset 185805545 by El Surquillano (33 deletions)</title>
@@ -147,15 +210,15 @@
         <guid isPermaLink="false">deletion_alert_181820783</guid>
     </item>
     <item>
-        <title>[Alert] High Deletion OSM Changeset 183471218 by JSR1781 (7 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/183471218</link>
-        <description>&lt;p&gt;&lt;strong&gt;High Deletion Alert for OSM Changeset 183471218&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/JSR1781&quot;&gt;JSR1781&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Cambios en Los Olivos&lt;/p&gt;
+        <title>[Alert] High Deletion OSM Changeset 183475185 by Fer25 (7 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/183475185</link>
+        <description>&lt;p&gt;&lt;strong&gt;High Deletion Alert for OSM Changeset 183475185&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Fer25&quot;&gt;Fer25&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; se mejoró el dibujo del jirón Alcibar de acuerdo a la nueva pista&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Deletions to OSWM features:&lt;/strong&gt; 7&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/183471218&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/183471218&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/183475185&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/183475185&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 31 May 2026 23:18:01 GMT</pubDate>
-        <guid isPermaLink="false">deletion_alert_183471218</guid>
+        <pubDate>Mon, 01 Jun 2026 03:18:58 GMT</pubDate>
+        <guid isPermaLink="false">deletion_alert_183475185</guid>
     </item>
 </channel>
 </rss>
