@@ -1,15 +1,41 @@
 [
     {
-        "id": 190269605,
-        "user": "El Surquillano",
-        "uid": 21360226,
-        "comment": "Actualización de nodos en San Martín de Porres",
-        "created_at": "2026-10-09T19:11:27Z",
-        "changeset_changes_count": 109,
-        "oswm_changes_count": 9,
-        "changes_count": 109,
-        "additions": 7,
+        "id": 190323041,
+        "user": "JSR1781",
+        "uid": 20049066,
+        "comment": "Mejorando Bypass Las Torres (en trabajo la nueva área inagurada)",
+        "created_at": "2026-10-10T21:19:07Z",
+        "changeset_changes_count": 143,
+        "oswm_changes_count": 15,
+        "changes_count": 143,
+        "additions": 13,
         "modifications": 2,
+        "deletions": 0
+    },
+    {
+        "id": 190310519,
+        "user": "SomeoneElse_Revert",
+        "uid": 1778799,
+        "comment": "Reverting vandalism.  See https://www.openstreetmap.org/user_blocks/21410",
+        "created_at": "2026-10-10T16:02:37Z",
+        "changeset_changes_count": 138,
+        "oswm_changes_count": 8,
+        "changes_count": 138,
+        "additions": 0,
+        "modifications": 8,
+        "deletions": 0
+    },
+    {
+        "id": 190313695,
+        "user": "JSR1781",
+        "uid": 20049066,
+        "comment": "Mejorando Los Alisos",
+        "created_at": "2026-10-10T17:14:46Z",
+        "changeset_changes_count": 35,
+        "oswm_changes_count": 6,
+        "changes_count": 35,
+        "additions": 1,
+        "modifications": 5,
         "deletions": 0
     }
 ]
