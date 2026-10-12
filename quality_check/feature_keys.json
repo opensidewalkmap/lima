@@ -269,6 +269,7 @@
         "check_date:handrail",
         "check_date:ramp",
         "short_name",
+        "platform_lift",
         "auto_rickshaw",
         "electric_bicycle",
         "location",

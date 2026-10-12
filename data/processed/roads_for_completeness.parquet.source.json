@@ -1,0 +1,9 @@
+{
+    "provider": "geofabrik_pbf",
+    "region": "peru",
+    "source_url": "https://download.geofabrik.de/south-america/peru-latest.osm.pbf",
+    "snapshot_timestamp": "2026-10-11T20:21:06Z",
+    "acquired_at": "2026-10-12T14:16:48Z",
+    "sha256": "7770e2a2c612d579b97c8b19190332e09e1c9d2b2c26282b90168ec8db4cf84a",
+    "cache_hit": false
+}

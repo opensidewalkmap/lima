@@ -10,8 +10,7 @@
             "pedestrian",
             "service",
             "path",
-            "construction",
-            "steps"
+            "construction"
         ],
         "bicycle": [
             "yes",
@@ -23,7 +22,8 @@
         "foot": [
             "yes",
             "designated",
-            "permissive"
+            "permissive",
+            "official"
         ],
         "horse": [
             "no",
@@ -402,7 +402,7 @@
             "1",
             "2",
             "-1",
-            "-3",
+            "-2",
             "0"
         ],
         "maxspeed": [
@@ -499,6 +499,7 @@
         ],
         "smoothness": [
             "intermediate",
+            "bad",
             "excellent",
             "good"
         ],
@@ -1058,6 +1059,7 @@
             "Jirón Basilio Ramírez Peña",
             "Gómez Sánchez",
             "Haiti",
+            "Jirón Ayacucho",
             "Pasaje Carlos Alberto Velasquez",
             "Pasaje H",
             "Jirón Andahuaylas",
@@ -2164,6 +2166,7 @@
             "Concordia",
             "Fundición",
             "Flecha",
+            "Puerta 10",
             "Ingreso",
             "Acceso Estación Central",
             "Pasaje Daniel A. Carrion",
@@ -2412,7 +2415,6 @@
             "Pasaje San Francisco Tamayo",
             "Pasaje Huancavelica",
             "Pasaje Saños",
-            "Jirón Ayacucho",
             "Pasaje Mayta Capac",
             "Jirón Ancash",
             "Pasaje Huascar",
@@ -3181,6 +3183,7 @@
             "fine_gravel",
             "metal",
             "cobblestone",
+            "tiles",
             "grass_paver",
             "grass",
             "stepping_stones",
@@ -3188,8 +3191,7 @@
             "tartan",
             "pebblestone",
             "sand",
-            "rock",
-            "tiles"
+            "rock"
         ],
         "entrance": [
             "yes",
@@ -4021,7 +4023,8 @@
             "steps"
         ],
         "check_date:handrail": [
-            "2023-03-08"
+            "2023-03-08",
+            "2026-10-05"
         ],
         "check_date:ramp": [
             "2026-04-14",
@@ -4031,6 +4034,9 @@
             "Km 37",
             "Villa Estela",
             "Psje. Santander"
+        ],
+        "platform_lift": [
+            "vertical"
         ],
         "auto_rickshaw": [
             "yes"
