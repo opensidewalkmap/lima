@@ -34,16 +34,16 @@
   ],
   "spatial": null,
   "temporal": {
-    "updated": "2026-10-12T14:52:03+00:00",
+    "updated": "2026-10-13T14:04:14+00:00",
     "node_registry": {
-      "Data Fetching": "2026-10-12T13:46:46Z",
+      "Data Fetching": "2026-10-13T13:21:12Z",
       "Versioning Data": "2026-10-11T15:01:40Z",
-      "Data Pre-Processing": "2026-10-12T13:46:54Z",
-      "Data Quality Tool": "2026-10-12T13:50:21Z",
-      "Completeness Analysis": "2026-10-12T14:28:32Z",
-      "Statistical Charts": "2026-10-12T14:28:46Z",
+      "Data Pre-Processing": "2026-10-13T13:21:19Z",
+      "Data Quality Tool": "2026-10-13T13:24:19Z",
+      "Completeness Analysis": "2026-10-13T14:04:01Z",
+      "Statistical Charts": "2026-10-13T14:04:14Z",
       "OSWM Codebase Revision": "2a45385c180588093643a524f3ee63cc5a6e641c",
-      "Pipeline Success": "2026-10-12T14:52:03Z",
+      "Pipeline Success": "2026-10-12T17:04:48Z",
       "Wiki check for keys": "2026-10-11T15:04:43Z"
     }
   },
@@ -66,11 +66,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-10-12T14:52:03+00:00",
+    "generated_at": "2026-10-13T14:04:14+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "2a45385c180588093643a524f3ee63cc5a6e641c",
-      "commit_date": "2026-10-11T13:52:05-03:00"
+      "commit": "b51af92e8cb43476df95bb415a2c22806cc50883",
+      "commit_date": "2026-10-12T11:17:51-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -81,10 +81,10 @@
     "download_url": "https://opensidewalkmap.github.io/lima/data/snapshots/node_summary.json",
     "media_type": "application/json",
     "format": "JSON",
-    "byte_size": 27212,
+    "byte_size": 27214,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "658122d6c3f32310c5d01bc1dc6bac8f504d5604bcf59e17fee1763624b65c1f"
+      "value": "4ccb03795d01c0e1fb5dd41f81898b878dae3c31a68776005192dcd20c9b741c"
     }
   },
   "links": [

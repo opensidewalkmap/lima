@@ -1,6 +1,6 @@
 {
   "analytical_network": {
-    "byte_size": 7269984,
+    "byte_size": 7269997,
     "feature_count": 71315,
     "filename": "network.parquet",
     "format": "GeoParquet"
@@ -40,7 +40,7 @@
   },
   "elevation_provider_fingerprint": "a4a4bc7ab35d623e",
   "feature_count": 71315,
-  "generated_at": "2026-10-12T14:31:22.751698+00:00",
+  "generated_at": "2026-10-13T14:06:30.488880+00:00",
   "profile_audit": {
     "blind": {
       "grade_bands": {
@@ -58,8 +58,8 @@
         "barrier": 1,
         "incline": 6959,
         "lighting": 186,
-        "smoothness": 11787,
-        "surface": 48342,
+        "smoothness": 11788,
+        "surface": 48341,
         "tactile_paving": 4011,
         "width": 29
       }
@@ -81,8 +81,8 @@
         "crossing": 1995,
         "incline": 10122,
         "kerb": 1594,
-        "smoothness": 11495,
-        "surface": 46072,
+        "smoothness": 11496,
+        "surface": 46071,
         "width": 36
       }
     },
@@ -103,8 +103,8 @@
         "crossing": 221,
         "incline": 6244,
         "kerb": 3321,
-        "smoothness": 11277,
-        "surface": 43581,
+        "smoothness": 11278,
+        "surface": 43580,
         "width": 34
       }
     }

@@ -1,7 +1,7 @@
 {
     "schema_version": 1,
     "node_name": "Lima",
-    "generated_at": "2026-10-12T13:50:05.452446+00:00",
+    "generated_at": "2026-10-13T13:24:03.683207+00:00",
     "themes": {
         "footway_categories": {
             "kind": "categorical",
@@ -255,15 +255,15 @@
         "surface": {
             "kind": "categorical",
             "total": 19676,
-            "known": 3825,
-            "unknown": 15851,
-            "unknownPercent": 80.56,
+            "known": 3826,
+            "unknown": 15850,
+            "unknownPercent": 80.55,
             "knownCategoryCount": 18,
             "categories": [
                 {
                     "value": "concrete",
-                    "count": 3435,
-                    "percent": 89.8,
+                    "count": 3436,
+                    "percent": 89.81,
                     "color": "#80b1d3"
                 },
                 {
@@ -371,17 +371,17 @@
             ],
             "dominant": {
                 "value": "concrete",
-                "count": 3435,
-                "percent": 89.8,
+                "count": 3436,
+                "percent": 89.81,
                 "color": "#80b1d3"
             },
-            "shannonEntropy": 0.518462,
-            "effectiveDiversity": 1.679443,
+            "shannonEntropy": 0.518355,
+            "effectiveDiversity": 1.679263,
             "lengthFeatureCount": 19676,
             "totalLengthKm": 1441.819507,
-            "unknownLengthKm": 1101.502636,
+            "unknownLengthKm": 1101.375874,
             "lengthKmByCategory": {
-                "concrete": 314.354037,
+                "concrete": 314.480799,
                 "paving_stones": 7.880538,
                 "asphalt": 6.594132,
                 "concrete:plates": 4.259533,
@@ -660,10 +660,10 @@
             "unknown": 179,
             "unknownPercent": 0.25,
             "invalid": 0,
-            "min": 0.002738,
-            "max": 22.173854,
-            "mean": 4.695386,
-            "median": 4.271047,
+            "min": 0.005476,
+            "max": 22.176591,
+            "mean": 4.698124,
+            "median": 4.273785,
             "bins": [
                 {
                     "label": "0–<2",
@@ -676,35 +676,35 @@
                     "label": "2–<4",
                     "lower": 2.0,
                     "upper": 4.0,
-                    "count": 20326,
+                    "count": 20324,
                     "color": "#35b779"
                 },
                 {
                     "label": "4–<6",
                     "lower": 4.0,
                     "upper": 6.0,
-                    "count": 18102,
+                    "count": 18103,
                     "color": "#21918c"
                 },
                 {
                     "label": "6–<8",
                     "lower": 6.0,
                     "upper": 8.0,
-                    "count": 10385,
+                    "count": 10307,
                     "color": "#31688e"
                 },
                 {
                     "label": "8–<10",
                     "lower": 8.0,
                     "upper": 10.0,
-                    "count": 8542,
+                    "count": 8570,
                     "color": "#443983"
                 },
                 {
                     "label": "10+",
                     "lower": 10.0,
                     "upper": null,
-                    "count": 2839,
+                    "count": 2890,
                     "color": "#440154"
                 }
             ],
