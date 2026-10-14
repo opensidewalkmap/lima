@@ -1,9 +1,3 @@
 {
-    "provider": "geofabrik_pbf",
-    "region": "peru",
-    "source_url": "https://download.geofabrik.de/south-america/peru-latest.osm.pbf",
-    "snapshot_timestamp": "2026-10-12T20:21:35Z",
-    "acquired_at": "2026-10-13T13:48:47Z",
-    "sha256": "f4c83a4ed2aed97a7606709f457c459d56f35aa450c5ce9382e7b3a884fb4208",
-    "cache_hit": false
+    "provider": "overpass"
 }

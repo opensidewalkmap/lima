@@ -2,11 +2,11 @@
   "schema_version": 1,
   "build_contract": 1,
   "node": "Lima",
-  "generated_at": "2026-10-13T14:26:00Z",
-  "mode": "generate",
+  "generated_at": "2026-10-14T12:55:11Z",
+  "mode": "rebuild",
   "core": {
     "repository": "kauevestena/oswm_codebase",
-    "sha": "b51af92e8cb43476df95bb415a2c22806cc50883"
+    "sha": "b29905d3341c1d4f91b3b7406949b56322ae4f29"
   },
   "runtime": {
     "schema_version": 1,
