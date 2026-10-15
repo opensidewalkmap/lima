@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/lima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-10-14T12:55:12+00:00",
+    "updated": "2026-10-15T13:14:03+00:00",
     "node_registry": {
       "Data Fetching": "2026-10-13T13:21:12Z",
       "Versioning Data": "2026-10-11T15:01:40Z",
-      "Data Pre-Processing": "2026-10-14T12:10:49Z",
-      "Data Quality Tool": "2026-10-14T12:13:54Z",
-      "Completeness Analysis": "2026-10-14T12:31:57Z",
-      "Statistical Charts": "2026-10-14T12:32:09Z",
+      "Data Pre-Processing": "2026-10-15T12:54:16Z",
+      "Data Quality Tool": "2026-10-15T12:56:34Z",
+      "Completeness Analysis": "2026-10-15T13:13:51Z",
+      "Statistical Charts": "2026-10-15T13:14:03Z",
       "OSWM Codebase Revision": "b29905d3341c1d4f91b3b7406949b56322ae4f29",
-      "Pipeline Success": "2026-10-14T12:55:12Z",
+      "Pipeline Success": "2026-10-14T13:10:01Z",
       "Wiki check for keys": "2026-10-11T15:04:43Z"
     }
   },
@@ -102,11 +102,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-10-14T12:55:12+00:00",
+    "generated_at": "2026-10-15T13:14:03+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "b29905d3341c1d4f91b3b7406949b56322ae4f29",
-      "commit_date": "2026-10-14T09:05:54-03:00"
+      "commit": "bf6f98b2e72c48e8208e622d648dc7366e7d51f2",
+      "commit_date": "2026-10-14T10:11:45-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -118,10 +118,10 @@
       "metadata": "https://opensidewalkmap.github.io/lima/metadata/processed/other_footways/informal_footways.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 146512,
+      "byte_size": 146528,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "aa5db661a576c014ee519c01a1bbc397a424ec7fc882a73620fecc487f4600b3"
+        "value": "ee171f604576d6970a67f58cce8eb0ecb07bb627bfcb99abeed3123fd16cd4bb"
       }
     },
     {
@@ -130,10 +130,10 @@
       "metadata": "https://opensidewalkmap.github.io/lima/metadata/processed/other_footways/main_footways.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 3128984,
+      "byte_size": 3126335,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "689565fea67d8a9cac96ea3cf9d14dd3300f9db693d037756f0c9eabd39cfcdb"
+        "value": "9b3a05e8b83dbe5aca6f137d2bae2d1561dc49ee414a801762d56669cf15857d"
       }
     },
     {
@@ -142,10 +142,10 @@
       "metadata": "https://opensidewalkmap.github.io/lima/metadata/processed/other_footways/pedestrian_areas.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 339527,
+      "byte_size": 339429,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "583d4410c1d964d562c4d425d69f02671b205ce10010869ba1fccc2abe7e1235"
+        "value": "0d01f2780393bdeb46b12422e8ac347a7abb43aad2b4f8cd36d6d02fa4b0cef6"
       }
     },
     {
@@ -157,7 +157,7 @@
       "byte_size": 938826,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "bc5941e98b52fc825ffea835439224f43396deb65834b4d0ae21ac39cca56690"
+        "value": "7eaa59e19818397e35567b6e704359cc9674961709dc21b3e5c1f18a20823c02"
       }
     },
     {
@@ -166,10 +166,10 @@
       "metadata": "https://opensidewalkmap.github.io/lima/metadata/processed/other_footways/stairways.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 614728,
+      "byte_size": 614016,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "711f3cfee2b5c5090847fbac805fa7868d0261747571507e7a275a1a3c873703"
+        "value": "0af8051f201972c78817dc9fa662a99e6baa52814179bc1ca629770dde4f96e0"
       }
     }
   ],
