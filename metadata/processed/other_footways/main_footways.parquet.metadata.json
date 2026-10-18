@@ -70,17 +70,17 @@
     "geometry": "https://opensidewalkmap.github.io/lima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-10-17T11:49:46+00:00",
+    "updated": "2026-10-18T12:46:43+00:00",
     "node_registry": {
       "Data Fetching": "2026-10-13T13:21:12Z",
-      "Versioning Data": "2026-10-11T15:01:40Z",
-      "Data Pre-Processing": "2026-10-15T12:54:16Z",
-      "Data Quality Tool": "2026-10-15T12:56:34Z",
+      "Versioning Data": "2026-10-18T12:43:09Z",
+      "Data Pre-Processing": "2026-10-18T12:43:15Z",
+      "Data Quality Tool": "2026-10-18T12:43:26Z",
       "Completeness Analysis": "2026-10-15T13:13:51Z",
-      "Statistical Charts": "2026-10-15T13:14:03Z",
+      "Statistical Charts": "2026-10-18T12:43:32Z",
       "OSWM Codebase Revision": "bf6f98b2e72c48e8208e622d648dc7366e7d51f2",
-      "Pipeline Success": "2026-10-17T11:49:46Z",
-      "Wiki check for keys": "2026-10-11T15:04:43Z"
+      "Pipeline Success": "2026-10-18T12:15:08Z",
+      "Wiki check for keys": "2026-10-18T12:46:43Z"
     }
   },
   "lineage": {
@@ -102,7 +102,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-10-17T11:49:46+00:00",
+    "generated_at": "2026-10-18T12:46:43+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "bf6f98b2e72c48e8208e622d648dc7366e7d51f2",
@@ -117,10 +117,10 @@
     "download_url": "https://opensidewalkmap.github.io/lima/data/processed/other_footways/main_footways.parquet",
     "media_type": "application/vnd.apache.parquet",
     "format": "GeoParquet",
-    "byte_size": 3126335,
+    "byte_size": 3122759,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "9b3a05e8b83dbe5aca6f137d2bae2d1561dc49ee414a801762d56669cf15857d"
+      "value": "e190d57e09fc5e7aa83d66d28aa68d3953291990017eaa0a8751033a5264b85a"
     }
   },
   "links": [

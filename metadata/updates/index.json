@@ -65,17 +65,17 @@
     "geometry": "https://opensidewalkmap.github.io/lima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-10-17T11:49:46+00:00",
+    "updated": "2026-10-18T12:46:43+00:00",
     "node_registry": {
       "Data Fetching": "2026-10-13T13:21:12Z",
-      "Versioning Data": "2026-10-11T15:01:40Z",
-      "Data Pre-Processing": "2026-10-15T12:54:16Z",
-      "Data Quality Tool": "2026-10-15T12:56:34Z",
+      "Versioning Data": "2026-10-18T12:43:09Z",
+      "Data Pre-Processing": "2026-10-18T12:43:15Z",
+      "Data Quality Tool": "2026-10-18T12:43:26Z",
       "Completeness Analysis": "2026-10-15T13:13:51Z",
-      "Statistical Charts": "2026-10-15T13:14:03Z",
+      "Statistical Charts": "2026-10-18T12:43:32Z",
       "OSWM Codebase Revision": "bf6f98b2e72c48e8208e622d648dc7366e7d51f2",
-      "Pipeline Success": "2026-10-17T11:49:46Z",
-      "Wiki check for keys": "2026-10-11T15:04:43Z"
+      "Pipeline Success": "2026-10-18T12:15:08Z",
+      "Wiki check for keys": "2026-10-18T12:46:43Z"
     }
   },
   "lineage": {
@@ -98,7 +98,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-10-17T11:49:46+00:00",
+    "generated_at": "2026-10-18T12:46:43+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "bf6f98b2e72c48e8208e622d648dc7366e7d51f2",
@@ -141,7 +141,7 @@
       "byte_size": 3355,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "6aa06d7ac7e968bf8a34107d2f02423b369bfee24345122a6d581a46258d02d6"
+        "value": "ab6d16865d3709334f738b2b30c760c7097c7fdc4ee638d04854d1bd8dd897f0"
       }
     },
     {
@@ -162,10 +162,10 @@
       "metadata": "https://opensidewalkmap.github.io/lima/metadata/updates/registry.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 471,
+      "byte_size": 470,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "4d932df058f6f2ae5587216235071cfb5fbf8247f20ad01ceafc07e2d50d8699"
+        "value": "c87d1da3cd74e057c129cce898d303d81fc15d85ac87b211c194f19ab2f202be"
       }
     },
     {
