@@ -82,10 +82,10 @@
     "download_url": "https://opensidewalkmap.github.io/lima/data/updates/yesterday.json",
     "media_type": "application/json",
     "format": "JSON",
-    "byte_size": 1771,
+    "byte_size": 1122,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "72a84844623ffc8a6ac5594ec850d75826d965f7a73aeb06f838913fe746c579"
+      "value": "55dd6394e072d7cb562f95b594eb242031cc049493b39816f199de73f8e08a04"
     }
   },
   "links": [
