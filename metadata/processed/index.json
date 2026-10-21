@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/lima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-10-19T15:04:25+00:00",
+    "updated": "2026-10-21T13:45:27+00:00",
     "node_registry": {
       "Data Fetching": "2026-10-13T13:21:12Z",
       "Versioning Data": "2026-10-18T12:43:09Z",
-      "Data Pre-Processing": "2026-10-18T12:43:15Z",
-      "Data Quality Tool": "2026-10-18T12:43:26Z",
-      "Completeness Analysis": "2026-10-15T13:13:51Z",
-      "Statistical Charts": "2026-10-18T12:43:32Z",
+      "Data Pre-Processing": "2026-10-21T13:18:06Z",
+      "Data Quality Tool": "2026-10-21T13:21:06Z",
+      "Completeness Analysis": "2026-10-21T13:45:15Z",
+      "Statistical Charts": "2026-10-21T13:45:27Z",
       "OSWM Codebase Revision": "bf6f98b2e72c48e8208e622d648dc7366e7d51f2",
-      "Pipeline Success": "2026-10-19T15:04:25Z",
+      "Pipeline Success": "2026-10-20T13:05:42Z",
       "Wiki check for keys": "2026-10-18T12:46:43Z"
     }
   },
@@ -102,11 +102,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-10-19T15:04:25+00:00",
+    "generated_at": "2026-10-21T13:45:27+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "bf6f98b2e72c48e8208e622d648dc7366e7d51f2",
-      "commit_date": "2026-10-14T10:11:45-03:00"
+      "commit": "74cbda522dbbc833c7fceabe1c16d83299e72c43",
+      "commit_date": "2026-10-20T10:38:11-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -118,10 +118,10 @@
       "metadata": "https://opensidewalkmap.github.io/lima/metadata/processed/crossings.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 287035,
+      "byte_size": 286935,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "da9904eefd3f386203c650eab249044b0b18a3d6f0548babd4ff7e6021b1cb96"
+        "value": "0e6fc54195c7c3d3cdd3f536d0c5c59bbc9fc1b2ab86ec31cf02b5f3a26c9503"
       }
     },
     {
@@ -130,10 +130,10 @@
       "metadata": "https://opensidewalkmap.github.io/lima/metadata/processed/kerbs.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 45511,
+      "byte_size": 45513,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "19d37b21a217f2325881c372efcc21a923296956467cc9bd63bbe57ef8a52b79"
+        "value": "58d9c447eb7286b6987a81fe807184c5b2f2720714039dde53351a883e496aad"
       }
     },
     {
@@ -142,10 +142,10 @@
       "metadata": "https://opensidewalkmap.github.io/lima/metadata/processed/other_footways.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 4440269,
+      "byte_size": 4440566,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "cfc1e17d7b88bfddb7a7cbb231f68f9ce9061c3138dac2956aa431b6911ae083"
+        "value": "b3bb5f09dad326ae7b285204d10af00ca8b1bc35f6795e6e12e6972ccc710a5c"
       }
     },
     {
@@ -154,10 +154,10 @@
       "metadata": "https://opensidewalkmap.github.io/lima/metadata/processed/roads_for_completeness.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 11316695,
+      "byte_size": 11301767,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "e97f59fcc078025cc0f04ebb7189c5b744358337a23ea7755f6072513a6f861a"
+        "value": "c1185cd0b78fd9ba2297c0a4ac67e323b5cf4af39835f47f3c78c125437c1575"
       }
     },
     {
@@ -169,7 +169,7 @@
       "byte_size": 341,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "71fb27faa484ee1b6f35837f7c3a69b4029b72e6534b165fb96f98ebae7fa75b"
+        "value": "abd676ddff0bf983156ecd19fc4af4da8b740ee63f37ad437b6b48279c0a9e57"
       }
     },
     {
@@ -178,10 +178,10 @@
       "metadata": "https://opensidewalkmap.github.io/lima/metadata/processed/sidewalks.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 1711749,
+      "byte_size": 1709652,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "bcb78d8a2223213cdadb67e662e84eecf7ada5f7d392cda4e24e6aa74913245d"
+        "value": "b649693704a0ca8b0c015d760ab0158090fb8139c5a037028749f707fdf705c7"
       }
     }
   ],

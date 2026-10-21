@@ -34,16 +34,16 @@
   ],
   "spatial": null,
   "temporal": {
-    "updated": "2026-10-19T15:04:25+00:00",
+    "updated": "2026-10-21T13:45:27+00:00",
     "node_registry": {
       "Data Fetching": "2026-10-13T13:21:12Z",
       "Versioning Data": "2026-10-18T12:43:09Z",
-      "Data Pre-Processing": "2026-10-18T12:43:15Z",
-      "Data Quality Tool": "2026-10-18T12:43:26Z",
-      "Completeness Analysis": "2026-10-15T13:13:51Z",
-      "Statistical Charts": "2026-10-18T12:43:32Z",
+      "Data Pre-Processing": "2026-10-21T13:18:06Z",
+      "Data Quality Tool": "2026-10-21T13:21:06Z",
+      "Completeness Analysis": "2026-10-21T13:45:15Z",
+      "Statistical Charts": "2026-10-21T13:45:27Z",
       "OSWM Codebase Revision": "bf6f98b2e72c48e8208e622d648dc7366e7d51f2",
-      "Pipeline Success": "2026-10-19T15:04:25Z",
+      "Pipeline Success": "2026-10-20T13:05:42Z",
       "Wiki check for keys": "2026-10-18T12:46:43Z"
     }
   },
@@ -66,11 +66,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-10-19T15:04:25+00:00",
+    "generated_at": "2026-10-21T13:45:27+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "bf6f98b2e72c48e8208e622d648dc7366e7d51f2",
-      "commit_date": "2026-10-14T10:11:45-03:00"
+      "commit": "74cbda522dbbc833c7fceabe1c16d83299e72c43",
+      "commit_date": "2026-10-20T10:38:11-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -82,10 +82,10 @@
       "metadata": "https://opensidewalkmap.github.io/lima/metadata/snapshots/node_summary.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 27214,
+      "byte_size": 27208,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "1ae6da2ba206ffd3c0e239cb10f7587d39f526b2431f2dab38222c508443152f"
+        "value": "7206d4ca9b98ffe7619e97d74f4b68b1b7015a11ae4580b93ed06ad667be8b42"
       }
     }
   ],

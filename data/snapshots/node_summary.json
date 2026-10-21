@@ -1,7 +1,7 @@
 {
     "schema_version": 1,
     "node_name": "Lima",
-    "generated_at": "2026-10-15T12:56:19.556338+00:00",
+    "generated_at": "2026-10-21T13:20:46.747680+00:00",
     "themes": {
         "footway_categories": {
             "kind": "categorical",
@@ -656,55 +656,55 @@
         "age": {
             "kind": "numeric",
             "total": 72847,
-            "known": 72668,
-            "unknown": 179,
-            "unknownPercent": 0.25,
+            "known": 72847,
+            "unknown": 0,
+            "unknownPercent": 0.0,
             "invalid": 0,
             "min": 0.010951,
-            "max": 22.182067,
-            "mean": 4.703599,
-            "median": 4.279261,
+            "max": 22.198494,
+            "mean": 4.707308,
+            "median": 4.271047,
             "bins": [
                 {
                     "label": "0–<2",
                     "lower": 0.0,
                     "upper": 2.0,
-                    "count": 12474,
+                    "count": 12664,
                     "color": "#90d743"
                 },
                 {
                     "label": "2–<4",
                     "lower": 2.0,
                     "upper": 4.0,
-                    "count": 20245,
+                    "count": 19950,
                     "color": "#35b779"
                 },
                 {
                     "label": "4–<6",
                     "lower": 4.0,
                     "upper": 6.0,
-                    "count": 18182,
+                    "count": 18459,
                     "color": "#21918c"
                 },
                 {
                     "label": "6–<8",
                     "lower": 6.0,
                     "upper": 8.0,
-                    "count": 10279,
+                    "count": 10149,
                     "color": "#31688e"
                 },
                 {
                     "label": "8–<10",
                     "lower": 8.0,
                     "upper": 10.0,
-                    "count": 8585,
+                    "count": 8654,
                     "color": "#443983"
                 },
                 {
                     "label": "10+",
                     "lower": 10.0,
                     "upper": null,
-                    "count": 2903,
+                    "count": 2971,
                     "color": "#440154"
                 }
             ],
@@ -736,27 +736,27 @@
         "n_revs": {
             "kind": "numeric",
             "total": 72847,
-            "known": 72645,
-            "unknown": 179,
-            "unknownPercent": 0.25,
-            "invalid": 23,
+            "known": 72823,
+            "unknown": 0,
+            "unknownPercent": 0.0,
+            "invalid": 24,
             "min": 1.0,
             "max": 39.0,
-            "mean": 1.796407,
+            "mean": 1.797028,
             "median": 1.0,
             "bins": [
                 {
                     "label": "0–<5",
                     "lower": 0.0,
                     "upper": 5.0,
-                    "count": 68965,
+                    "count": 69132,
                     "color": "#1d1147"
                 },
                 {
                     "label": "5–<10",
                     "lower": 5.0,
                     "upper": 10.0,
-                    "count": 3244,
+                    "count": 3255,
                     "color": "#51127c"
                 },
                 {
