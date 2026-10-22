@@ -1,26 +1,13 @@
 [
     {
-        "id": 190769388,
-        "user": "BikeRoad",
-        "uid": 3189465,
-        "comment": "Cambio nombre de via",
-        "created_at": "2026-10-20T03:33:05Z",
-        "changeset_changes_count": 1,
+        "id": 190817360,
+        "user": "Gustavo_ffp",
+        "uid": 21667180,
+        "comment": "Edificios residenciales a detalle",
+        "created_at": "2026-10-21T04:53:17Z",
+        "changeset_changes_count": 2,
         "oswm_changes_count": 1,
-        "changes_count": 1,
-        "additions": 0,
-        "modifications": 1,
-        "deletions": 0
-    },
-    {
-        "id": 190768228,
-        "user": "JSR1781",
-        "uid": 20049066,
-        "comment": "Sendero peatonal",
-        "created_at": "2026-10-20T02:12:17Z",
-        "changeset_changes_count": 1,
-        "oswm_changes_count": 1,
-        "changes_count": 1,
+        "changes_count": 2,
         "additions": 0,
         "modifications": 1,
         "deletions": 0
