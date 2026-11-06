@@ -4,70 +4,22 @@
     <title>OSWM Watcher Changeset Activity - Lima</title>
     <link>https://opensidewalkmap.github.io/lima/hub/watcher/index.html</link>
     <description>OSM changeset activity monitoring and deletion watch for OpenSidewalkMap interest features in Lima.</description>
-    <lastBuildDate>Thu, 05 Nov 2026 15:54:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 16:35:49 GMT</lastBuildDate>
     <item>
-        <title>[Activity] OSM Changeset 191442317 by JSR1781 (6 additions, 3 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191442317</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191442317&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/JSR1781&quot;&gt;JSR1781&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Ruta 1240 paradas vuelta pt. 1&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 6&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 3&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191442317&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191442317&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 04 Nov 2026 02:10:58 GMT</pubDate>
-        <guid isPermaLink="false">activity_191442317</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 191480572 by KatarinaBobok (1 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191480572</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191480572&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/KatarinaBobok&quot;&gt;KatarinaBobok&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Adding truck restrictions #OptimoRoute&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 1&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191480572&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191480572&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 04 Nov 2026 19:06:38 GMT</pubDate>
-        <guid isPermaLink="false">activity_191480572</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 191485709 by DeniZubin (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191485709</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191485709&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/DeniZubin&quot;&gt;DeniZubin&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Adding hgv designated tags #OptimoRoute&lt;/p&gt;
+        <title>[Activity] OSM Changeset 191493677 by JSR1781 (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191493677</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191493677&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/JSR1781&quot;&gt;JSR1781&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Cambios mayormente señales de destino pt. 1&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 0&lt;/li&gt;
     &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191485709&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191485709&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191493677&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191493677&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 04 Nov 2026 21:43:49 GMT</pubDate>
-        <guid isPermaLink="false">activity_191485709</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 191467762 by DeniZubin (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191467762</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191467762&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/DeniZubin&quot;&gt;DeniZubin&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Adding hgv designated tags #OptimoRoute&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191467762&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191467762&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 04 Nov 2026 14:09:08 GMT</pubDate>
-        <guid isPermaLink="false">activity_191467762</guid>
+        <pubDate>Thu, 05 Nov 2026 04:55:48 GMT</pubDate>
+        <guid isPermaLink="false">activity_191493677</guid>
     </item>
     <item>
         <title>[Alert] High Deletion OSM Changeset 185805545 by El Surquillano (33 deletions)</title>
