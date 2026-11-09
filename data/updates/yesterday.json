@@ -1,15 +1,54 @@
 [
     {
-        "id": 191621524,
+        "id": 191630250,
+        "user": "Dimusoika",
+        "uid": 13962726,
+        "comment": "Actualizacion de terrenos, edificios y vías de SENATI",
+        "created_at": "2026-11-08T04:00:05Z",
+        "changeset_changes_count": 127,
+        "oswm_changes_count": 14,
+        "changes_count": 127,
+        "additions": 12,
+        "modifications": 2,
+        "deletions": 0
+    },
+    {
+        "id": 191671509,
+        "user": "El Surquillano",
+        "uid": 21360226,
+        "comment": "Actualización de nodos",
+        "created_at": "2026-11-08T22:36:11Z",
+        "changeset_changes_count": 347,
+        "oswm_changes_count": 4,
+        "changes_count": 347,
+        "additions": 1,
+        "modifications": 3,
+        "deletions": 0
+    },
+    {
+        "id": 191662058,
         "user": "JSR1781",
         "uid": 20049066,
-        "comment": "Pasillo de estacionamiento",
-        "created_at": "2026-11-07T20:42:02Z",
-        "changeset_changes_count": 15,
+        "comment": "Ruta 1240 paradas vuelta pt. 2",
+        "created_at": "2026-11-08T18:16:10Z",
+        "changeset_changes_count": 33,
         "oswm_changes_count": 2,
-        "changes_count": 15,
+        "changes_count": 33,
+        "additions": 1,
+        "modifications": 1,
+        "deletions": 0
+    },
+    {
+        "id": 191666938,
+        "user": "JSR1781",
+        "uid": 20049066,
+        "comment": "Tiendas Mass",
+        "created_at": "2026-11-08T20:14:07Z",
+        "changeset_changes_count": 50,
+        "oswm_changes_count": 1,
+        "changes_count": 50,
         "additions": 0,
-        "modifications": 2,
+        "modifications": 1,
         "deletions": 0
     }
 ]

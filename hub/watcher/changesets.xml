@@ -4,22 +4,70 @@
     <title>OSWM Watcher Changeset Activity - Lima</title>
     <link>https://opensidewalkmap.github.io/lima/hub/watcher/index.html</link>
     <description>OSM changeset activity monitoring and deletion watch for OpenSidewalkMap interest features in Lima.</description>
-    <lastBuildDate>Sun, 08 Nov 2026 14:36:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 17:52:30 GMT</lastBuildDate>
     <item>
-        <title>[Activity] OSM Changeset 191621524 by JSR1781 (0 additions, 2 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191621524</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191621524&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/JSR1781&quot;&gt;JSR1781&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Pasillo de estacionamiento&lt;/p&gt;
+        <title>[Activity] OSM Changeset 191630250 by Dimusoika (12 additions, 2 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191630250</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191630250&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Dimusoika&quot;&gt;Dimusoika&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Actualizacion de terrenos, edificios y vías de SENATI&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Additions (creations): 12&lt;/li&gt;
     &lt;li&gt;Modifications (tags/geom): 2&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191621524&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191621524&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191630250&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191630250&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 07 Nov 2026 20:42:02 GMT</pubDate>
-        <guid isPermaLink="false">activity_191621524</guid>
+        <pubDate>Sun, 08 Nov 2026 04:00:05 GMT</pubDate>
+        <guid isPermaLink="false">activity_191630250</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 191671509 by El Surquillano (1 additions, 3 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191671509</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191671509&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/El Surquillano&quot;&gt;El Surquillano&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Actualización de nodos&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 1&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 3&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191671509&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191671509&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 08 Nov 2026 22:36:11 GMT</pubDate>
+        <guid isPermaLink="false">activity_191671509</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 191662058 by JSR1781 (1 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191662058</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191662058&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/JSR1781&quot;&gt;JSR1781&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Ruta 1240 paradas vuelta pt. 2&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 1&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191662058&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191662058&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 08 Nov 2026 18:16:10 GMT</pubDate>
+        <guid isPermaLink="false">activity_191662058</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 191666938 by JSR1781 (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191666938</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191666938&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/JSR1781&quot;&gt;JSR1781&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Tiendas Mass&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191666938&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191666938&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 08 Nov 2026 20:14:07 GMT</pubDate>
+        <guid isPermaLink="false">activity_191666938</guid>
     </item>
     <item>
         <title>[Alert] High Deletion OSM Changeset 185805545 by El Surquillano (33 deletions)</title>
