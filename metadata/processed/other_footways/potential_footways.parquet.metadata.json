@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/lima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-11-10T16:27:15+00:00",
+    "updated": "2026-11-12T16:45:10+00:00",
     "node_registry": {
       "Data Fetching": "2026-10-13T13:21:12Z",
       "Versioning Data": "2026-11-08T15:25:19Z",
-      "Data Pre-Processing": "2026-11-10T15:51:43Z",
-      "Data Quality Tool": "2026-11-10T15:55:45Z",
-      "Completeness Analysis": "2026-11-10T16:26:59Z",
-      "Statistical Charts": "2026-11-10T16:27:15Z",
-      "OSWM Codebase Revision": "44cafc7c0f582ee1732e515446ed11a418b13afa",
-      "Pipeline Success": "2026-11-09T17:53:29Z",
+      "Data Pre-Processing": "2026-11-12T16:21:43Z",
+      "Data Quality Tool": "2026-11-12T16:25:39Z",
+      "Completeness Analysis": "2026-11-12T16:44:57Z",
+      "Statistical Charts": "2026-11-12T16:45:10Z",
+      "OSWM Codebase Revision": "3b626494e980a3d0bba34a982b3d43ca4275f541",
+      "Pipeline Success": "2026-11-10T16:56:29Z",
       "Wiki check for keys": "2026-11-08T15:28:16Z"
     }
   },
@@ -102,11 +102,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-11-10T16:27:15+00:00",
+    "generated_at": "2026-11-12T16:45:10+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "3b626494e980a3d0bba34a982b3d43ca4275f541",
-      "commit_date": "2026-11-10T09:20:59-03:00"
+      "commit": "6f811852641f5dfab29d522535556999c683d8eb",
+      "commit_date": "2026-11-10T21:33:14-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -117,10 +117,10 @@
     "download_url": "https://opensidewalkmap.github.io/lima/data/processed/other_footways/potential_footways.parquet",
     "media_type": "application/vnd.apache.parquet",
     "format": "GeoParquet",
-    "byte_size": 938235,
+    "byte_size": 938370,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "242a44c54f7401c48efdb19609f4edc2f25ef85fc6390f818f6918fdbdd577b6"
+      "value": "37e582ba042f50c35c25bfd8649626f02fa44488ccba84a4c7c3b71d8d46f27f"
     }
   },
   "links": [

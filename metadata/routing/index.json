@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/lima/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-11-10T16:27:15+00:00",
+    "updated": "2026-11-12T16:45:10+00:00",
     "node_registry": {
       "Data Fetching": "2026-10-13T13:21:12Z",
       "Versioning Data": "2026-11-08T15:25:19Z",
-      "Data Pre-Processing": "2026-11-10T15:51:43Z",
-      "Data Quality Tool": "2026-11-10T15:55:45Z",
-      "Completeness Analysis": "2026-11-10T16:26:59Z",
-      "Statistical Charts": "2026-11-10T16:27:15Z",
-      "OSWM Codebase Revision": "44cafc7c0f582ee1732e515446ed11a418b13afa",
-      "Pipeline Success": "2026-11-09T17:53:29Z",
+      "Data Pre-Processing": "2026-11-12T16:21:43Z",
+      "Data Quality Tool": "2026-11-12T16:25:39Z",
+      "Completeness Analysis": "2026-11-12T16:44:57Z",
+      "Statistical Charts": "2026-11-12T16:45:10Z",
+      "OSWM Codebase Revision": "3b626494e980a3d0bba34a982b3d43ca4275f541",
+      "Pipeline Success": "2026-11-10T16:56:29Z",
       "Wiki check for keys": "2026-11-08T15:28:16Z"
     }
   },
@@ -103,11 +103,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-11-10T16:27:15+00:00",
+    "generated_at": "2026-11-12T16:45:10+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "3b626494e980a3d0bba34a982b3d43ca4275f541",
-      "commit_date": "2026-11-10T09:20:59-03:00"
+      "commit": "6f811852641f5dfab29d522535556999c683d8eb",
+      "commit_date": "2026-11-10T21:33:14-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -119,10 +119,10 @@
       "metadata": "https://opensidewalkmap.github.io/lima/metadata/routing/metadata.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 2954,
+      "byte_size": 2955,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "85f89726ba10cec1587ed15b7f4f1a1da20e7f9ab40b4e1b9464a69063b59f99"
+        "value": "7564a34c8e4ffc6eb427d95d01872c16877ca2379770b53a79708621e191cddb"
       }
     },
     {
@@ -134,7 +134,7 @@
       "byte_size": 20962616,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "10e895fb7cafe430a9c8f72e7c9725ca10dd666034cf90c3729a1ee9acf81316"
+        "value": "43cba955e972f204bb6334512a4447f4997cf182f216fb3aacc6a9d7373dcc30"
       }
     },
     {
@@ -143,10 +143,10 @@
       "metadata": "https://opensidewalkmap.github.io/lima/metadata/routing/network.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 7269997,
+      "byte_size": 7261855,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "8a99f49d34285e17288ef9c91514c5ae496b91547cd3db385b25f512eddec7c7"
+        "value": "ec52aa4c6652e9aa7f3d61128945b9757f1a8ebad89e076e73ad0716590b76c5"
       }
     },
     {
@@ -155,10 +155,10 @@
       "metadata": "https://opensidewalkmap.github.io/lima/metadata/routing/network.pmtiles.metadata.json",
       "media_type": "application/vnd.pmtiles",
       "format": "PMTiles",
-      "byte_size": 21286082,
+      "byte_size": 21286084,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "3a4d241bf526ddf761501df2053f568d3ac21115d07e04b3a8f6fd2b7d5b6044"
+        "value": "df78080b2a2a9e19166378ed0aff97dd8d199bbe60fa04f59225be4bd7e40709"
       }
     },
     {
@@ -170,7 +170,7 @@
       "byte_size": 3923,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "7c847a831fdb894e117c6c5a54bd3ec3b47ad8823f0a60e7a276ff5b1e06a49e"
+        "value": "001897031cb1e2c1fc552c7116e1b6f5256c2ee574f1d202ab4ffd1b052402c1"
       }
     },
     {
@@ -194,7 +194,7 @@
       "byte_size": 219,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "7c67452d613343bb415347be993d7b86ce010d726e4ca0c1ad86ecf14db5b26d"
+        "value": "3b7157a70f13006a7144c8f2040793bd341d41712f8edcbce9163cb2ce492cce"
       }
     }
   ],
