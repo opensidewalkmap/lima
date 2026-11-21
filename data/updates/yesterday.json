@@ -1,41 +1,28 @@
 [
     {
-        "id": 192201072,
+        "id": 192239589,
         "user": "Dimusoika",
         "uid": 13962726,
-        "comment": "Geometría 3D de edificio de universidad de lima",
-        "created_at": "2026-11-19T21:21:27Z",
-        "changeset_changes_count": 161,
-        "oswm_changes_count": 12,
-        "changes_count": 161,
-        "additions": 5,
+        "comment": "Aceras, entradas y caminos peatonas de condominio",
+        "created_at": "2026-11-20T18:13:08Z",
+        "changeset_changes_count": 150,
+        "oswm_changes_count": 45,
+        "changes_count": 150,
+        "additions": 39,
+        "modifications": 6,
+        "deletions": 0
+    },
+    {
+        "id": 192208964,
+        "user": "biomapin",
+        "uid": 3830572,
+        "comment": "added street signs, adjusted lanes, and crossings",
+        "created_at": "2026-11-20T04:06:30Z",
+        "changeset_changes_count": 63,
+        "oswm_changes_count": 9,
+        "changes_count": 63,
+        "additions": 2,
         "modifications": 7,
-        "deletions": 0
-    },
-    {
-        "id": 192160281,
-        "user": "JSR1781",
-        "uid": 20049066,
-        "comment": "Ruta 1179 paradas vuelta pt. 1",
-        "created_at": "2026-11-19T02:26:06Z",
-        "changeset_changes_count": 80,
-        "oswm_changes_count": 3,
-        "changes_count": 80,
-        "additions": 1,
-        "modifications": 2,
-        "deletions": 0
-    },
-    {
-        "id": 192160223,
-        "user": "LuvuaRiver",
-        "uid": 23638956,
-        "comment": "Modified residential highway near Avenida Pacasmayo #adt",
-        "created_at": "2026-11-19T02:22:28Z",
-        "changeset_changes_count": 32,
-        "oswm_changes_count": 1,
-        "changes_count": 32,
-        "additions": 0,
-        "modifications": 1,
         "deletions": 0
     }
 ]
