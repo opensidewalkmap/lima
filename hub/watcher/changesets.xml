@@ -4,38 +4,54 @@
     <title>OSWM Watcher Changeset Activity - Lima</title>
     <link>https://opensidewalkmap.github.io/lima/hub/watcher/index.html</link>
     <description>OSM changeset activity monitoring and deletion watch for OpenSidewalkMap interest features in Lima.</description>
-    <lastBuildDate>Sat, 21 Nov 2026 15:41:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 15:44:05 GMT</lastBuildDate>
     <item>
-        <title>[Activity] OSM Changeset 192239589 by Dimusoika (39 additions, 6 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/192239589</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 192239589&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Dimusoika&quot;&gt;Dimusoika&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Aceras, entradas y caminos peatonas de condominio&lt;/p&gt;
+        <title>[Activity] OSM Changeset 192282608 by JSR1781 (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/192282608</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 192282608&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/JSR1781&quot;&gt;JSR1781&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Puente de la Paz&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-    &lt;li&gt;Additions (creations): 39&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 6&lt;/li&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/192239589&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/192239589&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/192282608&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/192282608&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 20 Nov 2026 18:13:08 GMT</pubDate>
-        <guid isPermaLink="false">activity_192239589</guid>
+        <pubDate>Sat, 21 Nov 2026 19:40:03 GMT</pubDate>
+        <guid isPermaLink="false">activity_192282608</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 192208964 by biomapin (2 additions, 7 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/192208964</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 192208964&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/biomapin&quot;&gt;biomapin&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; added street signs, adjusted lanes, and crossings&lt;/p&gt;
+        <title>[Activity] OSM Changeset 192265409 by LakeEyasi (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/192265409</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 192265409&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/LakeEyasi&quot;&gt;LakeEyasi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Provided connectivity near Avenida Raúl Ferrero #adt&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-    &lt;li&gt;Additions (creations): 2&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 7&lt;/li&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/192208964&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/192208964&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/192265409&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/192265409&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 20 Nov 2026 04:06:30 GMT</pubDate>
-        <guid isPermaLink="false">activity_192208964</guid>
+        <pubDate>Sat, 21 Nov 2026 11:49:18 GMT</pubDate>
+        <guid isPermaLink="false">activity_192265409</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 192251713 by Dimusoika (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/192251713</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 192251713&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Dimusoika&quot;&gt;Dimusoika&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Actualizacion de terrenos, edificios y vías de universidad&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/192251713&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/192251713&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 21 Nov 2026 02:31:15 GMT</pubDate>
+        <guid isPermaLink="false">activity_192251713</guid>
     </item>
     <item>
         <title>[Alert] High Deletion OSM Changeset 185805545 by El Surquillano (33 deletions)</title>
