@@ -1,14 +1,27 @@
 [
     {
-        "id": 192297684,
-        "user": "Favio Duran",
-        "uid": 7419262,
-        "comment": "actualización de vías accesos y estructuras 22/11/2026",
-        "created_at": "2026-11-22T07:59:28Z",
-        "changeset_changes_count": 88,
-        "oswm_changes_count": 3,
-        "changes_count": 88,
-        "additions": 1,
+        "id": 192369963,
+        "user": "Dimusoika",
+        "uid": 13962726,
+        "comment": "Centro deportivo, vías de acceso y estacionamiento, entre otros elementos.",
+        "created_at": "2026-11-23T18:46:23Z",
+        "changeset_changes_count": 192,
+        "oswm_changes_count": 5,
+        "changes_count": 192,
+        "additions": 3,
+        "modifications": 2,
+        "deletions": 0
+    },
+    {
+        "id": 192378370,
+        "user": "Mateusz Konieczny - bot account",
+        "uid": 3199858,
+        "comment": " remove crossing=yes that repeats highway=crossing",
+        "created_at": "2026-11-23T22:22:33Z",
+        "changeset_changes_count": 2,
+        "oswm_changes_count": 2,
+        "changes_count": 2,
+        "additions": 0,
         "modifications": 2,
         "deletions": 0
     }
