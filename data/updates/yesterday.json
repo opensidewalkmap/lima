@@ -1,28 +1,28 @@
 [
     {
-        "id": 192369963,
-        "user": "Dimusoika",
-        "uid": 13962726,
-        "comment": "Centro deportivo, vías de acceso y estacionamiento, entre otros elementos.",
-        "created_at": "2026-11-23T18:46:23Z",
-        "changeset_changes_count": 192,
-        "oswm_changes_count": 5,
-        "changes_count": 192,
-        "additions": 3,
-        "modifications": 2,
-        "deletions": 0
-    },
-    {
-        "id": 192378370,
-        "user": "Mateusz Konieczny - bot account",
-        "uid": 3199858,
-        "comment": " remove crossing=yes that repeats highway=crossing",
-        "created_at": "2026-11-23T22:22:33Z",
+        "id": 192398556,
+        "user": "HurdenShipCanal",
+        "uid": 21470692,
+        "comment": "Added Pasaje Domenico Fontana based on Maps feedback near Avenida Elena Fray de Pastor #adt",
+        "created_at": "2026-11-24T11:13:04Z",
         "changeset_changes_count": 2,
         "oswm_changes_count": 2,
         "changes_count": 2,
         "additions": 0,
         "modifications": 2,
+        "deletions": 0
+    },
+    {
+        "id": 192381223,
+        "user": "JSR1781",
+        "uid": 20049066,
+        "comment": "Parque del Naranjal",
+        "created_at": "2026-11-24T00:37:27Z",
+        "changeset_changes_count": 19,
+        "oswm_changes_count": 1,
+        "changes_count": 19,
+        "additions": 0,
+        "modifications": 1,
         "deletions": 0
     }
 ]

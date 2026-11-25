@@ -4,38 +4,38 @@
     <title>OSWM Watcher Changeset Activity - Lima</title>
     <link>https://opensidewalkmap.github.io/lima/hub/watcher/index.html</link>
     <description>OSM changeset activity monitoring and deletion watch for OpenSidewalkMap interest features in Lima.</description>
-    <lastBuildDate>Tue, 24 Nov 2026 19:11:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:15:14 GMT</lastBuildDate>
     <item>
-        <title>[Activity] OSM Changeset 192369963 by Dimusoika (3 additions, 2 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/192369963</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 192369963&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Dimusoika&quot;&gt;Dimusoika&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Centro deportivo, vías de acceso y estacionamiento, entre otros elementos.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 3&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 2&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/192369963&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/192369963&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 23 Nov 2026 18:46:23 GMT</pubDate>
-        <guid isPermaLink="false">activity_192369963</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 192378370 by Mateusz Konieczny - bot account (0 additions, 2 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/192378370</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 192378370&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Mateusz Konieczny - bot account&quot;&gt;Mateusz Konieczny - bot account&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt;  remove crossing=yes that repeats highway=crossing&lt;/p&gt;
+        <title>[Activity] OSM Changeset 192398556 by HurdenShipCanal (0 additions, 2 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/192398556</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 192398556&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/HurdenShipCanal&quot;&gt;HurdenShipCanal&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Added Pasaje Domenico Fontana based on Maps feedback near Avenida Elena Fray de Pastor #adt&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 0&lt;/li&gt;
     &lt;li&gt;Modifications (tags/geom): 2&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/192378370&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/192378370&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/192398556&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/192398556&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 23 Nov 2026 22:22:33 GMT</pubDate>
-        <guid isPermaLink="false">activity_192378370</guid>
+        <pubDate>Tue, 24 Nov 2026 11:13:04 GMT</pubDate>
+        <guid isPermaLink="false">activity_192398556</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 192381223 by JSR1781 (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/192381223</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 192381223&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/JSR1781&quot;&gt;JSR1781&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Parque del Naranjal&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/192381223&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/192381223&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 Nov 2026 00:37:27 GMT</pubDate>
+        <guid isPermaLink="false">activity_192381223</guid>
     </item>
     <item>
         <title>[Alert] High Deletion OSM Changeset 185805545 by El Surquillano (33 deletions)</title>
