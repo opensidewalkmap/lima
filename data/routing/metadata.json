@@ -1,7 +1,7 @@
 {
   "analytical_network": {
-    "byte_size": 7261855,
-    "feature_count": 71315,
+    "byte_size": 7304030,
+    "feature_count": 71333,
     "filename": "network.parquet",
     "format": "GeoParquet"
   },
@@ -12,13 +12,13 @@
       -76.6585878,
       -11.7325748
     ],
-    "byte_size": 20962616,
-    "cell_membership_count": 304363,
-    "directed_edge_count": 581006,
+    "byte_size": 21054608,
+    "cell_membership_count": 305664,
+    "directed_edge_count": 583538,
     "filename": "network.oswmg",
     "grid_cols": 130,
-    "grid_rows": 187,
-    "node_count": 285179,
+    "grid_rows": 188,
+    "node_count": 286454,
     "profile_count": 4,
     "profile_order": [
       "distance",
@@ -27,84 +27,84 @@
       "elderly"
     ],
     "schema_version": 2,
-    "segment_count": 290503,
-    "sha256": "43cba955e972f204bb6334512a4447f4997cf182f216fb3aacc6a9d7373dcc30",
+    "segment_count": 291769,
+    "sha256": "09b69f253b32495fb5b479d1264cfd9df660724d192a692631c3fae33347c70c",
     "spatial_index": "uniform_grid",
     "topology_tolerance": 1e-05
   },
   "edge_kind_counts": {
-    "crossing": 4011,
-    "footway": 41000,
-    "sidewalk": 19676,
-    "stairs": 6628
+    "crossing": 4019,
+    "footway": 41029,
+    "sidewalk": 19672,
+    "stairs": 6613
   },
   "elevation_provider_fingerprint": "a4a4bc7ab35d623e",
-  "feature_count": 71315,
-  "generated_at": "2026-11-12T16:48:48.781412+00:00",
+  "feature_count": 71333,
+  "generated_at": "2026-11-26T18:41:24.089219+00:00",
   "profile_audit": {
     "blind": {
       "grade_bands": {
         "0": 1,
         "1-19": 61,
-        "20-39": 4212,
-        "40-59": 65724,
-        "60-79": 1309,
+        "20-39": 4222,
+        "40-59": 65723,
+        "60-79": 1318,
         "80-100": 8
       },
       "maximum_grade": 86,
-      "mean_grade": 48.51,
+      "mean_grade": 48.52,
       "minimum_grade": 0,
       "most_common_limiting_factors": {
         "barrier": 1,
-        "incline": 6959,
+        "incline": 6904,
         "lighting": 186,
-        "smoothness": 11788,
-        "surface": 48341,
-        "tactile_paving": 4011,
+        "smoothness": 11816,
+        "surface": 48378,
+        "tactile_paving": 4019,
         "width": 29
       }
     },
     "elderly": {
       "grade_bands": {
         "0": 2,
-        "1-19": 10211,
-        "20-39": 2996,
-        "40-59": 57861,
+        "1-19": 10159,
+        "20-39": 2991,
+        "40-59": 57936,
         "60-79": 245,
         "80-100": 0
       },
       "maximum_grade": 72,
-      "mean_grade": 42.69,
+      "mean_grade": 42.72,
       "minimum_grade": 0,
       "most_common_limiting_factors": {
         "barrier": 1,
-        "crossing": 1995,
-        "incline": 10120,
+        "crossing": 1981,
+        "incline": 10061,
         "kerb": 1594,
-        "smoothness": 11497,
-        "surface": 46071,
+        "smoothness": 11545,
+        "surface": 46114,
         "width": 37
       }
     },
     "wheelchair": {
       "grade_bands": {
-        "0": 6719,
-        "1-19": 3506,
-        "20-39": 3754,
-        "40-59": 57333,
+        "0": 6706,
+        "1-19": 3468,
+        "20-39": 3740,
+        "40-59": 57416,
         "60-79": 3,
         "80-100": 0
       },
       "maximum_grade": 61,
-      "mean_grade": 37.33,
+      "mean_grade": 37.36,
       "minimum_grade": 0,
       "most_common_limiting_factors": {
-        "barrier": 6637,
-        "crossing": 221,
-        "incline": 6239,
-        "kerb": 3322,
-        "smoothness": 11279,
-        "surface": 43583,
+        "barrier": 6622,
+        "crossing": 202,
+        "incline": 6194,
+        "kerb": 3328,
+        "smoothness": 11328,
+        "surface": 43625,
         "width": 34
       }
     }
@@ -113,10 +113,10 @@
   "ruleset_version": "1.2.0",
   "schema_version": 1,
   "slope_source_counts": {
-    "copernicus_glo30": 68157,
-    "copernicus_glo90": 2165,
-    "direct_osm_numeric": 18,
-    "missing": 975
+    "copernicus_glo30": 68203,
+    "copernicus_glo90": 2147,
+    "direct_osm_numeric": 19,
+    "missing": 964
   },
   "warnings": [
     "Profile rules are provisional and require participatory calibration.",

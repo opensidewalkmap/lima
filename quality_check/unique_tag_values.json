@@ -9,8 +9,33 @@
             "residential",
             "pedestrian",
             "service",
-            "path",
-            "construction"
+            "path"
+        ],
+        "crossing:markings": [
+            "zebra"
+        ],
+        "crossing:island": [
+            "yes"
+        ],
+        "access": [
+            "permissive",
+            "permit"
+        ],
+        "maxspeed": [
+            "30"
+        ],
+        "note": [
+            "Otro puente se construyó en el 2014, el anterior fue construido metros antes",
+            "Rampa para Discapacitados"
+        ],
+        "source": [
+            "landsat",
+            "nombre: TELECOM IP",
+            "Bing",
+            "Según mapa víal de la MTC."
+        ],
+        "tactile_paving": [
+            "no"
         ],
         "bicycle": [
             "yes",
@@ -19,14 +44,21 @@
             "permissive",
             "destination"
         ],
+        "segregated": [
+            "no"
+        ],
         "foot": [
             "yes",
             "designated",
             "permissive",
             "official"
         ],
-        "horse": [
+        "motor_vehicle": [
             "no",
+            "private",
+            "yes"
+        ],
+        "noexit": [
             "yes"
         ],
         "name": [
@@ -305,7 +337,7 @@
             "Pasaje B2",
             "Pasaje César Mone",
             "Calle José Manuel Ubalde",
-            "Calle 1",
+            "Pasaje Jesús Oropesa",
             "Pasaje Selene",
             "Pasaje Punta Zarate",
             "Pasaje San Gabriel",
@@ -352,31 +384,20 @@
             "Pasaje Señor de los Milagros",
             "Pasaje Praga"
         ],
-        "access": [
-            "permissive",
-            "permit"
-        ],
-        "motor_vehicle": [
+        "horse": [
             "no",
-            "private",
             "yes"
         ],
-        "crossing:markings": [
-            "zebra"
-        ],
-        "crossing:island": [
-            "yes"
-        ],
-        "tactile_paving": [
-            "no"
-        ],
-        "material": [
-            "concrete"
+        "description": [
+            "Solo peatonal"
         ],
         "wheelchair": [
             "yes",
             "no",
             "limited"
+        ],
+        "footway": [
+            "sidewalk"
         ],
         "surface": [
             "concrete",
@@ -398,37 +419,8 @@
             "gravel",
             "sett"
         ],
-        "layer": [
-            "1",
-            "2",
-            "-1",
-            "-2",
-            "0"
-        ],
-        "maxspeed": [
-            "30"
-        ],
-        "note": [
-            "Otro puente se construyó en el 2014, el anterior fue construido metros antes",
-            "Rampa para Discapacitados"
-        ],
-        "source": [
-            "landsat",
-            "nombre: TELECOM IP",
-            "Bing",
-            "Según mapa víal de la MTC."
-        ],
-        "segregated": [
-            "no"
-        ],
-        "noexit": [
-            "yes"
-        ],
-        "description": [
-            "Solo peatonal"
-        ],
-        "footway": [
-            "sidewalk"
+        "material": [
+            "concrete"
         ],
         "level": [
             "-1",
@@ -450,6 +442,13 @@
         "covered": [
             "yes"
         ],
+        "layer": [
+            "1",
+            "2",
+            "-1",
+            "-2",
+            "0"
+        ],
         "lit": [
             "yes",
             "no"
@@ -461,14 +460,26 @@
             "2",
             "1"
         ],
-        "noname": [
-            "yes"
-        ],
-        "handrail": [
-            "yes"
+        "name:en": [
+            "Incas"
         ],
         "oneway": [
             "no"
+        ],
+        "sidewalk": [
+            "none"
+        ],
+        "name:etymology:wikidata": [
+            "Q4822525",
+            "Q7666133",
+            "Q9012949",
+            "Q680",
+            "Q708504",
+            "Q5833133",
+            "Q5790171",
+            "Q127687330",
+            "Q5954654",
+            "Q6097586"
         ],
         "width": [
             "3",
@@ -485,17 +496,20 @@
             "4",
             "1.4"
         ],
+        "oneway:bicycle": [
+            "no"
+        ],
         "bridge": [
             "yes"
         ],
-        "area": [
+        "handrail": [
             "yes"
         ],
-        "incline": [
-            "down",
-            "up",
-            "0%",
-            "10%"
+        "bridge:name": [
+            "Puente Pocitos"
+        ],
+        "noname": [
+            "yes"
         ],
         "smoothness": [
             "intermediate",
@@ -503,57 +517,39 @@
             "excellent",
             "good"
         ],
+        "check_date:surface": [
+            "2025-08-02",
+            "2022-11-12"
+        ],
+        "incline": [
+            "down",
+            "up",
+            "0%",
+            "10%"
+        ],
         "ramp": [
             "no"
-        ],
-        "sidewalk": [
-            "none"
-        ],
-        "bridge:structure": [
-            "beam"
-        ],
-        "name:en": [
-            "Incas"
         ],
         "step_count": [
             "2",
             "4",
             "3"
         ],
-        "source:geometry": [
-            "Maxar Premium Imagery (Beta)"
-        ],
-        "check_date:surface": [
-            "2025-08-02",
-            "2022-11-12"
-        ],
-        "name:etymology:wikidata": [
-            "Q4822525",
-            "Q7666133",
-            "Q9012949",
-            "Q680",
-            "Q708504",
-            "Q5833133",
-            "Q5790171",
-            "Q127687330",
-            "Q5954654",
-            "Q6097586"
-        ],
-        "oneway:bicycle": [
-            "no"
-        ],
-        "bridge:name": [
-            "Puente Pocitos"
+        "area": [
+            "yes"
         ],
         "tunnel": [
             "yes",
             "building_passage"
         ],
-        "construction": [
-            "footway"
+        "bridge:structure": [
+            "beam"
         ],
         "leaf_type": [
             "needleleaved"
+        ],
+        "source:geometry": [
+            "Maxar Premium Imagery (Beta)"
         ]
     },
     "crossings": {
@@ -570,20 +566,64 @@
             "crossing",
             "footway",
             "steps",
-            "construction",
-            "cycleway"
+            "construction"
+        ],
+        "crossing_ref": [
+            "zebra"
+        ],
+        "crossing:markings": [
+            "yes",
+            "zebra",
+            "no",
+            "surface",
+            "barras_longitudinaless",
+            "ladder:skewed",
+            "lines"
+        ],
+        "traffic_calming": [
+            "table"
+        ],
+        "button_operated": [
+            "no",
+            "yes"
+        ],
+        "crossing:island": [
+            "yes",
+            "no"
+        ],
+        "traffic_signals:sound": [
+            "no",
+            "yes"
+        ],
+        "traffic_signals:vibration": [
+            "no"
+        ],
+        "traffic_signals": [
+            "signal",
+            "traffic_lights"
+        ],
+        "source": [
+            "http://www.lamolina.edu.pe/portada/html/acerca/mapa.htm"
+        ],
+        "tactile_paving": [
+            "no"
         ],
         "bicycle": [
             "yes",
             "designated",
             "no"
         ],
+        "segregated": [
+            "yes",
+            "no"
+        ],
         "foot": [
             "designated",
             "yes"
         ],
-        "horse": [
-            "no"
+        "motor_vehicle": [
+            "no",
+            "yes"
         ],
         "name": [
             "Pascual Saco Oliveros",
@@ -597,56 +637,22 @@
             "De la Cruz",
             "Pasaje 21",
             "Ciclovía La Marina",
+            "Pasaje Domenico Fontana",
             "Ingreso Peatonal 1",
             "Pasaje Los Nísperos",
             "Avenida Domingo Orué",
             "Avenida General Recavarren",
-            "Ciclovía Universitaria"
+            "Angélica Palma"
         ],
-        "motor_vehicle": [
-            "no",
-            "yes"
-        ],
-        "traffic_signals": [
-            "signal",
-            "traffic_lights"
-        ],
-        "crossing:markings": [
-            "yes",
-            "zebra",
-            "no",
-            "surface",
-            "barras_longitudinaless",
-            "ladder:skewed",
-            "lines"
-        ],
-        "crossing_ref": [
-            "zebra"
-        ],
-        "crossing:island": [
-            "yes",
-            "no"
-        ],
-        "tactile_paving": [
-            "no"
-        ],
-        "traffic_calming": [
-            "table"
-        ],
-        "button_operated": [
-            "no",
-            "yes"
-        ],
-        "traffic_signals:sound": [
-            "no",
-            "yes"
-        ],
-        "traffic_signals:vibration": [
+        "horse": [
             "no"
         ],
         "wheelchair": [
             "no",
             "yes"
+        ],
+        "footway": [
+            "crossing"
         ],
         "surface": [
             "asphalt",
@@ -661,25 +667,15 @@
             "sett",
             "fine_gravel"
         ],
-        "layer": [
-            "1",
-            "-1",
-            "0"
-        ],
-        "source": [
-            "http://www.lamolina.edu.pe/portada/html/acerca/mapa.htm"
-        ],
-        "segregated": [
-            "no",
-            "yes"
-        ],
-        "footway": [
-            "crossing"
-        ],
         "level": [
             "-1",
             "0",
             "1"
+        ],
+        "layer": [
+            "1",
+            "-1",
+            "0"
         ],
         "lit": [
             "yes",
@@ -697,15 +693,8 @@
         "check_date": [
             "2025/12/06"
         ],
-        "noname": [
-            "yes"
-        ],
-        "handrail": [
-            "yes"
-        ],
         "oneway": [
-            "no",
-            "yes"
+            "no"
         ],
         "width": [
             "1",
@@ -714,19 +703,25 @@
             "2.3",
             "1.5"
         ],
+        "oneway:bicycle": [
+            "no"
+        ],
         "bridge": [
             "yes"
         ],
-        "incline": [
-            "up"
+        "handrail": [
+            "yes"
+        ],
+        "noname": [
+            "yes"
         ],
         "smoothness": [
             "good",
             "excellent",
             "intermediate"
         ],
-        "oneway:bicycle": [
-            "no"
+        "incline": [
+            "up"
         ],
         "tunnel": [
             "building_passage",
@@ -749,38 +744,35 @@
             "traffic_signals",
             "zebra",
             "unmarked",
-            "uncontrolled",
-            "yes"
+            "uncontrolled"
         ],
         "highway": [
             "crossing",
             "footway"
         ],
-        "barrier": [
-            "kerb"
-        ],
-        "bicycle": [
-            "yes"
-        ],
-        "foot": [
-            "yes"
-        ],
-        "horse": [
-            "no"
-        ],
-        "motor_vehicle": [
-            "no"
+        "crossing_ref": [
+            "zebra"
         ],
         "crossing:markings": [
             "zebra",
             "no",
             "yes"
         ],
-        "crossing_ref": [
-            "zebra"
+        "traffic_calming": [
+            "table"
+        ],
+        "button_operated": [
+            "no",
+            "yes"
         ],
         "crossing:island": [
             "yes",
+            "no"
+        ],
+        "traffic_signals:sound": [
+            "no"
+        ],
+        "traffic_signals:vibration": [
             "no"
         ],
         "crossing:signals": [
@@ -795,37 +787,39 @@
             "rolled",
             "yes"
         ],
+        "barrier": [
+            "kerb"
+        ],
         "tactile_paving": [
             "no"
         ],
-        "traffic_calming": [
-            "table"
-        ],
-        "button_operated": [
-            "no",
+        "bicycle": [
             "yes"
         ],
-        "traffic_signals:sound": [
+        "foot": [
+            "yes"
+        ],
+        "motor_vehicle": [
             "no"
         ],
-        "traffic_signals:vibration": [
+        "horse": [
             "no"
-        ],
-        "material": [
-            "concrete"
         ],
         "wheelchair": [
             "yes",
             "no"
         ],
+        "footway": [
+            "crossing"
+        ],
         "surface": [
+            "concrete"
+        ],
+        "material": [
             "concrete"
         ],
         "layer": [
             "1"
-        ],
-        "footway": [
-            "crossing"
         ],
         "kerb:left": [
             "lowered"
@@ -849,10 +843,10 @@
     "other_footways": {
         "crossing": [
             "zebra",
+            "uncontrolled",
             "traffic_signals",
             "marked",
-            "unmarked",
-            "uncontrolled"
+            "unmarked"
         ],
         "highway": [
             "crossing",
@@ -870,6 +864,57 @@
             "cycleway",
             "unclassified"
         ],
+        "crossing_ref": [
+            "zebra"
+        ],
+        "crossing:markings": [
+            "zebra",
+            "zebra;pictograms",
+            "lines",
+            "yes",
+            "no"
+        ],
+        "traffic_calming": [
+            "table"
+        ],
+        "button_operated": [
+            "no"
+        ],
+        "crossing:island": [
+            "no",
+            "yes"
+        ],
+        "traffic_signals:sound": [
+            "no"
+        ],
+        "traffic_signals:vibration": [
+            "no"
+        ],
+        "ref": [
+            "Estacion Evitaminento",
+            "1",
+            "2"
+        ],
+        "old_name": [
+            "Jirón Antonio Miró Quesada",
+            "Alameda Victoria Barcia Bonifatti",
+            "Calle 12",
+            "Miguelito",
+            "Calle 15",
+            "Jirón Lampa",
+            "Calle de Las Begonias",
+            "Calle 8",
+            "Pasaje 22",
+            "Pasaje El Molino",
+            "Pasaje 21"
+        ],
+        "access": [
+            "yes",
+            "customers",
+            "permissive",
+            "permit",
+            "unknown"
+        ],
         "barrier": [
             "gate",
             "lift_gate",
@@ -881,6 +926,59 @@
             "jersey_barrier",
             "cycle_barrier"
         ],
+        "maxspeed": [
+            "40",
+            "30",
+            "20",
+            "25",
+            "60",
+            "10",
+            "45",
+            "50",
+            "10 mph",
+            "15"
+        ],
+        "note": [
+            "According to a guard, this gate only opens at school times",
+            "Signage is incosistent -- some signs say (wrongly) \"Lorenzo y Vidaurre\"",
+            "The street name may need adjustment. The sign was difficult to see in Mapillary. https://www.mapillary.com/app/?pKey=577704084239573",
+            "Esta vía ya no se usa para transporte vehícular.",
+            "Calle restringida por ser la entrada del Palacio de gobierno",
+            "Basada en la nota Tunel peatonal de Los Alisos",
+            "Está en la mitad de la cuadra 6 de la avenida La Paz",
+            "Parte de la estructura del puente fue retirada. Imagen satelital de Bing desactualizada.",
+            "Entrada",
+            "Rampa, único acceso a la Estación \"Pacífico\"",
+            "Solo via peatonal.",
+            "Esta vía es bidireccional. Da acceso a panamericana sur y centro poblado Pampa Pacta",
+            "La plazuela es utilizada como estacionamiento"
+        ],
+        "source": [
+            "Direct observation",
+            "GPS",
+            "Yahoo hires",
+            "nombre: TELECOM IP",
+            "leyendas.gob.pe",
+            "Local Map",
+            "Bing;nombre: TELECOM IP",
+            "Bing; nombre: TELECOM IP",
+            "Bing",
+            "Direc Observation",
+            "bing",
+            "http://www.lamolina.edu.pe/portada/html/acerca/mapa.htm",
+            "survey;GPX;Maxar Premium",
+            "Yahoo",
+            "gps",
+            "survey;gps",
+            "Esri World Imagery",
+            "gps;survey",
+            "local knowledge",
+            "https://www.munimolina.gob.pe/descargas/pdf/ley_portal_transparencia/compendio_estadistico_municipal_2010.pdf"
+        ],
+        "tactile_paving": [
+            "no",
+            "yes"
+        ],
         "bicycle": [
             "yes",
             "no",
@@ -888,6 +986,10 @@
             "designated",
             "dismount",
             "destination"
+        ],
+        "segregated": [
+            "no",
+            "yes"
         ],
         "foot": [
             "yes",
@@ -898,18 +1000,21 @@
             "customers",
             "permit"
         ],
-        "horse": [
+        "locked": [
+            "yes",
+            "no"
+        ],
+        "motor_vehicle": [
             "yes",
             "no",
-            "permissive"
+            "private",
+            "destination",
+            "designated",
+            "permissive",
+            "permit"
         ],
-        "motorcar": [
-            "yes",
-            "no"
-        ],
-        "motorcycle": [
-            "yes",
-            "no"
+        "noexit": [
+            "yes"
         ],
         "name": [
             "Puerta 1",
@@ -958,7 +1063,7 @@
             "Pasaje La Macarena",
             "Calle Victor Mostro",
             "Pasaje Coronel Tomás Gutiérrez",
-            "Calle Catalino Miranda",
+            "Jirón Catalino Miranda",
             "Pasaje Santa Marta",
             "Luis Deucker Lavalle",
             "Puente San Juan",
@@ -1266,7 +1371,7 @@
             "Pasaje Santo Tomas",
             "Calle Nicaragua",
             "Querotillo",
-            "Jirón Paula Gonzales Vigil",
+            "Jirón Paula González Vigil",
             "Jirón Misti",
             "Pasaje Alberto Cuentas",
             "Calle Rio Santa",
@@ -1303,7 +1408,6 @@
             "Alameda Juan Parra del Riego",
             "Pasaje Los Pututos",
             "Calle D",
-            "Calle Tupac Amaru",
             "Calle 27",
             "Calle 16",
             "Atahualpa",
@@ -1485,6 +1589,7 @@
             "Pasaje Champagnat",
             "Boulevard José Gálvez",
             "Avenida Nicolás Ayllón",
+            "La Floresta",
             "Avenida 27 de Diciembre",
             "Calle El Encomendador",
             "Natividad",
@@ -1521,6 +1626,7 @@
             "Calle Los Cipreces",
             "Lima Norte",
             "Jirón Arequipa",
+            "Jiron Marañon",
             "Calle Moyobamba",
             "Calle Rio",
             "Calle Fernando Wiesse",
@@ -1596,7 +1702,7 @@
             "Pasaje Neptuno",
             "Pasaje Camilo Blas",
             "Calle Abregú",
-            "Vila la Reina",
+            "Pasaje Juno",
             "Sáenz Peña",
             "Puente colgante de Chosica",
             "Jirón José Flores",
@@ -1656,6 +1762,7 @@
             "Pasaje Badajoz",
             "Las Cidras",
             "Pasaje Gemini",
+            "Calle Arangues",
             "Calle Emilio Harth Terré",
             "Pasaje Jorge Chávez",
             "Pasaje La Victoria",
@@ -1734,6 +1841,7 @@
             "Jirón Hipólito Unánue",
             "Puente Independencia",
             "Puente Santa Luisa",
+            "Pasaje Belén",
             "Calle El Alamo",
             "Ciclovía Costa Verde Magdalena - San Miguel",
             "Jirón Rufino Torrico",
@@ -1772,6 +1880,7 @@
             "Pasaje Arroyo",
             "Pasaje de Burgos",
             "Jirón 3 de Febrero",
+            "Viña Alta",
             "Avenida Los Nogales",
             "Pasaje Luis de Orbegozo",
             "Pasaje Francisco Cornejo",
@@ -1984,6 +2093,7 @@
             "Enrique Sosa Pelaez",
             "Pasaje Palmira",
             "Pasaje Ortega",
+            "Calle Arosa",
             "Marsella",
             "Las Guindas",
             "Los Olivos",
@@ -2158,7 +2268,6 @@
             "Pasillo a Tarata",
             "Calle José Domingo Choquehuanca",
             "Calle Francisco Eguiguren",
-            "Pasaje La Calera",
             "Pasaje Javier Prado",
             "Alameda Julio C. Tello",
             "Puente Peatonal España",
@@ -2209,6 +2318,7 @@
             "Pasaje 19A",
             "Calle Santa Carmela",
             "Jirón Iquitos",
+            "Calle Amazonas",
             "Boulevard",
             "Conquistadores",
             "Pasaje Juan Arbocco Carrillo",
@@ -2280,6 +2390,7 @@
             "Pasaje Los Álamos",
             "Óvalo Balta",
             "Calle Rio Amazonas",
+            "Avenida Manuel Pasión Solís",
             "San Juan Masias",
             "Pasaje Las Terrazas",
             "Calle Marte",
@@ -2287,7 +2398,7 @@
             "Calle Los Cerezos",
             "Pasaje Las Flores",
             "Pasaje Los Cactus",
-            "Jirón Manuel Gonzales Prada",
+            "Jirón Manuel González Prada",
             "Avenida Nicolás de Piérola",
             "Calle Silva Quispe César",
             "Avenida José Balta",
@@ -2396,7 +2507,6 @@
             "Jirón Las Palmas",
             "Pasaje La Serna",
             "Pasaje Pasco",
-            "Pasaje Belén",
             "Pasaje Jose Olaya",
             "Pasaje 3 de Octubre",
             "Pasaje Puno",
@@ -2569,6 +2679,7 @@
             "Nivel 2",
             "Paradero Mueble",
             "Pasaje Las Cascadas",
+            "Vía Malecón Mamacona",
             "Pasaje Yuri Gagarin",
             "Jirón Adalberto del Campo",
             "Ca. San Martín de Porres",
@@ -2665,7 +2776,6 @@
             "Pasaje Comercial",
             "Pasaje Apurímac",
             "Jirón Los Literatos",
-            "La Goleta",
             "Pasaje Cerro Azul",
             "Pasaje El Inti",
             "Pasaje Jacinto Benavente",
@@ -2732,7 +2842,6 @@
             "Pasaje Ayo",
             "Pasaje El Cascajal",
             "Huancavelica",
-            "Pasaje Santander",
             "Pasaje 1 de Agosto",
             "Pasaje 28 de Julio",
             "Pasaje 2 de Octubre",
@@ -2879,6 +2988,7 @@
             "Corredor Turístico Miraflores Barranco",
             "Luis Alberto Sánchez",
             "Calle Mayta Cápac",
+            "Pasaje Domenico Fontana",
             "Pasaje Señor de los Milagros",
             "Pasaje Los Ciruelos",
             "Pasaje Santa Marina",
@@ -2940,13 +3050,11 @@
             "Herreros",
             "Estribos",
             "La Rienda",
-            "Jose Antonio",
+            "José Antonio",
             "Cinchas",
             "Cabestro",
-            "Los Cinchas",
-            "Los Estribos",
             "Espuelas",
-            "Chalan",
+            "Chalán",
             "El Bocado",
             "Avenida Las Torres",
             "Calle Boulevard de la Literatura",
@@ -3012,6 +3120,7 @@
             "Pasaje Maracaibo",
             "Calle Carmenca",
             "Graña",
+            "Avenida Alameda Molina Vieja",
             "Jirón 6 de Diciembre",
             "Psj. Pulpo",
             "Psj. S/n",
@@ -3047,7 +3156,6 @@
             "Pasaje Dammert Muelle",
             "Plaza de la Volumetría",
             "Plaza Recavarren",
-            "Pasaje del Perspectiva",
             "Calle Los Tulipanes",
             "Ca. Ceba",
             "Puente Bethania",
@@ -3098,70 +3206,72 @@
             "Puente Libertad",
             "Plaza Bolognesi",
             "Entrada Santander",
-            "Entrada a Garaje Santander"
+            "Entrada a Garaje Santander",
+            "Jirón Circunvalación",
+            "Avenida Malecón Norte del Río Lurín",
+            "Punta Rocas",
+            "Tambo del Río",
+            "Ciclovía Los Alisos"
         ],
-        "access": [
-            "permissive",
+        "maxwidth": [
+            "2",
+            "4",
+            "3"
+        ],
+        "motorcycle": [
             "yes",
-            "customers",
-            "permit",
-            "unknown"
+            "no"
         ],
-        "motor_vehicle": [
+        "motorcar": [
+            "yes",
+            "no"
+        ],
+        "opening_hours": [
+            "Mo-Su 06:00-21:00",
+            "Mo-Sa 08:00-18:00",
+            "Mo-Su 05:00-00:00",
+            "Mo-Su 08:00-18:00"
+        ],
+        "horse": [
             "yes",
             "no",
-            "private",
-            "destination",
-            "designated",
-            "permissive",
-            "permit"
+            "permissive"
         ],
-        "ref": [
-            "Estacion Evitaminento",
-            "1",
-            "2"
+        "description": [
+            "Antes llamada ante Victoria Barcia Boniffatti, junto a su hermana Emilia fundaron el primer Jardín de Infancia en Iquitos, destinado a la educación de niños de 3 a 6 años.",
+            "María Elvira Rodríguez Lorente (Lima, 1877-1961) fue una educadora peruana comprometida con la enseñanza y los derechos de las mujeres.",
+            "Entrada Principal a los Colegios San Pedro y Villa Cáritas",
+            "Unicamente accesible cuando el cause del rio es muy bajo.",
+            "Pasaje de la quinta de Avenida Arequipa 4458",
+            "Camino de atajo al bloque de Santa rosa\n",
+            "Entrada a Huaca EL Paraíso",
+            "Ciclovia Compartida Avenida Parque Sur",
+            "Ciclovía compartida Avenida Del Parque Sur"
         ],
-        "crossing:markings": [
-            "zebra",
-            "lines",
+        "barrier:personnel": [
             "yes"
-        ],
-        "crossing_ref": [
-            "zebra"
-        ],
-        "crossing:island": [
-            "no"
         ],
         "bollard": [
             "fixed"
         ],
-        "tactile_paving": [
-            "no",
-            "yes"
+        "entrance": [
+            "yes",
+            "exit"
         ],
-        "traffic_calming": [
-            "table"
-        ],
-        "button_operated": [
-            "no"
-        ],
-        "traffic_signals:sound": [
-            "no"
-        ],
-        "traffic_signals:vibration": [
-            "no"
-        ],
-        "material": [
-            "metal",
-            "plastic",
-            "concrete",
-            "sand",
-            "wood"
+        "gate:type": [
+            "turning",
+            "wicket_gate"
         ],
         "wheelchair": [
             "no",
             "limited",
             "yes"
+        ],
+        "footway": [
+            "traffic_island",
+            "yes",
+            "link",
+            "access_aisle"
         ],
         "surface": [
             "concrete",
@@ -3193,134 +3303,19 @@
             "sand",
             "rock"
         ],
-        "entrance": [
-            "yes",
-            "exit"
-        ],
-        "layer": [
-            "2",
-            "1",
-            "-1",
-            "-2",
-            "3",
-            "0",
-            "-3"
-        ],
-        "emergency": [
-            "emergency_ward_entrance"
-        ],
-        "old_name": [
-            "Jirón Antonio Miró Quesada",
-            "Alameda Victoria Barcia Bonifatti",
-            "Calle 12",
-            "Miguelito",
-            "Calle 15",
-            "Jirón Lampa",
-            "Calle de Las Begonias",
-            "Calle 8",
-            "Pasaje 22",
-            "Pasaje El Molino",
-            "Pasaje 21"
-        ],
-        "maxspeed": [
-            "40",
-            "30",
-            "20",
-            "25",
-            "60",
-            "10",
-            "45",
-            "50",
-            "10 mph",
-            "15"
-        ],
-        "note": [
-            "According to a guard, this gate only opens at school times",
-            "Signage is incosistent -- some signs say (wrongly) \"Lorenzo y Vidaurre\"",
-            "The street name may need adjustment. The sign was difficult to see in Mapillary. https://www.mapillary.com/app/?pKey=577704084239573",
-            "Esta vía ya no se usa para transporte vehícular.",
-            "Calle restringida por ser la entrada del Palacio de gobierno",
-            "Basada en la nota Tunel peatonal de Los Alisos",
-            "Está en la mitad de la cuadra 6 de la avenida La Paz",
-            "Parte de la estructura del puente fue retirada. Imagen satelital de Bing desactualizada.",
-            "Entrada",
-            "Rampa, único acceso a la Estación \"Pacífico\"",
-            "Solo via peatonal.",
-            "Esta vía es bidireccional. Da acceso a panamericana sur y centro poblado Pampa Pacta",
-            "La plazuela es utilizada como estacionamiento"
-        ],
-        "source": [
-            "Direct observation",
-            "GPS",
-            "Yahoo hires",
-            "nombre: TELECOM IP",
-            "leyendas.gob.pe",
-            "Local Map",
-            "Bing;nombre: TELECOM IP",
-            "Bing; nombre: TELECOM IP",
-            "Bing",
-            "Direc Observation",
-            "bing",
-            "http://www.lamolina.edu.pe/portada/html/acerca/mapa.htm",
-            "survey;GPX;Maxar Premium",
-            "Yahoo",
-            "gps",
-            "survey;gps",
-            "Esri World Imagery",
-            "gps;survey",
-            "local knowledge",
-            "https://www.munimolina.gob.pe/descargas/pdf/ley_portal_transparencia/compendio_estadistico_municipal_2010.pdf"
-        ],
-        "segregated": [
-            "no",
-            "yes"
-        ],
-        "locked": [
-            "yes",
-            "no"
-        ],
-        "noexit": [
-            "yes"
-        ],
-        "maxwidth": [
-            "2",
-            "4",
-            "3"
-        ],
-        "opening_hours": [
-            "Mo-Su 06:00-21:00",
-            "Mo-Sa 08:00-18:00",
-            "Mo-Su 05:00-00:00",
-            "Mo-Su 08:00-18:00"
-        ],
-        "description": [
-            "Antes llamada ante Victoria Barcia Boniffatti, junto a su hermana Emilia fundaron el primer Jardín de Infancia en Iquitos, destinado a la educación de niños de 3 a 6 años.",
-            "María Elvira Rodríguez Lorente (Lima, 1877-1961) fue una educadora peruana comprometida con la enseñanza y los derechos de las mujeres.",
-            "Entrada Principal a los Colegios San Pedro y Villa Cáritas",
-            "Unicamente accesible cuando el cause del rio es muy bajo.",
-            "Pasaje de la quinta de Avenida Arequipa 4458",
-            "Camino de atajo al bloque de Santa rosa\n",
-            "Entrada a Huaca EL Paraíso",
-            "Ciclovia Compartida Avenida Parque Sur",
-            "Ciclovía compartida Avenida Del Parque Sur"
-        ],
-        "barrier:personnel": [
-            "yes"
-        ],
-        "gate:type": [
-            "turning",
-            "wicket_gate"
-        ],
-        "footway": [
-            "traffic_island",
-            "yes"
-        ],
         "amenity": [
             "bicycle_parking",
             "parking_entrance"
         ],
         "vehicle": [
             "yes"
+        ],
+        "material": [
+            "metal",
+            "plastic",
+            "concrete",
+            "sand",
+            "wood"
         ],
         "level": [
             "1",
@@ -3386,6 +3381,7 @@
             "Grecia",
             "Diómedes Arias Schereiber",
             "Calle 2",
+            "Vila la Reina",
             "La Ermita",
             "Calle Túpac Amaru",
             "Jirón Javier Orlando Valdivia Manrique",
@@ -3395,6 +3391,7 @@
             "Puente Trujillo",
             "Calle de Hermilio Valdizán Medrano",
             "Alameda José María Corbacho",
+            "Los Eucaliptos",
             "Pasaje Santa Catalina",
             "Alameda Costa Azul",
             "Rayitos de Sol",
@@ -3454,6 +3451,15 @@
         "shop": [
             "trade"
         ],
+        "layer": [
+            "2",
+            "1",
+            "-1",
+            "-2",
+            "3",
+            "0",
+            "-3"
+        ],
         "bin": [
             "yes"
         ],
@@ -3470,6 +3476,12 @@
         "parking": [
             "underground"
         ],
+        "door": [
+            "yes"
+        ],
+        "emergency": [
+            "emergency_ward_entrance"
+        ],
         "height": [
             "2.50",
             "4",
@@ -3479,6 +3491,7 @@
             "no",
             "lane",
             "crossing",
+            "traffic_island",
             "track",
             "designated"
         ],
@@ -3490,136 +3503,15 @@
             "2025-06-19",
             "2025-06-24"
         ],
+        "hgv": [
+            "no"
+        ],
         "lanes": [
             "2",
             "1",
             "3",
             "7",
             "4"
-        ],
-        "noname": [
-            "yes"
-        ],
-        "handrail": [
-            "yes",
-            "no",
-            "both"
-        ],
-        "oneway": [
-            "yes",
-            "no",
-            "-1"
-        ],
-        "tracktype": [
-            "grade2",
-            "grade3",
-            "grade1",
-            "grade4",
-            "grade5"
-        ],
-        "width": [
-            "4",
-            "5",
-            "10",
-            "6",
-            "8",
-            "3",
-            "2",
-            "2.5",
-            "1",
-            "1.5",
-            "2.00",
-            "2.3",
-            "0.5",
-            "9",
-            "3 m",
-            "1.2",
-            "7",
-            "3.5",
-            "20",
-            "10m",
-            "2 metros"
-        ],
-        "bridge": [
-            "yes",
-            "boardwalk",
-            "viaduct"
-        ],
-        "line": [
-            "yes"
-        ],
-        "area": [
-            "yes",
-            "no"
-        ],
-        "incline": [
-            "up",
-            "down",
-            "10%",
-            "yes",
-            "20%",
-            "0%"
-        ],
-        "smoothness": [
-            "good",
-            "bad",
-            "horrible",
-            "excellent",
-            "very_horrible",
-            "impassable"
-        ],
-        "trail_visibility": [
-            "good",
-            "intermediate",
-            "excellent",
-            "bad"
-        ],
-        "junction": [
-            "roundabout"
-        ],
-        "ford": [
-            "yes",
-            "ford",
-            "seasonal"
-        ],
-        "sac_scale": [
-            "mountain_hiking",
-            "hiking"
-        ],
-        "ramp": [
-            "no",
-            "yes",
-            "separate"
-        ],
-        "destination:forward": [
-            "Lima;Pampa Pacta",
-            "Lima"
-        ],
-        "destination:ref": [
-            "PE-1S"
-        ],
-        "informal": [
-            "yes"
-        ],
-        "service": [
-            "alley",
-            "driveway",
-            "parking_aisle"
-        ],
-        "sidewalk": [
-            "both",
-            "no",
-            "right",
-            "yes"
-        ],
-        "bridge:structure": [
-            "suspension",
-            "beam",
-            "humpback",
-            "simple-suspension"
-        ],
-        "full_name": [
-            "Puente Mirador de la Integración Estela Montti"
         ],
         "name:en": [
             "Porta Street",
@@ -3658,101 +3550,23 @@
             "Apurímac Street",
             "Moquegua Street"
         ],
-        "mtb:scale": [
-            "4",
-            "1",
-            "2"
-        ],
-        "horse_scale": [
-            "difficult"
-        ],
-        "mtb:scale:uphill": [
-            "1",
-            "0"
-        ],
-        "step_count": [
-            "6",
-            "3",
-            "51",
-            "100",
-            "12",
-            "5",
-            "9",
-            "11",
-            "7",
-            "60",
-            "35",
-            "2",
-            "1",
-            "4",
-            "13",
-            "26",
-            "17",
-            "20",
-            "8",
-            "44",
-            "10",
-            "29",
-            "23"
-        ],
-        "source:geometry": [
-            "Maxar Premium Imagery (Beta)"
-        ],
-        "parking:lane:right": [
-            "perpendicular"
-        ],
-        "sidewalk:both": [
-            "no",
+        "oneway": [
             "yes",
-            "separate"
+            "no",
+            "-1"
         ],
-        "waterway": [
-            "weir"
+        "sidewalk": [
+            "both",
+            "no",
+            "right",
+            "yes"
         ],
         "cutting": [
             "yes"
         ],
-        "leisure": [
-            "track"
-        ],
-        "sport": [
-            "running;cycling"
-        ],
-        "conveying": [
-            "yes",
-            "forward",
-            "reversible",
-            "backward"
-        ],
-        "cycleway:surface": [
-            "paving_stones",
-            "asphalt",
-            "concrete"
-        ],
-        "footway:surface": [
-            "paving_stones",
-            "concrete",
-            "asphalt",
-            "concrete:plates",
-            "compacted"
-        ],
-        "check_date:surface": [
-            "2026-08-08",
-            "2025-07-24",
-            "2026-08-23",
-            "2026-08-15",
-            "2025-08-02",
-            "2025-05-31",
-            "2025-10-29",
-            "2023-02-23",
-            "2025-07-27"
-        ],
         "maxheight": [
             "5",
             "3"
-        ],
-        "hgv": [
-            "no"
         ],
         "name:etymology:wikidata": [
             "Q8559858",
@@ -3874,6 +3688,34 @@
             "Calle de Reconda de Santo Domingo",
             "Pasaje Escirón"
         ],
+        "width": [
+            "4",
+            "5",
+            "10",
+            "6",
+            "8",
+            "3",
+            "2",
+            "2.5",
+            "1",
+            "1.5",
+            "2.00",
+            "2.3",
+            "0.5",
+            "9",
+            "3 m",
+            "1.2",
+            "7",
+            "3.5",
+            "20",
+            "10m",
+            "2 metros"
+        ],
+        "sidewalk:both": [
+            "no",
+            "yes",
+            "separate"
+        ],
         "designation": [
             "Calle"
         ],
@@ -3887,6 +3729,11 @@
         "oneway:bicycle": [
             "no",
             "yes"
+        ],
+        "bridge": [
+            "yes",
+            "boardwalk",
+            "viaduct"
         ],
         "wikidata": [
             "Q5740955",
@@ -3902,6 +3749,11 @@
             "Q23253788",
             "Q7258515"
         ],
+        "handrail": [
+            "yes",
+            "no",
+            "both"
+        ],
         "bridge:name": [
             "Puente Abtao",
             "Puente Peatonal España",
@@ -3911,6 +3763,28 @@
         ],
         "parking:both": [
             "no"
+        ],
+        "noname": [
+            "yes"
+        ],
+        "smoothness": [
+            "good",
+            "bad",
+            "horrible",
+            "excellent",
+            "very_horrible",
+            "impassable"
+        ],
+        "check_date:surface": [
+            "2026-08-08",
+            "2025-07-24",
+            "2026-08-23",
+            "2026-08-15",
+            "2025-08-02",
+            "2025-05-31",
+            "2025-10-29",
+            "2023-02-23",
+            "2025-07-27"
         ],
         "cycleway:right": [
             "track"
@@ -3927,6 +3801,17 @@
         "sidewalk:right": [
             "separate"
         ],
+        "incline": [
+            "up",
+            "down",
+            "10%",
+            "yes",
+            "20%",
+            "0%"
+        ],
+        "destination:ref": [
+            "PE-1S"
+        ],
         "fixme": [
             "yes",
             "imported name was Alameda Jose de la Riva Aguero"
@@ -3937,6 +3822,43 @@
         "name:etymology:wikipedia": [
             "es:Angélica Palma"
         ],
+        "ramp": [
+            "no",
+            "yes",
+            "separate"
+        ],
+        "step_count": [
+            "6",
+            "3",
+            "51",
+            "100",
+            "12",
+            "5",
+            "9",
+            "11",
+            "7",
+            "60",
+            "35",
+            "2",
+            "1",
+            "4",
+            "13",
+            "26",
+            "17",
+            "20",
+            "8",
+            "44",
+            "10",
+            "29",
+            "23"
+        ],
+        "junction": [
+            "roundabout"
+        ],
+        "area": [
+            "yes",
+            "no"
+        ],
         "tunnel": [
             "yes",
             "building_passage",
@@ -3945,6 +3867,31 @@
         ],
         "construction": [
             "primary"
+        ],
+        "tracktype": [
+            "grade2",
+            "grade3",
+            "grade1",
+            "grade4",
+            "grade5"
+        ],
+        "cycleway:surface": [
+            "concrete",
+            "paving_stones",
+            "asphalt"
+        ],
+        "footway:surface": [
+            "concrete",
+            "paving_stones",
+            "asphalt",
+            "concrete:plates",
+            "compacted"
+        ],
+        "bridge:structure": [
+            "suspension",
+            "beam",
+            "humpback",
+            "simple-suspension"
         ],
         "ski": [
             "no"
@@ -3963,12 +3910,26 @@
         "place": [
             "square"
         ],
+        "service": [
+            "alley",
+            "driveway",
+            "parking_aisle"
+        ],
+        "trail_visibility": [
+            "good",
+            "intermediate",
+            "excellent",
+            "bad"
+        ],
         "railway": [
             "abandoned",
             "platform"
         ],
         "ramp:bicycle": [
             "yes"
+        ],
+        "man_made": [
+            "pier"
         ],
         "maxspeed:forward": [
             "30"
@@ -3980,6 +3941,12 @@
         "parking:both:restriction": [
             "no_parking"
         ],
+        "conveying": [
+            "yes",
+            "forward",
+            "reversible",
+            "backward"
+        ],
         "int_name": [
             "stairway"
         ],
@@ -3987,9 +3954,16 @@
             "Plaza Cáceres del Cuartel General del Ejército",
             "Plaza Bolognesi del Cuartel General del Ejército"
         ],
+        "tidal": [
+            "yes"
+        ],
         "level:ref": [
             "Piso 2",
             "Piso 1"
+        ],
+        "short_name": [
+            "Km 37",
+            "Villa Estela"
         ],
         "alt_name:en": [
             "Moquewawa Street"
@@ -3997,17 +3971,57 @@
         "ramp:luggage": [
             "no"
         ],
+        "full_name": [
+            "Puente Mirador de la Integración Estela Montti"
+        ],
         "passenger_information_display": [
             "yes"
         ],
         "shoulder": [
             "no"
         ],
+        "line": [
+            "yes"
+        ],
+        "informal": [
+            "yes"
+        ],
+        "ford": [
+            "yes",
+            "ford",
+            "seasonal"
+        ],
+        "mtb:scale": [
+            "4",
+            "1",
+            "2"
+        ],
+        "sac_scale": [
+            "mountain_hiking",
+            "hiking"
+        ],
+        "leisure": [
+            "track"
+        ],
+        "sport": [
+            "running;cycling"
+        ],
+        "horse_scale": [
+            "difficult"
+        ],
+        "mtb:scale:uphill": [
+            "1",
+            "0"
+        ],
         "paving_stones:length": [
             "0.3"
         ],
         "paving_stones:shape": [
             "square"
+        ],
+        "destination:forward": [
+            "Lima;Pampa Pacta",
+            "Lima"
         ],
         "cycleway:left": [
             "track",
@@ -4022,6 +4036,12 @@
         "hide": [
             "steps"
         ],
+        "source:geometry": [
+            "Maxar Premium Imagery (Beta)"
+        ],
+        "parking:lane:right": [
+            "perpendicular"
+        ],
         "check_date:handrail": [
             "2023-03-08",
             "2026-10-05"
@@ -4030,13 +4050,14 @@
             "2026-04-14",
             "2026-09-17"
         ],
-        "short_name": [
-            "Km 37",
-            "Villa Estela",
-            "Psje. Santander"
-        ],
         "platform_lift": [
             "vertical"
+        ],
+        "waterway": [
+            "weir"
+        ],
+        "loc_name": [
+            "Puente Purina"
         ],
         "auto_rickshaw": [
             "yes"
@@ -4059,12 +4080,6 @@
             "1"
         ],
         "stroller": [
-            "yes"
-        ],
-        "man_made": [
-            "pier"
-        ],
-        "tidal": [
             "yes"
         ],
         "type": [
