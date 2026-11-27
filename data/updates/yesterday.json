@@ -1,1 +1,106 @@
-[]
+[
+    {
+        "id": 192501872,
+        "user": "ZagrosMountains",
+        "uid": 24779888,
+        "comment": "Modified the access tag of the service way near Avenida 200 Millas #adt",
+        "created_at": "2026-11-26T15:55:05Z",
+        "changeset_changes_count": 24,
+        "oswm_changes_count": 6,
+        "changes_count": 24,
+        "additions": 1,
+        "modifications": 5,
+        "deletions": 0
+    },
+    {
+        "id": 192500367,
+        "user": "HurdenShipCanal",
+        "uid": 21470692,
+        "comment": "Updated the geometry near Rua Paulo Jacinto #adt",
+        "created_at": "2026-11-26T15:17:57Z",
+        "changeset_changes_count": 607,
+        "oswm_changes_count": 5,
+        "changes_count": 607,
+        "additions": 2,
+        "modifications": 3,
+        "deletions": 0
+    },
+    {
+        "id": 192500391,
+        "user": "Moosymoosr",
+        "uid": 24443718,
+        "comment": "Specify path surfaces",
+        "created_at": "2026-11-26T15:18:40Z",
+        "changeset_changes_count": 4,
+        "oswm_changes_count": 4,
+        "changes_count": 4,
+        "additions": 0,
+        "modifications": 4,
+        "deletions": 0
+    },
+    {
+        "id": 192478142,
+        "user": "biomapin",
+        "uid": 3830572,
+        "comment": "greenery",
+        "created_at": "2026-11-26T03:51:59Z",
+        "changeset_changes_count": 78,
+        "oswm_changes_count": 3,
+        "changes_count": 78,
+        "additions": 0,
+        "modifications": 3,
+        "deletions": 0
+    },
+    {
+        "id": 192474846,
+        "user": "biomapin",
+        "uid": 3830572,
+        "comment": "added sidewalk and grass island",
+        "created_at": "2026-11-26T00:52:45Z",
+        "changeset_changes_count": 36,
+        "oswm_changes_count": 3,
+        "changes_count": 36,
+        "additions": 3,
+        "modifications": 0,
+        "deletions": 0
+    },
+    {
+        "id": 192478562,
+        "user": "El Surquillano",
+        "uid": 21360226,
+        "comment": "Actualización de nodos en Surquillo",
+        "created_at": "2026-11-26T04:17:39Z",
+        "changeset_changes_count": 192,
+        "oswm_changes_count": 2,
+        "changes_count": 192,
+        "additions": 2,
+        "modifications": 0,
+        "deletions": 0
+    },
+    {
+        "id": 192512174,
+        "user": "Ligia Batista",
+        "uid": 9478808,
+        "comment": "Mapeamento do Aterro Sanitário de Londrina.  #YouthMappers #YouthMappersUTFPRLondrina",
+        "created_at": "2026-11-26T20:36:12Z",
+        "changeset_changes_count": 17,
+        "oswm_changes_count": 1,
+        "changes_count": 17,
+        "additions": 0,
+        "modifications": 1,
+        "deletions": 0
+    },
+    {
+        "id": 192500403,
+        "user": "Moosymoosr",
+        "uid": 24443718,
+        "comment": "Determine the heights of kerbs",
+        "created_at": "2026-11-26T15:18:43Z",
+        "changeset_changes_count": 1,
+        "oswm_changes_count": 1,
+        "changes_count": 1,
+        "additions": 0,
+        "modifications": 1,
+        "deletions": 0
+    }
+]
